@@ -4,3 +4,5 @@ sentence-transformers
 faiss-cpu
 numpy
 gunicorn
+requests
+beautifulsoup4
