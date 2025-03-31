@@ -1,0 +1,4821 @@
+Connecticut Judicial Branch
+Law Libraries
+Copyright © 2000-2024, Judicial Branch, State of Connecticut. All rights reserved.
+2024 Edition
+Dissolution of Marriage in Connecticut
+A Guide to Resources in the Law Library
+Table of Contents
+Introduction .................................................................................................... 3
+Part A. Dissolution of Marriage –
+........................................................................ 5
+Section 1: Grounds for Dissolution of Marriage or Legal Separation ........................ 5
+Section 1.1: No Fault Grounds ........................................................................... 6
+Section 1.2: Fault Grounds .............................................................................. 12
+Table 1: Fault and Financial Awards ............................................................... 16
+Section 1.2a: Adultery .................................................................................... 17
+Section 1.2b: Fraudulent Contract .................................................................... 21
+Section 1.2c: Willful Desertion ......................................................................... 25
+Table 2: Constructive Desertion .................................................................... 29
+Section 1.2d: Seven Years’ Absence ................................................................. 30
+Section 1.2e: Habitual Intemperance ................................................................ 32
+Section 1.2f: Intolerable Cruelty ...................................................................... 36
+Section 1.2g: Imprisonment / Infamous Crime .................................................. 40
+Section 1.2h: Confinement / Mental Illness ....................................................... 43
+Section 1.3: Multiple Grounds .......................................................................... 45
+Section 1.4: Defenses ..................................................................................... 47
+Section 2: Procedures ..................................................................................... 51
+Table 3: Parenting Education Program ........................................................... 57
+Section 2.1: Jurisdiction .................................................................................. 60
+Table 4: Domicile ........................................................................................ 67
+Section 2.2: Process ....................................................................................... 68
+Section 2.3: Parties ........................................................................................ 72
+Section 3: Pleadings, Motions, and Forms .......................................................... 77
+Part B. Nonadversarial Dissolution of Marriage ................................................... 78
+Table 5: Excerpts from the Public Hearing Testimony of Conn. Public Act 17-47 .. 80
+Note: If you are looking for information about how to file for divorce, please see the
+Connecticut Judicial Branch web page on Divorce, Custody, and Visitation.
+Prepared by Connecticut Judicial Branch, Superior Court Operations,
+Judge Support Services, Law Library Services Unit
+lawlibrarians@jud.ct.govConnecticut Judicial Branch Family Forms & Information
+Divorce, Custody, and Visitation
+Information (CT Judicial Branch)
+The Pathways Process in Your Divorce,
+Custody or Visitation Case
+Responding to a Divorce
+Family Law Forms (Full List)
+Divorce Forms File for Custody or Visitation (or both)
+Divorce with an Agreement (or “waive 90”) File for a Motion for Modification
+Divorce without an Agreement File for a Motion for Contempt
+Nonadversarial (simplified or
+“non-ad”) Divorce
+File for a Restraining Order
+What to Expect on Your Resolution Plan
+Date (PDF)
+Family Publications (CT Judicial Branch)
+These guides are provided with the understanding that they represent only a
+beginning to research. It is the responsibility of the person doing legal research to
+come to his or her own conclusions about the authoritativeness, reliability, validity,
+and currency of any resource cited in this research guide.
+View our other research guides at
+https://jud.ct.gov/lawlib/selfguides.htm
+This guide links to advance release opinions on the Connecticut Judicial Branch website
+and to case law hosted on Google Scholar and Harvard’s Case Law Access Project.
+The online versions are for informational purposes only.
+References to online legal research databases refer to in-library use of these databases.
+Remote access is not available.
+Connecticut Judicial Branch Website Policies and Disclaimers
+https://www.jud.ct.gov/policies.htm
+Dissolution of Marriage - 2Introduction
+A Guide to Resources in the Law Library
+Part A. Dissolution of Marriages
+• “By contrast, ‘[t]he purpose of a dissolution action is to sever the marital
+relationship, to fix the rights of the parties with respect to alimony and child
+support…to divide the marital estate…and to consider custody issues.’
+. . .
+Bouchard v. Sundberg, 80 Conn. App, 180, 189, 834 A.2d 744 (2003).”
+Kimberly C. v. Anthony C., 179 Conn. App. 856, 863, 179 A.3d 856 (2018).
+•
+“‘A dissolution of a marriage is essentially an equitable action.’ Id., 302
+[Gaudio v. Gaudio, 23 Conn. App. 287, 301, 580 A.2d 1212, cert. denied, 217
+Conn. 803, 584 A.2d 471 (1990)]. Here, because the plaintiff’s cause of
+action sought only a dissolution of her marriage, together with alimony and
+an equitable division of property, her cause of action is essentially equitable,
+for which the defendant has no right to a trial by jury.” Emerick v. Emerick,
+170 Conn. App. 368, 386, 154 A.3d 1069 (2017).
+• “The trial court found that the plaintiff’s transactions violated those
+[automatic] orders but did not hold the plaintiff in contempt because the
+court concluded the violations were not wilful. Nevertheless, because the
+transactions had caused a significant loss to the marital estate, the court
+considered that loss when it distributed the marital property between the
+parties, awarding a greater than even distribution to the defendant.”
+O’Brien v. O’Brien, 326 Conn. 81, 85, 161 A.3d 1236 (2017).
+• “A marriage is dissolved only by (1) the death of one of the parties or (2) a
+decree of annulment or dissolution of marriage by a court of competent
+jurisdiction.” Conn. Gen. Stat. § 46b-40(a) (2023)
+• “We recognize that an annulment and a dissolution of marriage differ
+fundamentally. An annulment renders the marriage void ab initio [from the
+beginning] while a dissolution is based upon a valid marriage which
+terminates as of the date of the judgment of dissolution.” Durham v. Miceli,
+15 Conn. App. 96, 543 A.2d 286 (1988).
+• “‘Marriage’ means the legal union of two persons.” Conn. Gen. Stat. § 46b-
+20(4) (2023)
+• Proceeding to judgment on case management date when defendant
+has not appeared.
+“If the defendant has not filed an appearance by the case management date,
+the plaintiff may appear and proceed to judgment on the case management
+date without further notice to the defendant, provided the plaintiff has
+complied with the provisions of Section 25-30.” Connecticut Practice Book §
+25-50(c) (2024).
+• Waiver of Service of Process
+“Any person entitled to service of process of a summons and complaint that
+commences an action for an annulment, a dissolution of marriage, a
+dissolution of a civil union or a legal separation may waive such service by (1)
+executing a written waiver of service on a form prescribed by the Office of the
+Chief Court Administrator, and (2) filing an appearance with the court. Upon
+filing of both the waiver of service and the appearance of the person waivingDissolution of Marriage - 3such service, the action shall proceed as consistent with the provisions of this
+chapter.” Conn. Gen. Stat. 46b-45(b) (2023)
+Form JD-FM-249. Certification of Waiver of Service of Process- Divorce,
+Legal Separation, Annulment
+Part B. Nonadversarial Dissolution of Marriages
+• “Two years ago, I came before this Committee and asked for your support of
+a similarly titled bill that established a simplified dissolution of marriage for
+parties who agreed to the dissolution and who met certain criteria, as well as
+allowed other parties with an agreement to obtain a divorce in nearly a
+quarter of the time that it would ordinarily require. Thanks to your leadership
+on the issue, the bill passed, and as a result, one in six of all dissolutions
+subsequently filed have taken advantage of this new law, resulting in
+thousands of litigants moving on with their lives more quickly, and without
+the time and expense of numerous court hearings.”
+Substitute H.B. 7196. 2017 Sess., Judiciary Committee Public Hearing, March
+6, 2017, Testimony of the Honorable Elizabeth A. Bozzuto, Chief
+Administrative Judge for Family Matters—State of Connecticut Judicial Branch.
+• “This act creates an expedited court process that allows a judge to enter a
+divorce decree without a hearing for certain nonadversarial divorce
+actions. Among other things, it:
+1. allows parties to a marriage to file a notarized joint petition to begin
+the divorce process if, among other things, (a) they have not been
+married for more than eight years [now nine years], (b) they have no
+children or real property, (c) at least one party is a Connecticut
+resident, (d) the total combined net fair market value of all property
+owned by either party is less than $35,000 [now $80,000], and (e)
+neither party has a defined benefit pension plan;”
+Summary for Public Act No. 15-7 (Effective October 1, 2015)
+“This act makes changes in the conditions for nonadversarial divorce actions.
+In so doing, it extends this divorce option to certain parties who (1) have been
+married for nine years or less instead of eight years or less and (2) own
+property with a total combined net fair market value less than $80,000 instead
+of less than $35,000. The law limits this divorce option to parties who do not
+have a defined benefit pension plan. The act defines a ‘defined benefit pension
+plan’ expressly for the purpose of nonadversarial divorce actions. Additionally,
+under the act, if a judge terminates a nonadversarial divorce action and places
+the matter on the Superior Court's regular family docket, the parties do not
+have to pay any new filing fees, file a complaint, or serve process.” Summary
+for Public Act 17-47 (Effective October 1, 2017).
+Dissolution of Marriage - 4Part A. Dissolution of Marriage –
+Section 1: Grounds for Dissolution of Marriage
+or Legal Separation
+A Guide to Resources in the Law Library
+• “A decree of dissolution of a marriage or a decree of legal separation shall be
+granted upon a finding that one of the following causes has occurred:
+(1) The marriage has broken down irretrievably;
+(2) the parties have lived apart by reason of incompatibility for a continuous
+period of at least the eighteen months immediately prior to the service of
+the complaint and that there is no reasonable prospect that they will be
+reconciled;
+(3) adultery;
+(4) fraudulent contract;
+(5) willful desertion for one year with total neglect of duty;
+(6) seven years’ absence, during all of which period the absent party has not
+been heard from;
+(7) habitual intemperance;
+(8) intolerable cruelty;
+(9) sentence to imprisonment for life or the commission of any infamous
+crime involving a violation of conjugal duty and punishable by
+imprisonment for a period in excess of one year;
+(10) legal confinement in a hospital or hospitals or other similar institution or
+institutions, because of mental illness, for at least an accumulated period
+totaling five years within the period of six years next preceding the date of
+the complaint.” Conn. Gen. Stat. § 46b-40(c) (2023)
+Dissolution of Marriage - 5Section 1.1: No Fault Grounds
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Bibliographic resources relating to a no fault dissolution of
+marriage (divorce) commenced after October 1, 1997.
+• No fault divorce: “A decree of dissolution of a marriage .
+. . shall be granted upon a finding that one of the following
+causes has occurred: (1) the marriage has broken down
+irretrievably; (2) the parties have lived apart by reason of
+incompatibility for a continuous period of at least the
+eighteen months immediately prior to the service of the
+complaint and that there is no reasonable prospect that
+they will be reconciled . . . .” Conn. Gen. Stat. § 46b-40(c)
+(2023)
+• “The determination of whether a breakdown of a marriage
+is irretrievable is a question of fact to be determined by the
+trial court.” Eversman v. Eversman, 4 Conn. App. 611,
+614, 496 A.2d 210 (1985).
+• “The absence of objective guidelines does not mean an
+abdication of judicial function, nor does it signal, as the
+defendant argues, that a court determining whether a
+marriage has in fact irretrievably broken down is acting
+purely ministerially or is granting a divorce ‘upon demand.’
+It does, however, sustain the trial court’s conclusion that
+the defendant’s decision to rearrange his business ventures
+after the initiation of divorce proceedings does not
+necessarily repair the rupture in the marital relationship
+that had previously occurred.” Joy v. Joy, 178 Conn. 254,
+255-256, 423 A.2d 895 (1979).
+STATUTES: • Conn. Gen. Stat. (2023)
+Chapter 815j. Dissolution of Marriage, Legal Separation
+and Annulment
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+§ 46b-51. Stipulation of parties and finding of
+irretrievable breakdown.
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+Dissolution of Marriage - 6
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.CASES: Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• Nietupski v. Del Castillo, 196 Conn. App. 31, 38-39, 228 A.
+3d 1053 (2020). “‘…[Section] 46b-40(c)(1) is a valid and
+neutral law of general applicability. The statute does not in
+any manner infringe on the defendant's right to exercise his
+religious beliefs merely because it permits the plaintiff to
+obtain a divorce from him against his wishes.’”
+• Kimberly C. v. Anthony C., 179 Conn. App. 856, 860, 182
+A.3d 106 (2018). “The plaintiff testified that the defendant
+had physically, verbally, and sexually abused her during
+the course of the marriage. The defendant denied all
+allegations of abuse….the court issued its written
+memorandum for decision, in which it found that neither
+the plaintiff nor defendant were credible witnesses and
+made no finding that the defendant had abused the
+plaintiff. The court found both parties responsible for the
+breakdown of the marriage.”
+• Joseph v. Glasgow, Superior Court, Judicial District of
+Danbury at Danbury, No. DBD-FA-175010651-S (Jan. 25,
+2018) (2018 WL 1137537) (2018 Conn. Super. LEXIS
+200). “There are ten possible grounds for the granting of
+a dissolution of marriage in Connecticut. Those grounds are
+listed by General Statutes § 46b–40(c). The ‘no-fault
+divorce’ ground is set forth in § 46b–40(c)(1): The
+marriage has broken down irretrievably. The word
+‘irretrievably’ is not defined in the statute. The Connecticut
+Supreme Court has consistently declined to impose
+guidelines for an inquiry into ‘irretrievability’ because of the
+recognition that such an inquiry by the trial court is
+necessarily individualized and particularized for each case.
+Joy v. Joy, 178 Conn. 254, 255, 423 A.2d 895 (1979). The
+complaint in this matter relies upon irretrievable
+breakdown as the sole ground for dissolving the parties'
+marriage. ‘The determination of whether a breakdown of a
+marriage is irretrievable is a question of fact to be
+determined by the trial court.’ Eversman v. Eversman, 4
+Conn. App. 611, 614, 496 A.2d 210 (1985), cert. denied
+197 Conn. 806, 499 A.2d 57 (1985). ‘Since it is the
+marriage as a whole which is at issue, any evidence which
+bears upon the viability of the marriage is admissible,
+whether it be classified as objective or subjective.’ Id.
+(Internal quotation marks omitted.)”
+---
+“The plaintiff was, however, unwilling to testify that the
+marriage had broken down irretrievably….Near the end of
+the trial, the court told the parties the court was doubtful
+as to the irretrievable breakdown of the marriage. The
+court invited either party to provide additional testimony
+specifically as to the issue of the irretrievability of the
+marital breakdown. The plaintiff chose to remain silent.
+Dissolution of Marriage - 7Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+…When the court invited each party to speak to the
+question of irretrievability near the end of the trial, the
+defendant stated: ‘I do not wish to remain married.’ He
+avoided speaking to the question of irretrievability. In light
+of the parties' testimony and the reluctance of both to
+assert the marriage cannot be saved, the court cannot find
+the parties' marriage has broken irretrievably.
+”
+---
+“The marriage of the parties is not dissolved. They are not
+declared to be single and unmarried. This case is
+dismissed.”
+• Barcelo v. Barcelo, 158 Conn. App. 201, 205-206, 118
+A.3d 657 (2015). “Ultimately, all things considered…the
+cause of the breakdown of the parties’ marriage was their
+irreconcilable differences stemming from their respective
+extramarital affair(s) and their difficulty in being intimate
+with each other.”
+• Brody v. Brody, 315 Conn. 300, 307, 105 A.3d 887 (2015).
+“In a second passage, the trial court stated that ‘[t]he
+marriage between the parties has broken down
+irretrievably, in large part because of the defendant’s
+dishonesty, probable infidelity and his increasingly abusive
+behavior towards the plaintiff.’ Later, in a third passage,
+the trial court ‘[found] that the defendant [was]
+responsible for the breakdown of the marriage for conduct
+described herein.’”
+• Embriano v. Embriano, Superior Court, Judicial District of
+Hartford at Hartford, No. FA06-4023849-S (Mar. 24, 2008)
+(2008 WL 962887) (2008 Conn. Super. LEXIS 704). “By
+complaint dated June 5, 2006, the plaintiff-husband
+commenced this action seeking a dissolution of marriage
+on the grounds of irretrievable breakdown and other
+relief.”
+---
+“The court has considered all of the factors set out in
+Connecticut General Statutes Sections 46b-81, 46b-82,
+46b-62 and other pertinent statutes, earnings and earning
+capacity differentials, causes for the breakdown of the
+marriage and the consequences of the financial orders set
+forth below.”
+• Evans v. Taylor, 67 Conn. App. 108, 115, 786 A.2d 525
+(2001). “On the basis of the record, we conclude that the
+court could reasonably have found that the defendant had
+failed to establish her claim of intolerable cruelty, and
+therefore it was not clearly erroneous for the court to
+reject intolerable cruelty as a ground for dissolution and
+Dissolution of Marriage - 8Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+instead grant the dissolution of the marriage on the ground
+of irretrievable breakdown.”
+• Eversman v. Eversman, 4 Conn. App. 611, 614, 496 A.2d
+210 (1985). “The determination of whether a breakdown of
+a marriage is irretrievable is a question of fact to be
+determined by the trial court . . . . The fact that the
+defendant maintains hope for reconciliation will not support
+a finding that there are prospects for a reconciliation. . . .
+A difference, to be irreconcilable, need not necessarily be
+so viewed by both parties.”
+• Sweet v. Sweet, 190 Conn. 657, 659-660, 462 A.2d 1031
+(1983). “Section 46b-51 allows the court to avoid
+specifying fault for the breakdown of the marriage and
+allows the parties to avoid calling friends or relatives to
+testify as to the reasons for the breakdown. Under the
+appropriate circumstances the record need not contain
+information which would invade the privacy of the parties
+and their families. The statute offers the parties an
+opportunity to keep their conduct from being heard by the
+public or discovered in the future by their children.”
+• Posada v. Posada, 179 Conn. 568, 572, 427 A.2d 406
+(1980). “No-fault divorce does not mean that the causes of
+a marital breakup are always irrelevant, but it does mean
+that determining cause is not crucial to the judicial
+administration of matrimonial matters.”
+• Gluck v. Gluck, 181 Conn. 225, 227, 435 A.2d 35 (1980).
+“Next, the defendant asserts that General Statutes 46b-
+40(c), to the extent that it authorizes the dissolution of a
+marriage if the marriage has broken down irretrievably, is
+vague, nullifies the other grounds for dissolution, prevents
+defenses and impairs the obligation of contracts, all in
+violation of constitutional strictures. The vagueness issue
+was resolved in Joy v. Joy, 178 Conn. 254, 255-56, 423
+A.2d 895 (1979); what was said there need not be
+repeated here. The gravamen of the unparticularized claim
+that irretrievable breakdown nullifies the other grounds for
+dissolution set forth in 46b-40(c) and prevents defenses
+appears to be that the legislature has sanctioned divorce
+on demand. This claim too was rejected in Joy v. Joy,
+supra. The notion that allowing marital dissolutions based
+on irretrievable breakdown impairs the obligation of
+contracts within the meaning of article one, § 10 of the
+United States constitution is bankrupt. Marriage is not a
+contract within the meaning of this clause of the
+constitution. Maynard v. Hill, 125 U.S. 190, 210, 8 S.Ct.
+723, 31 L.Ed. 654 (1888).”
+• Joy v. Joy, 178 Conn. 254, 423 A.2d 895 (1979). “The
+main issue on this appeal is the constitutionality of General
+Statutes §46-32 (Rev. to 1977) (now § 46b-40) insofar as
+it authorizes, in subsection (c), a decree of dissolution of
+Dissolution of Marriage - 9Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+WEST KEY
+NUMBERS:
+DIGESTS: ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+marriage ‘upon a finding that ... [a] marriage has broken
+down irretrievably.’” (p. 255)
+“The defendant claims that § 46-32(c) is unconstitutional
+unless this court imposes judicial standards or guidelines to
+limit discretionary fact-finding by the trial courts of this
+state. We disagree. At least since Maynard v. Hill, 125 U.S.
+190, 210-14, 8 S.Ct. 723, 31 L.Ed. 654 (1888), it has been
+clear that the legislature has plenary power to determine
+the circumstances under which a marital relationship is
+created and terminated . . . . The legislature could
+rationally conclude that public policy requires an
+accommodation to the unfortunate reality that a marital
+relationship may terminate in fact without regard to the
+fault of either marital partner, and that such a relationship
+should therefore be dissoluble in law upon a judicial
+determination of irretrievable breakdown. Courts in other
+jurisdictions with similar statutes have unanimously upheld
+the constitutionality of no-fault divorce.” (p. 256)
+• Divorce
+II. Grounds
+#12. Causes for divorce in general
+#34. Inability to live together
+#36. Voluntary separation
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.01 Grounds for dissolution—No fault
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+12. Causes for divorce in general
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+2. No-Fault Grounds; Breakdown of Marriage
+§§ 22-24
+3. Voluntary Separation
+§§ 25-33
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+A. In General
+§§ 27. Elimination of Fault as Necessary for Divorce
+B. No-Fault Divorce
+1. Irretievable Breakdown of Marriage;
+Irreconcilable Differences; Incompatibility
+§§ 28-32
+Dissolution of Marriage - 10TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+2. Separation or Living Apart
+§§ 33-38
+• 55 ALR 3d 581, Validity, Construction, and Effect of “No-
+Fault” Divorce Statute Providing for Dissolution of Marriage
+Upon Finding that Relationship is No Longer Viable, by Jack
+W. Shaw, Jr., J.D., Thomson West, 1974 (also available on
+Westlaw).
+• 19 POF 2d 221, Dissolution of Marriage on Statutory
+Ground of Incompatibility, by James L. Rigelhaupt, Jr.,
+J.D., Thomson West, 1979 (also available on Westlaw).
+ALR INDEX: • Divorce and Separation
+Incompatability
+• No-Fault Divorce
+TEXTS &
+• A Practical Guide to Divorce in Connecticut, Hon. Barry F.
+Armata and Campbell D. Barrett, editors, Massachusetts
+Continuing Legal Education, 2013, with 2018 supplement.
+• Divorce in Connecticut: The Legal Process, Your Rights, and
+What to Expect, by Renee C. Bauer, Addicus Books, 2014.
+1.3 Is Connecticut a “no-fault” state or do I need
+grounds for a divorce?
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.1 Basis for divorce established by statute
+§ 15.2 Breakdown of marriage relationship
+§ 15.3 Constitutionality of no-fault law
+§ 15.4 Other grounds for dissolution
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.05 Pleading Irretrievable Breakdown
+• Robert M. McAnernery and Samuel V. Schoonmaker, III,
+Connecticut’s New Approach To Marriage Dissolution, 47
+Connecticut Bar Journal 375 (1973).
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+LAW REVIEWS: Public access to law
+review databases is
+available on-site at
+each of our law
+libraries.
+Dissolution of Marriage - 11Section 1.2: Fault Grounds
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Bibliographic resources relating to dissolution of marriage
+(divorce) based upon fault grounds.
+• Fault grounds: “A decree of dissolution of a marriage . .
+. shall be granted upon a finding that one of the following
+causes has occurred. . .(3) adultery; (4) fraudulent
+contract; (5) wilful desertion for one year with total neglect
+of duty; (6) seven years’ absence, during all of which
+period the absent party has not been heard from; (7)
+habitual intemperance; (8) intolerable cruelty; (9)
+sentence to imprisonment for life or the commission of any
+infamous crime involving a violation of conjugal duty and
+punishable by imprisonment for a period in excess of one
+year; (10) legal confinement in a hospital or hospitals or
+other similar institution or institutions, because of mental
+illness, for at least an accumulated period totaling five
+years within the period of six years next preceding the
+date of the complaint.” Conn. Gen. Stat. § 46b-40(c)
+(2023)
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Al-Fikey v. Obaiah, 196 Conn. App. 13, 19, 228 A.3d 668
+CASE LAW: (2020). “The defendant first claims that the trial court
+Once you have
+identified useful
+cases, it is important
+to update them to
+ensure they are still
+good law. You can
+contact your local
+law librarian to learn
+erroneously concluded that he was at fault for the
+breakdown of the marriage. We disagree. A trial court's
+finding of fault in a dissolution action is reviewed under a
+clearly erroneous standard. See Emerick v. Emerick, supra,
+170 Conn. App. 383 n.11; see also Jewett v. Jewett, 265
+Conn. 669, 692-93, 830 A.2d 193 (2003). Our review of
+about updating
+cases.
+the extensive record before the trial court reveals that
+there was sufficient evidence to support its finding that the
+defendant was at fault for the irretrievable breakdown of
+Dissolution of Marriage - 12the marriage. For example, in the summer of 2009, the
+defendant abruptly left the marital home with little
+Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+explanation and moved to Canada to live with his mother.
+He ultimately returned to the United States, but lived
+separately from the plaintiff and their children. The court's
+finding of fault was not clearly erroneous.”
+learn about the tools
+available to you to
+update cases.
+• Brody v. Brody, 315 Conn. 300, 308, 105 A.3d 887 (2015).
+“We agree with the plaintiff's broader view of the trial
+court's judgment—namely, that it actually dissolved this
+marriage due to irreconcilable differences, fueled in large
+part by the defendant's persistent lack of trustworthiness .
+”
+. .
+WEST KEY
+NUMBERS:
+• Turgeon v. Turgeon, 190 Conn. 269, 278, 460 A.2d 1260
+(1983). “Although, because of their clandestine nature,
+adulterous acts are usually proved by circumstantial
+evidence . . . the circumstances must be such as to lead
+the guarded discretion of a reasonable and just person to
+the conclusion of guilt . . . . The adulterous relationship
+must be established by a fair preponderance of the
+evidence.”
+• Posada v. Posada, 179 Conn. 568, 573, 427 A.2d 406
+(1980). “In the text of the statutes, the criteria relating to
+the ‘the causes for the . . . dissolution of marriage’ is only
+one item in an extensive list of criteria that the trial court
+is directed to take into account.”
+• Alden v. Alden, 21 Conn. Supp. 301, 304, 154 A.2d 522
+(1959). “The desertion for three years which constitutes a
+ground for divorce under our statute involves the
+coexistence of the following four conditions: (1) cessation
+from cohabitation, (2) an intention on the part of the
+absenting party not to resume it, (3) the absence of the
+other party’s consent, and (4) the absence of justification.”
+• Vendetto v. Vendetto, 115 Conn. 303, 305, 161 A. 392
+(1932). “The plaintiff’s ground of divorce was the fraud of
+the defendant in entering into the marriage contract
+knowing her epileptic condition, and yet, in order to induce
+marriage, concealing the fact from the plaintiff.”
+• Kinsley v. Kinsley, 110 Conn. 695, 695-696, 147 A. 907
+(1929). “The cumulative effect of the defendant’s acts and
+conduct as recited in the report of the committee may well
+have been held to have been so cruel as to have destroyed
+the public and personal objects of matrimony, past
+rehabilitation, and rendered a continuance of the marriage
+relation unbearable—beyond reasonable endurance—and
+therefore intolerable within the meaning we have given it
+in the ground for divorce, ‘intolerable cruelty.’”
+• Divorce
+II. Grounds
+Dissolution of Marriage - 13DIGESTS: ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+#12-#38. Causes for divorce in general
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.02 Fault and cause of breakdown
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+## 12-38
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+§§ 34-106. Fault Grounds
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+C. Cruelty
+§§ 39-64
+D. Desertion or Abandonment
+§§ 65-78
+E. Personal Indignities
+§§ 79-86
+F. Other Particular Grounds
+§§ 87-99
+• A Practical Guide to Divorce in Connecticut, Hon. Barry F.
+Armata and Campbell D. Barrett, editors, Massachusetts
+Continuing Legal Education, 2013, with 2018 supplement.
+• Divorce in Connecticut: The Legal Process, Your Rights, and
+What to Expect, by Renee C. Bauer, Addicus Books, 2014.
+1.3 Is Connecticut a “no-fault” state or do I need grounds
+for a divorce?
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.1 Basis for divorce established by statute
+§ 15.2 Breakdown of marriage relationship
+§ 15.5 Separation for 18 months
+§ 15.6 Adultery
+§ 15.7. Fraudulent contract
+§ 15.8. Willful desertion for one year
+§ 15.9. Continuous absence for seven years
+§ 15.10. Habitual intemperance
+§ 15.11. Intolerable cruelty
+Dissolution of Marriage - 14You can contact us
+or visit our catalog
+to determine which
+of our law libraries
+own the treatises
+cited.
+References to online
+databases refer to
+in-library use of
+these databases.
+§ 15.12. Imprisonment; life sentence or commission of
+infamous crime
+§ 15.13. Five-year confinement for mental illness
+§ 15.14. Defenses
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+Dissolution of Marriage - 15Table 1: Fault and Financial Awards
+Fault and Financial Awards
+Assignment
+of property
+“As we stated in Christoni v. Christoni, 156 Conn. 628, 629, 239
+A.2d 533, on the issue of choosing between alternative grounds for
+granting a divorce: ‘Where more than one ground for a divorce is
+claimed and one alleged ground is proved, it is immaterial whether
+or not the additional statutory ground or grounds may also exist.’
+The fault of a party in causing a marital dissolution is material,
+however, to the issue of an assignment of property ancillary to the
+marital dissolution.” Hollingsworth v. Hollingsworth, 180 Conn. 212,
+214 fn. 2, 429 A.2d 463 (1980).
+Irretrievable
+breakdown
+“The contention of the defendant, therefore, that a determination of
+irretrievable breakdown precludes the court from considering the
+causes of the dissolution in making financial awards is erroneous.”
+Sweet v. Sweet, 190 Conn. 657, 660, 462 A.2d 1031 (1983).
+Factors “In the text of the statutes, the criterion relating to the ‘the causes
+for the . . . dissolution of marriage’ is only one item in an extensive
+list of criteria that the trial court is directed to take into account.”
+Posada v. Posada, 179 Conn. 568, 573, 427 A.2d 406 (1980).
+Contribution “We disagree with the plaintiff’s claim that the trial court, in making
+its award of alimony and its assignment of property, gave inordinate
+weight to the cause of the breakdown. There is no provision in the
+governing statutes requiring that awards of alimony be distributed
+equally between the parties . . . . The trial court structured the
+division of property in a way which returned to the defendant his
+contribution to the marriage.” Carter v. Carter, 8 Conn. App. 356,
+359, 512 A.2d 979 (1986).
+Misconduct “While alimony, in whatever form, or an assignment of property is
+not to be considered either as a reward for virtue or as a
+punishment for wrongdoing, a spouse whose conduct has
+contributed substantially to the breakdown of the marriage should
+not expect to receive financial kudos for his or her misconduct.
+Moreover, in considering the gravity of such misconduct it is entirely
+proper for the court to assess the impact of the errant spouse’s
+conduct on the other spouse. Because in making its assignment of
+property the trial court had a reasonable basis for its disposition we
+see no reason for disturbing the result.” Robinson v. Robinson, 187
+Conn. 70, 72, 444 A.2d 234 (1982).
+Once you have identified useful cases, it is important to update the cases before you rely on them.
+Updating case law means checking to see if the cases are still good law. You can contact your local law
+librarian to learn about the tools available to you to update cases.
+Dissolution of Marriage - 16Section 1.2a: Adultery
+SCOPE: A Guide to Resources in the Law Library
+• Bibliographic resources relating to dissolution of marriage
+(divorce) based upon the grounds of adultery.
+DEFINITIONS: • Adultery “means voluntary sexual intercourse between a
+married person and a person other than such person’s
+spouse.” Conn. Gen. Stat. § 46b-40(f) (2023)
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+(c) “A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred . . . (3) adultery . . . .”
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Brody v. Brody, 315 Conn. 300, 105 A.3d 887 (2015).
+“Upon closer examination, we are unpersuaded by the
+defendant’s argument that the four relevant passages from
+the trial court’s memorandum of decision show it made a
+conclusive finding of infidelity which, in turn, affected its
+alimony award.” (p. 308)
+“Upon a full review of the memorandum, the fleeting
+mentions of infidelity are eclipsed by the trial court’s flood
+of findings that the defendant acted dishonestly….This
+rampant dishonesty was identified by the trial court as a
+driving cause of the marital breakdown….Indeed, the trial
+court expressly dissolved the marriage because it had
+broken down irretrievably, and not because of adultery.”
+(p. 310)
+• Olson v. Olson, Superior Court, Judicial District of Hartford,
+No. FA09-4044103 (Oct. 22, 2010) (2010 WL 4517444)
+(2010 Conn. Super. LEXIS 2700). “Beginning with the
+question of whether adultery is the cause of the marital
+breakdown, the court concludes from the evidence
+presented at trial that sexual relations between the
+defendant and Ms. Jenkins did not occur until several
+months after the plaintiff filed this action for the dissolution
+of her marriage. Therefore, the court finds that ‘adultery’
+Dissolution of Marriage - 17
+learn about the tools
+available to you to
+update cases.Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+as defined by our dissolution statutes did not occur until
+after the breakdown of the marriage. Although adultery
+was not pleaded as the grounds for dissolution in this case,
+the causes for the breakdown of the marriage are properly
+considered by courts in the context of an allegation and
+finding of irretrievable breakdown and may be considered
+in the courts’ equitable division of marital assets.
+Therefore, in determining the causes of the breakdown of a
+marriage, the court is not limited to proof by a
+preponderance of evidence of the statutory causes of
+action for dissolution, enumerated in General Statutes §
+46b-40, such as proof of sexual intercourse.”
+• Turgeon v. Turgeon, 190 Conn. 269, 278, 460 A.2d 1260
+(1983). “Adultery as a ground for dissolution under
+General Statutes § 46b-40 requires proof that the other
+spouse has engaged in extramarital sexual relations.
+Brodsky v. Brodsky, 153 Conn. 299, 300, 216 A.2d 180
+(1966). Although, because of their clandestine nature,
+adulterous acts are usually proved by circumstantial
+evidence; Zeiner v. Zeiner, 120 Conn. 161, 165, 179 A.
+644 (1935); the circumstances must be such as to lead the
+guarded discretion of a reasonable and just person to the
+conclusion of guilt. Brodsky v. Brodsky, supra,
+301; Zeiner v. Zeiner, supra; Neff v. Neff, 96 Conn. 273,
+275, 114 A. 126 (1921). The adulterous relationship must
+be established by a fair preponderance of the evidence.
+Brodsky v. Brodsky, supra, 301.
+‘[I]n weighing the
+evidence of adultery, the court should exercise great care
+to see that it is not imposed upon through the intense
+interest of the parties to color the facts; it should not see
+evil where the circumstances may reasonably lend
+themselves to an innocent interpretation, nor, on the other
+hand, should it refuse to reach that conclusion which the
+sound and unprejudiced judgment should lead
+to.’ Neff v. Neff, supra, 276. Adultery will not be inferred
+from circumstantial evidence unless there is both an
+opportunity and an adulterous disposition.
+Eberhard v. Eberhard, 4 N.J. 535, 73 A.2d 554 (1950); 24
+Am. Jur. 2d, Divorce and Separation § 393; Clark,
+Domestic Relations § 12.3, p. 330. Moreover, the existence
+of both the opportunity and the inclination without more
+does not necessarily compel a conclusion that adultery has
+occurred. See Antonata v. Antonata, 85 Conn. 390, 393,
+82 A. 967 (1912).”
+• Beede v. Beede, 186 Conn. 191, 196, 440 A.2d 283
+(1982). “There is nothing in the record to support the
+defendant’s claim that the court acted punitively in making
+its award by focusing on the defendant’s adultery as the
+cause of the dissolution.”
+• Brodsky v. Brodsky, 153 Conn. 299, 300, 216 A.2d 180
+(1966). “Adultery, as a ground for divorce or legal
+separation under General Statutes §§ 46-13 or 46-29,
+requires proof that the other spouse has engaged in
+Dissolution of Marriage - 18Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:
+DIGESTS: extramarital sexual relations. 27A C.J.S., Divorce, § 21; 17
+Am.Jur., Divorce and Separation, § 34; see Schilcher v.
+Schilcher, 124 Conn. 445, 200 A. 351; Torlonia v. Torlonia,
+108 Conn. 292, 302, 142 A. 843; Dennis v. Dennis, 68
+Conn. 186, 195, 36 A. 34; Trubee v. Trubee, 41 Conn. 36,
+40. A principal claim of error in the present case is that the
+plaintiff failed to prove that the defendant committed
+adultery with Barbara Jean Miles. Although the proof will be
+circumstantial in nearly every case, the plaintiff must
+nonetheless prove the adulterous relationship by a fair
+preponderance of the evidence. Zeiner v. Zeiner, 120
+Conn. 161, 165, 179 A. 644. The circumstances must be
+such as to lead the guarded discretion of a reasonable and
+just man to the conclusion of guilt. Neff v. Neff, 96 Conn.
+273, 275, 114 A. 126.”
+• Neff v. Neff, 96 Conn. 273, 276, 114 A. 126 (1921). “…in
+weighing the evidence of adultery, the court should
+exercise great care to see that it is not imposed upon
+through the intense interest of the parties to color the
+facts; it should not see evil where the circumstances may
+reasonably lend themselves to an innocent interpretation,
+nor, on the other hand, should it refuse to reach that
+conclusion which the sound and unprejudiced judgment
+should lead to.”
+• Divorce
+II. Grounds
+#26. Adultery
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.02 Fault and cause of breakdown
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+26. Adultery
+IV. Proceedings
+J. Evidence
+2. Admissibility
+115. Adultery
+3. Weight and Sufficiency
+129. Adultery
+(1) Degree of proof
+(2) Certainty and definiteness of evidence
+as to time and place
+(5) Credibility of witnesses testifying to acts
+of adultery
+(9) Circumstantial evidence
+(16) Suspicious and incriminating
+circumstances conjunctively proving offense
+Dissolution of Marriage - 19ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+LAW REVIEWS: • 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+4. Cruelty
+d. Adultery as Constituting Cruelty
+§ 45. Adultery constituting cruelty as ground
+for divorce, generally
+§ 46. Accusations of adultery or infidelity
+constituting cruelty as ground for divorce
+5. Adultery
+§ 56. Adultery as ground for divorce,
+Generally
+§ 57. Requirement of intent
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+F. Other Particular Grounds
+§ 87. Adultery
+• 49 POF 3d 277 Proof of Adultery as Grounds for Dissolution
+of Marriage, Thomson West, 1998 (Also available on
+Westlaw).
+• A Practical Guide to Divorce in Connecticut, Hon. Barry F.
+Armata and Campbell D. Barrett, editors, Massachusetts
+Continuing Legal Education, 2013, with 2018 supplement.
+• Divorce in Connecticut: The Legal Process, Your Rights,
+and What to Expect, by Renee C. Bauer, Addicus Books,
+2014.
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.6. Adultery
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.07. Defining Adultery
+• Victor M. Gordon, Adultery As A Ground For Divorce In
+Connecticut, 23 Connecticut Bar Journal 315 (1949).
+Public access to law
+review databases is
+available on-site at
+each of our law
+libraries.
+Dissolution of Marriage - 20Section 1.2b: Fraudulent Contract
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon the grounds of fraudulent
+contract.
+• Fraudulent contract: “There must be a deception in
+respect to some fact whose existence or nonexistence may
+affect in some certain way the very essence of the
+marriage relation, resulting in a lawful marriage which
+practically operates as a fraud upon the deceived spouse;
+and the existence or nonexistence of the fact thus
+concealed or misrepresented must operate, as between
+parties to the marriage, to prevent some essential purpose
+of marriage and work a practical destruction of that
+relation.” Gould v. Gould, 78 Conn. 242, 261, 61 A. 604
+(1905).
+• “All the grounds of divorce specified, except fraudulent
+contract, are of such a nature that they can come into
+existence only after the marriage. While fraudulent conduct
+of a certain kind will render a marriage voidable, such
+fraud differs from that which vitiates ordinary contracts in
+that the party defrauded may not at his own election avoid
+the marriage, but it is held to be voidable only by a decree
+of the court.” Davis v. Davis, 119 Conn. 194, 196, 175 A.
+574 (1934).
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+“A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred . . . (4) fraudulent contract . . . .”
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Ngo v. Lee, Superior Court, Judicial District of Hartford at
+Hartford, No. HHD-FA16-6064836-S (Nov. 21, 2016) (2016
+WL 7444006) (2016 Conn. Super. LEXIS 2881) “‘Fraud, to
+vitiate a marriage contract, must relate to the very essence
+of the marriage relation. . . A misrepresentation, made
+through honest error and with a bona fide belief in its
+Dissolution of Marriage - 21
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+truth, is not fraudulent. This is obviously so, when the
+representation was made without knowledge or culpable
+ignorance of its falsity, and the belief in its truth was based
+upon adequate grounds. To constitute fraud by
+nondisclosure or suppression, there must be a failure to
+disclose known facts, and, as well, a request or an occasion
+or circumstance which imposes a duty to speak.’ (Citations
+omitted.) Behrmann v. Behrmann, 110 Conn. 443, 445-46,
+148 A. 363, (1930).”
+• Dasilva v. Dasilva, Superior Court, Judicial District of New
+Haven at New Haven, No. FA02-0470290-S (Apr. 21, 2003)
+(2003 WL 21037549) (2003 Conn. Super. LEXIS 1229).
+“What amounts to ‘fraudulent contract,’ as that term is
+used in our divorce statute, and to that or other equivalent
+language, as used in the law, written or unwritten,
+elsewhere, to express a recognized condition justifying the
+annulment or dissolution of a marriage, has been much
+discussed, but no satisfactory and comprehensive definition
+applicable to all situations has been arrived at or attempted
+to be arrived at. Gould v. Gould, 78 Conn. 242 (1905).
+It is certain, however, that wherever there is a fraud on the
+part of one of the parties amounting to a fraud in the
+essentialia of the marriage relation, or as in Gould v.
+Gould, supra, page 261-62, whenever there is a deception
+in respect to some fact whose existence or nonexistence
+may affect in some certain way the very essence of the
+marriage relation, resulting in a lawful marriage which
+practically operates as a fraud upon the deceived spouse,
+and the existence or nonexistence of the fact thus
+concealed or misrepresented must operate, as between the
+parties to the marriage, to prevent some essential purpose
+of marriage and work a practical destruction of that
+relation.” (Internal quotation marks omitted)
+• Gordon v. Gordon, 11 Conn. Sup. 302 (1942). “In order to
+make out fraudulent contract as a ground for divorce the
+facts misrepresented or concealed must be such as to go to
+the very essence of the marriage.”
+• McCurry v. McCurry, 126 Conn. 175, 177, 10 A.2d 365
+(1939). “The referee refused specifically to find that the
+defendant entered into the marriage with the concealed
+intent not to consummate it or to have children and found
+that the plaintiff had failed to prove that allegation of the
+complaint. The existence of such an intent would be a
+question of fact; and we cannot hold that no other
+conclusion was reasonably possible than that she had that
+intent when she was married.”
+• Horowitz v. Horowitz, 6 Conn. Sup. 14, 16 (1938). “The
+false representation of a woman that she is pregnant by
+the man who is thereby induced to marry her is not the
+representation of a fact which if it does not exist prevents
+Dissolution of Marriage - 22Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:
+DIGESTS: ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+some essential purpose of marriage and works a practical
+destruction of the relationship.”
+• Wetstine v. Wetstine, 114 Conn. 7, 12, 157 A. 418 (1931).
+“Misrepresentations by the defendant as to her age, her
+name, and her nationality would not furnish a sufficient
+basis to dissolve a consummated marriage on that ground.”
+• Lyman v. Lyman, 90 Conn. 399, 403, 97 A. 312 (1916).
+“In consonance with this principle, the courts are practically
+agreed in holding that antenuptial pregnancy by another
+man, if concealed by the wife from the husband, who was
+himself innocent of improper relations with her, is a fraud
+upon him justifying a divorce or annulment of the
+marriage, as the appropriate remedy in the jurisdiction
+may be.”
+• Gould v. Gould, 78 Conn. 242, 250, 61 A. 604 (1905).
+“Such a fraud is accomplished whenever a person enters
+into that contract knowing that he is incapable of sexual
+intercourse, and yet, in order to induce the marriage,
+designedly and deceitfully concealing that fact from the
+other party, who is ignorant of it and has no reason to
+suppose it to exist.”
+• Divorce
+II. Grounds
+#14. Grounds existing at time of marriage
+#18. Fraud or duress in procuring marriage
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 18. Miscellaneous
+§ 18.07 Fraud
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+18. Fraud or duress in procuring marriage
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+12. Grounds Existing at or Before Marriage
+b. Fraud
+§ 98. Generally
+§ 99. Premarital unchasity
+§ 100. Pregnancy at time of marriage
+§ 101. —Effect of husband’s guilt or
+knowledge
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+Dissolution of Marriage - 23TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+F. Other Particular Grounds
+§ 90. Fraud
+• 65 ALR2d 776, Annotation, What Constitutes Impotency as
+Ground for Divorce (1959) (Also available on Westlaw).
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+§ 15.7. Fraudulent contract
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.08. Defining Fraudulent Contract
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+Dissolution of Marriage - 24Section 1.2c: Willful Desertion
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon the grounds of willful
+desertion for one year with total neglect of duty.
+• Willful desertion: ‘“the wilful absenting of one party to the
+marriage contract from the society of the other, coupled with
+the intention on the part of the absenting party to live apart,
+in spite of the wish of the other, and not to return to
+cohabitation.”’ Casale v. Casale, 138 Conn. 490, 492, 86
+A.2d 568 (1952).
+• “The elements of a cause of action on the grounds of
+desertion are (1) cessation from cohabitation; (2) an
+intention on the part of the absenting party not to resume it;
+(3) the absence of the other party’s consent; and (4)
+absence of justification.” Gannon v. Gannon, 130 Conn. 449,
+450, 35 A.2d 204 (1943).
+• “When our legislature, in 1843, adopted as grounds of
+divorce a vinculo, ‘habitual intemperance’ and ‘intolerable
+cruelty,’ it used these words with their ordinary meaning, but
+with special reference to what had been since 1639 our
+settled policy in respect to divorce; i.e., marriage is a life
+status and should never be dissolved, unless one of the
+parties is guilty of conduct which in itself is a practical
+annulling and repudiation of the marriage covenant. Willful
+desertion for such a length of time as the statute says
+shall conclusively prove a permanent abandonment
+and repudiation of all marital rights and duties, had
+been a ground for divorce. Following this analogy the
+legislature, in 1843, made grounds of divorce: intemperance
+so long continued that the fixed habit renders the party
+incapable of performing the duties of the marriage relation;
+and cruelty of such a nature as to be intolerable, and to
+render a continuance of the relation by the suffering victim
+impracticable.” Morehouse v. Morehouse, 70 Conn. 420, 426-
+427, 39 A. 516 (1898). (Emphasis added.)
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40. Grounds for dissolution of marriage; legal
+separation; annulment.
+(c) “A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes has
+occurred:. . .(5) wilful desertion for one year with total
+neglect of duty;”
+(e) “In an action for dissolution of a marriage or a legal
+separation on the ground of willful desertion for one year,
+with total neglect of duty, the furnishing of financial
+support shall not disprove total neglect of duty, in the
+absence of other evidence.”
+Dissolution of Marriage - 25
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint or
+Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• deCossy v. deCossy, 172 Conn. 202, 203, 374 A,2d 182
+(1977). “The plaintiff, Edwin deCossy, filed this divorce action
+against the defendant, Dorothy deCossy, on November 9,
+1972, alleging that the defendant had been guilty of
+intolerable cruelty toward the plaintiff. The defendant filed a
+cross-complaint alleging that the plaintiff was guilty of
+intolerable cruelty and that he had deserted her.
+The marriage was dissolved…on the basis of the plaintiff’s
+fwilful desertion of the defendant wife.”
+• Toth v. Toth, 23 Conn. Sup. 161, 164, 178 A.2d 542 (1962).
+“Nevertheless, there is no question of the validity of the
+ground of constructive desertion where the facts of the same
+fit in with the definition of wilful desertion . . . found in
+Connecticut cases in construing our statute.”
+• Schick v. Schick, 17 Conn. Sup. 232, 233 (1951). “Desertion
+requires not only separation for the requisite period of three
+years but also an intent, persisting throughout that entire
+period, not to resume the marriage relationship. Separation
+alone is not the equivalent of desertion.”
+• McDonnell v. McDonnell, 14 Conn. Sup. 123, 129 (1946).
+“For all of the reasons discussed, the conclusions are reached
+that there is a clear distinction between the duty of a
+husband to support his wife and that to cohabit with her; that
+desertion as a ground for divorce in this state is concerned
+only with the cessation of cohabitation; that the phrase ‘with
+total neglect of duty’ refers only to refusal to cohabit and
+makes it manifest that such default, to provide a cause for
+divorce, must be intentional, complete and continuous
+throughout the prescribed three-year period; and that
+neglect to cohabit is a breach of the marriage contract, while
+the failure of a husband to support his wife is a violation of a
+duty annexed by law to the marital status, and neither, in
+itself, includes the other.”
+• Baccash v. Baccash, 11 Conn. Sup. 387, 388-389 (1942).
+“Desertion involves the co-existence of the following
+conditions: (1) Cessation from cohabitation, (2) an intention
+on the part of the absenting party not to resume it, (3) the
+absence of the other party’s consent, and (4) the absence of
+justification….From the above and all of the other evidence in
+the case it is found that the plaintiff has failed to properly
+Dissolution of Marriage - 26Once you have
+identified useful
+cases, it is important
+to update them to
+ensure they are still
+good law. You can
+contact your local
+law librarian to learn
+about updating
+cases.
+WEST KEY
+NUMBERS
+DIGESTS: establish any one of the essential conditions necessary to
+constitute desertion on the part of the defendant.”
+• McCurry v. McCurry, 126 Conn. 175, 178, 10 A.2d 365
+(1939). “By the weight of authority refusal of marital
+intercourse is not in itself desertion; but becomes so only
+when coupled with a substantial abandonment of other
+marital duties.”
+• Divorce
+II. Grounds
+#37 Desertion or absence
+(15) Obstinate, willful, or causeless separation
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2022.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.03 Willful desertion for one year
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+37. Desertion or absence
+IV. Proceedings
+J. Evidence
+2. Admissibility
+119. Desertion
+3. Weight and sufficiency
+133. Desertion or absence
+• 24 Am Jur 2d Divorce and Separation, Thomson West, 2018
+(Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+6. Desertion and Abandonment
+A. General Considerations
+§§ 58-67
+B. Justification for Separation; Constructive
+Desertion or Abandonment
+§§ 68-76
+C. Offer of Reconciliation
+§§ 77-80
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+D. Desertion or Abandonment
+§§ 65-78
+ALR INDEX: • Divorce and Separation
+Abandonment of persons
+TEXTS &
+• Divorce in Connecticut: The Legal Process, Your Rights, and
+What to Expect, by Renee C. Bauer, Addicus Books, 2014.
+ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+TREATISES:
+Dissolution of Marriage - 27Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.8 Willful desertion for one year
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a Dissolution
+of Marriage and Legal Separation
+§ 3.09 Defining Willful Desertion for One Year with Total
+Neglect of Duty
+[1] Defining the Requirements of Willful Deseertion
+[2] Defining Total Neglect of Duty
+[3] Asserting Lack of Consent
+[4] Defining Justification
+[5] Defining Constructive Desertion
+Dissolution of Marriage - 28Table 2: Constructive Desertion
+Constructive Desertion
+Connecticut
+Superior
+Court
+“In other jurisdictions it is almost universally held that conduct on the
+part of one spouse which reasonably forces the other spouse to leave
+the home constitutes desertion by the first spouse as a ground for
+divorce, and this is generally held to be true whether the misconduct
+was indulged in with the specific intent of forcing the other spouse to
+leave the home or not.” Finn v. Finn, 13 Conn. Supp. 169, 170
+(1944).
+“It must therefore be concluded that in this State, as well as in other
+jurisdictions, constructive desertion is desertion within the meaning of
+that term as used in the divorce statute and that where a wife
+separates from her husband for adequate cause and he, for a period
+of three years thereafter, shows no indication of a purpose to change
+the course of conduct which has justified the separation, then she is
+entitled to a divorce on the ground of desertion.” Finn v. Finn, 13
+Conn. Supp. 169, 170-171 (1944).
+Connecticut
+Supreme
+Court
+“According to the rule as it has been stated in jurisdictions where it
+has been adopted, where a spouse intentionally brings the
+cohabitation to an end by misconduct which renders the continuance
+of marital relations so unbearable that the other leaves the family
+home, the former is the deserter and the latter may obtain a divorce
+on that ground.” Lindquist v. Lindquist, 137 Conn. 165, 169, 75 A.2d
+397 (1950).
+“Where the rule has been adopted, serious misconduct upon the part
+of the offending spouse is held essential to its application. In no event
+could misconduct of an offending husband be held to afford a basis
+for a decree on the ground of constructive desertion unless it was so
+improper as to defeat the essential purposes of the marriage relation
+or give the wife good reason to believe that cohabitation could no
+longer be continued with due regard to her health or safety or
+otherwise render continued cohabitation intolerable.” Lindquist v.
+Lindquist, 137 Conn. 165, 169, 75 A.2d 397 (1950).
+Once you have identified useful cases, it is important to update the cases before you rely on them.
+Updating case law means checking to see if the cases are still good law. You can contact your local law
+librarian to learn about the tools available to you to update cases.
+Dissolution of Marriage - 29Section 1.2d: Seven Years’ Absence
+SCOPE: You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon the grounds of seven years’
+absence, during all of which period the absent party has not
+been heard from.
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+“A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred; . . . (6) seven years’ absence, during all of
+which period the absent party has not been heard from;”
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Cikora v. Cikora, 133 Conn. 456, 52 A.2d 310 (1947). “This
+action for divorce was brought on two grounds: desertion,
+and seven years’ absence, during all of which period the
+absent party had not been heard from.” (p. 457)
+“Even where a defendant has gone to parts unknown, very
+likely outside the State, it may well be that publication in
+the place of the former marital residence is the form of
+notice most apt to bring the pendency of the action to his
+attention, because of the likelihood that there will be
+relatives or friends there who have means of
+communicating information to him directly or indirectly. The
+trial court was in error in striking the case from the docket
+on the ground that it was without jurisdiction to try the
+case.” (p. 462)
+• Divorce
+II. Grounds
+#37. Desertion or absence
+DIGESTS: • West’s Connecticut Digest
+Divorce
+II. Grounds
+37. Desertion or absence
+IV. Proceedings
+J. Evidence
+Dissolution of Marriage - 30
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:2. Admissibility
+119. Desertion
+3. Weight and sufficiency
+133. Desertion or absence
+ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• 24 Am Jur 2d Divorce and Separation, Thomson West, 2018
+(Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+6. Desertion and Abandonment
+A. General Considerations
+§§ 58-67
+B. Justification for Separation; Constructive
+Desertion or Abandonment
+§§ 68-76
+C. Offer of Reconciliation
+§§ 77-80
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+D. Desertion or Abandonment
+§§ 65-78
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.9 Continuous absence for seven years
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.10 Pleading Seven Years’ Absence During All of
+Which Absent Party Has Not Been Heard From
+Dissolution of Marriage - 31Section 1.2e: Habitual Intemperance
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon grounds of habitual
+intemperance.
+• “When our legislature, in 1843, adopted as grounds of
+divorce a vinculo, ‘habitual intemperance’ and
+‘intolerable cruelty,’ it used these words with their ordinary
+meaning, but with special reference to what had been since
+1639 our settled policy in respect to divorce; i.e., marriage
+is a life status and should never be dissolved, unless one of
+the parties is guilty of conduct which in itself is a practical
+annulling and repudiation of the marriage covenant. Wilful
+desertion for such a length of time as the statute says shall
+conclusively prove a permanent abandonment and
+repudiation of all marital rights and duties, had been a
+ground for divorce. Following this analogy the legislature, in
+1843, made grounds of divorce: intemperance so long
+continued that the fixed habit renders the party
+incapable of performing the duties of the marriage
+relation; and cruelty of such a nature as to be intolerable,
+and to render a continuance of the relation by the suffering
+victim impracticable.” Morehouse v. Morehouse, 70 Conn.
+420, 426-427, 39 A. 516 (1898). (Emphasis added.)
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+“A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred; . . . (7) habitual intemperance;.”
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Troy v. Troy, Superior Court, Judicial District of Litchfield,
+No. FA08-4007537-S (Feb. 7, 2012) (2012 WL 670594)
+(2012 Conn. Super. LEXIS 353). “Although the court
+believes that the parties loved each other and had many
+happy times together, it is clear that the marriage has
+broken down irretrievably and that the defendant’s drinking
+Dissolution of Marriage - 32
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+during the later years of the marriage was the major factor
+causing the breakdown. Whether the defendant’s alcoholism
+amounted to habitual intemperance was not proven by a
+preponderance of the evidence. The court will dissolve the
+marriage based upon irretrievable breakdown.”
+• Dyke v. Dyke, Superior Court, Judicial District of Stamford-
+Norwalk at Stamford, No. FA01-0187101-S (Feb. 10, 2005)
+(2005 WL 590465) (2005 Conn. Super. LEXIS 329). “Very
+little was offered by either party regarding the imbibing
+habits of the defendant in his use of alcoholic beverage.
+There was no claim that it interfered with his ability to work
+as was required by ‘habitual intemperance’ (Sec. 46b-40(c)
+(7)).”
+• Welch v. Welch, Superior Court, Judicial District of Tolland
+at Rockville, No. FA00-0072505-S (May 17, 2002) (2002
+WL 1332028) (2002 Conn. Super. LEXIS 1820). “The case
+law regarding what facts the court must find in order to
+conclude that a divorce should be granted on the grounds
+of habitual intemperance are sparse. However, in Dennis v.
+Dennis, 68 Conn. 186, 192-194 (1896), the court held that
+in order to establish habitual intemperance as a grounds for
+a divorce, it must be established that the habit was so
+gross or so long continued as to produce suffering or want
+in the family. Excessive indulgence in alcohol is not
+sufficient.”
+• Wilhelm v. Wilhelm, 13 Conn. Sup. 270, 271 (1945). “He
+also frequently indulged to excess in alcoholic liquor. This
+indulgence, however, was not such as to cause any want to
+the family or suffering …. For that reason his habitual
+intemperance was not such as to provide a ground for
+divorce independently ….”
+• Fagan v. Fagan, 131 Conn. 688, 689, 42 A.2d 41 (1945).
+“A detailed rehearsal of the marital difficulties of these
+parties would serve no useful purpose. The trial court
+concluded that the plaintiff was both intolerably cruel and
+habitually intemperate to the point that the public and
+personal objects of matrimony have been destroyed beyond
+rehabilitation, and that the custody of the minor child of the
+marriage should be awarded to the defendant.”
+• Hickey v. Hickey, 8 Conn. Supp. 445, 446 (1940). “In order
+to constitute it a ground for divorce, habitual intemperance
+must be such that it produces at least some substantial
+suffering and does material harm to the marriage
+relationship.”
+• Purcell v. Purcell, 101 Conn. 422, 425, 126 A. 353 (1924).
+“The subordinate facts found as to intoxication, as set forth
+in the statement of facts, do not disclose that the
+defendant’s use of intoxicants was so gross as to produce
+want or suffering in the family, either objective or
+subjective, to a degree which could not reasonably be
+Dissolution of Marriage - 33Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+fborne, or which disqualified the defendant from attending
+to his business; under these circumstances, the conclusion
+that the subordinate facts did not establish habitual
+intemperance, cannot be held to be illegal or illogical.
+”
+• Dennis v. Dennis, 68 Conn. 186, 192, 36 A. 34 (1896).
+“Habitual intemperance as a cause for which a divorce
+might be granted, was first named in this State by a statute
+enacted in 1843, where it was coupled with intolerable
+cruelty. Precisely what constitutes habitual intemperance
+within the meaning of that statute, it is not easy to define.
+It may however be safely assumed that the purpose of the
+Act was not primarily to promote temperance or to reform
+the offender, but to preserve the peace, comfort, safety,
+happiness and prosperity, of the non-offending party, and
+of the family of which they are together the members and
+parents.”
+• Divorce
+II. Grounds
+#22. Habitual drunkenness
+#27 Cruelty
+(15) Habitual drunkenness or use of opiates or
+narcotics as cruelty
+DIGESTS: • West’s Connecticut Digest
+Divorce
+II. Grounds
+22. Habitual drunkenness
+NUMBERS:
+ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+• 24 Am Jur 2d Divorce and Separation, Thomson West, 2018
+(Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+8. Habitual Drunkenness or Drug Addiction
+§§ 83-86
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+E. Personal Indignities
+2. Particular Acts, Conduct, and Conditions as
+Personal Indignities
+§ 84. Drunkenness and Use of Drugs Constituting
+Personal Indignity as Ground for Divorce
+F. Other Particular Grounds
+2. Personal Infirmities
+§ 96. Habitual drunkenness as Ground for
+Divorce
+• 101 ALR 6th 455, What Amounts to Habitual Intemperance,
+Drunkenness, Excessive Drug Use, and the Like within
+Statute relating to Substantive Grounds for Divorce,
+Marjorie A. Shields, J.D., Thomson West, 2015 (Also
+available on Westlaw).
+Dissolution of Marriage - 34TREATISES:
+ALR INDEX: • Divorce and Separation
+Alcoholics and alcoholism
+Habitual intemperance
+TEXTS &
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.10 Habitual intemperance
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.11 Pleading Habitual Intemperance
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+Dissolution of Marriage - 35Section 1.2f: Intolerable Cruelty
+SCOPE: A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon the grounds of intolerable
+cruelty.
+DEFINITIONS: • Intolerable cruelty: “The term ‘intolerable cruelty’ as
+used in our statute involves two distinct elements, and the
+acts which are claimed to constitute it must be, either
+singly or in combination, not only cruel but intolerable.”
+Swist v. Swist, 107 Conn. 484, 489 (1928).
+• “Incompatibility of personalities is not and has never been
+a ground for divorce in Connecticut. Under our law,
+married persons are expected to accept the ordinary
+vicissitudes of marriage caused by unwise mating,
+unhappy situations, unruly tempers and common quarrels
+or marital wranglings. To constitute intolerable cruelty, the
+consequences must be serious.” Nowak v. Nowak, 23
+Conn. Sup. 495, 497, 185 A.2d 83 (1962).
+• “When our legislature, in 1843, adopted as grounds of
+divorce a vinculo, ‘habitual intemperance’ and ‘intolerable
+cruelty,’ it used these words with their ordinary meaning,
+but with special reference to what had been since 1639 our
+settled policy in respect to divorce; i.e., marriage is a life
+status and should never be dissolved, unless one of the
+parties is guilty of conduct which in itself is a practical
+annulling and repudiation of the marriage covenant. Willful
+desertion for such a length of time as the statute says shall
+conclusively prove a permanent abandonment and
+repudiation of all marital rights and duties, had been a
+ground for divorce. Following this analogy the legislature,
+in 1843, made grounds of divorce: intemperance so long
+continued that the fixed habit renders the party incapable
+of performing the duties of the marriage relation; and
+cruelty of such a nature as to be intolerable, and to
+render a continuance of the relation by the suffering
+victim impracticable.” Morehouse v. Morehouse, 70
+Conn. 420, 426-427, 39 A. 516 (1898). (Emphasis added.)
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+“A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred; . . .(8) intolerable cruelty;”
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+Dissolution of Marriage - 36
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Evans v. Taylor, 67 Conn. App. 108, 115, 786 A.2d 525
+(2001). “In its memorandum of decision, the court noted,
+on the basis of the testimony of the parties, that the
+marriage of the parties was troubled from the start and
+that each party believed that he or she was mistreated by
+the other. It also noted that although the defendant
+claimed that the plaintiff’s treatment of her over the course
+of their seven year marriage was intolerable, she tolerated
+it by not moving from the marital home until her husband
+filed an action for dissolution, despite the fact that she had
+the financial means to do so. Finally, the court noted that
+some of the difficulties in what was a stormy marriage,
+arose from the verbal abuse by the defendant toward the
+plaintiff. On the basis of those observations, the court
+stated that the defendant failed to prove her claim of
+intolerable cruelty.”
+• Mailly v. Mailly, 13 Conn. App. 185, 188, 535 A.2d 385
+(1988). “The state trial referee rendered judgment after a
+fully contested hearing. He found that the defendant had
+been guilty of intolerable cruelty to the plaintiff in several
+respects, that these acts of cruelty rendered the
+continuation of any relationship between the parties
+impossible and that they forced the plaintiff to leave the
+defendant to live with her daughter.”
+• Garrison v. Garrison, 190 Conn. 173, 180, 460 A.2d 945
+(1983). “The trial court’s finding that the behavior of the
+defendant constituted a continuing course of conduct is
+clearly supported by the record. In cases like the one
+before us, it would be archaic and absurd to hold that the
+plaintiff was under an obligation to be beaten more often in
+order to establish a continuing course of conduct. The facts
+found indicate that the defendant’s attitude toward the
+plaintiff had become indifferent and uncaring for months
+before the striking incidents. He was at times openly
+hostile and cruel, as when he confronted the plaintiff with
+his own adultery. He had struck her twice, for no apparent
+reason. In this atmosphere, a person in the plaintiff’s
+position could reasonably believe that the physical abuse
+would either continue or escalate. It would thereafter be
+reasonable to consider that the continuation of the marital
+relationship would be unbearable. The trial court did not
+err, but reasonably concluded that the defendant’s actions
+constituted intolerable cruelty.”
+• Sarafin v. Sarafin, 28 Conn. Supp. 24, 27, 247 A.2d 500
+(1968). “However, much as the plaintiff may now be
+Dissolution of Marriage - 37Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:
+DIGESTS: incompatible with the defendant in interests, desires and
+attitudes, and the court fully recognizes this to be the
+case, such incompatibility is not a ground for divorce under
+the law of this state. Proof is lacking that the conduct of
+the defendant was intended by him to be cruel, or that its
+character was such that this court can reasonably infer
+that it was intended to be cruel. This is a situation where
+the defendant himself is intolerable and unbearable to the
+plaintiff, but it cannot reasonably be found that it was his
+conduct toward her which rendered continuance of their
+marital relationship unbearable.
+In her brief, the plaintiff makes reference to the difficult
+situation which will ensue if a divorce is not granted. This
+is not a permissible argument and cannot be given any
+consideration. The court is bound to decide this case, as
+any other case, upon the facts and the law, without regard
+to any other considerations which are not material or
+relevant to the issues.”
+• Richards v. Richards, 153 Conn. 407, 409, 216 A.2d 822
+(1966). “Whether intolerable cruelty exists or not in a
+particular case is ordinarily a conclusion of fact for the trier
+to draw. Where not so drawn, it is only in exceptionally
+aggravated cases, where the mere statement of the
+evidential facts demonstrates the intolerable character of
+the defendant’s alleged cruelty, that this court is warranted
+in treating that fact as established.”
+• Nowak v. Nowak, 23 Conn. Sup. 495, 498, 185 A.2d 83
+(1962). “Our courts have never adopted the policy, which
+some jurisdictions have followed, ‘of comparative guilt.’”
+• Bloomfield v. Bloomfield, 144 Conn. 568, 568-569, 135
+A.2d 736 (1957). “There must be not only proof of acts of
+cruelty on the part of the defendant but also proof that in
+their cumulative effect upon the plaintiff they are
+intolerable in the sense of rendering the continuance of
+marital relation unbearable.”
+• Vanguilder v. Vanguilder, 100 Conn. 1, 3, 122 A. 719
+(1923). “It is enough to repeat that, as the phrase imports,
+intolerable cruelty has a subjective as well as an objective
+significance. There must not only be proof of acts of cruelty
+on the part of the defendant, but proof that in their
+cumulative effect upon the plaintiff they are intolerable in
+the sense of rendering the continuance of the marital
+relation unbearable by him.”
+• Divorce
+II. Grounds
+27. Cruelty
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Dissolution of Marriage - 38ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.04 Intolerable cruelty
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+27. Cruelty
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce or Separation Proceedings
+B. Grounds
+4. Cruelty
+A. In General
+§§ 34-38
+B. Physical Violence or Threat of Violence
+§§ 39-42
+C. Mental Cruelty
+§§ 43-44
+D. Adultery as Constituting Cruelty
+§§ 45-46
+E. Sexual Matters
+§§ 47-49
+F. Specific Acts or Conduct
+§§ 50-55
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+C. Cruelty
+1. In General
+§§ 39-47
+2. Specific Types of Behavior as Cruelty
+§§ 48-64
+ALR INDEX: • Divorce and Separation
+Cruelty
+TEXTS &
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.11 Intolerable cruelty
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.12 Defining Intolerable Cruelty
+• Victor M. Gordon, Intolerable Cruelty As A Ground For
+Divorce In Connecticut, 21 Connecticut Bar Journal 64
+(1947).
+Dissolution of Marriage - 39
+TREATISES:
+You can contact us
+or visit our catalog
+to determine which
+of our law libraries
+own the treatises
+cited.
+References to online
+databases refer to
+in-library use of
+these databases.
+LAW REVIEWS: Public access to law
+review databases is
+available on-site at
+each of our law
+libraries.Section 1.2g: Imprisonment / Infamous Crime
+SCOPE: DEFINITIONS: STATUTES: You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon grounds of sentence to
+imprisonment for life or the commission of any infamous
+crime involving a violation of conjugal duty and punishable
+by imprisonment for a period in excess of one year.
+• “. . . the three essentials to a divorce upon this ground
+are: (1) the commission by the defendant of an infamous
+crime, (2) involving a violation of conjugal duty, and (3)
+punishable by imprisonment in the state prison.” Swanson
+v. Swanson, 128 Conn. 128, 129, 20 A.2d 617 (1941).
+• Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+“A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred; . . .(9) sentence to imprisonment for life
+or the commission of any infamous crime involving a
+violation of conjugal duty and punishable by
+imprisonment for a period in excess of one year;”
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Mezrioui v. Mezrioui, Superior Court, Judicial District of
+Tolland, No. FA13-4019233-S (March 17, 2014) (2014 WL
+1395073) (2014 Conn. Super. LEXIS 611). “Mr. Mezrioui
+has been incarcerated…since February 2012. He pled guilty
+to risk of injury to a minor, and sexual assault of his step-
+granddaughter, age 14, a child the parties had cared for
+since infancy. A permanent protective order was issued by
+the criminal court in favor of the plaintiff. The defendant
+violated the protective order while incarcerated. The
+criminal court ordered the defendant to have no contact
+with anyone 16 years old or younger…”
+-----
+“Pursuant to Connecticut General Statutes § 46b-40(9)
+imprisonment for an infamous crime involving a violation of
+Dissolution of Marriage - 40
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+conjugal duty and intolerable cruelty pursuant to
+Connecticut General Statutes § 46b-40c(8) the court finds
+the defendant solely at fault for the breakdown of the
+marriage.”
+• Cugini v. Cugini, 13 Conn. App. 632, 636, 538 A.2d 1060
+(1988). “The defendant also claims an abuse of discretion
+by the trial court in permitting an amendment to the
+complaint to allege as an additional ground for dissolution
+that he had been convicted of an infamous crime. This is
+one of the grounds upon which dissolution may be sought;
+General Statutes 46b-40(c)(9); and, in any event, it was
+not the ground upon which dissolution was granted in this
+case.”
+• Sweet v. Sweet, 21 Conn. Supp. 198, 202, 151 A.2d 350
+(1957). “From the broad range of the crime as above
+described, it is apparent that while there might be acts
+which would violate the statute and at the same time be a
+violation of conjugal duty, it is, nevertheless, equally true
+that there might be many violations of the statute which
+would not amount to a violation of conjugal duty. In fact,
+acts which might impair the morals of a child as alleged in
+the information here involved would not necessarily be acts
+in violation of conjugal duty.”
+• Donovan v. Donovan, 14 Conn. Sup. 429, 430 (1947). “. . .
+the conviction of an indecent assault upon a minor female
+is conviction of an infamous crime involving breaching of
+conjugal duty.”
+• Swanson v. Swanson, 128 Conn. 128, 130, 20 A.2d 617
+(1941). “It is our conclusion therefore, that the
+defendant’s conviction of assault with intent to commit
+rape established the commission by him of an infamous
+crime involving a violation of conjugal duty and punishable
+by imprisonment in the state prison . . . .”
+• Divorce
+II. Grounds
+marriage
+19. Personal infirmities and conditions arising after
+24. - Conviction and imprisonment for crime
+DIGESTS: • West’s Connecticut Digest
+Divorce
+II. Grounds
+24. Conviction and imprisonment for crime
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+7. Conviction of Crime
+§§ 81-82
+NUMBERS:
+ENCYCLOPEDIAS: Dissolution of Marriage - 41Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at all
+law library locations.
+Online databases are
+available for
+in-library use. Remote
+access is not available.
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+F. Other Particular Grounds
+1. In General
+§ 88. Conviction of crime
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+§ 15.12 Imprisonment; life sentence or commission of
+infamous crime
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.13 Defining Life Imprisonment or Commission of
+an Infamous Crime
+[1] Defining Life Imprisonment
+[2] Determining What constitutes an Infamous
+Crime Involving a Violation of Conjugal duty –
+Factors
+[3] Defining Infamous Crime
+[4] Defining Violation of Conjugal Duty
+[5] Providing Proof of Conviction
+Dissolution of Marriage - 42Section 1.2h: Confinement / Mental Illness
+SCOPE: You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon grounds of legal
+confinement in a hospital or hospitals or other similar
+institution or institutions, because of mental illness, for at
+least an accumulated period totaling five years within the
+period of six years next preceding the date of the
+complaint.
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+“A decree of dissolution of a marriage . . . shall be
+granted upon a finding that one of the following causes
+has occurred; . . . (10) legal confinement in a hospital
+or hospitals or other similar institution or institutions,
+because of mental illness, for at least an accumulated
+period totaling five years within the period of six years
+next preceding the date of the complaint.”
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Henin v. Henin, 26 Conn. App. 386, 391, 601 A.2d 550
+(1992). “Having reviewed the record and the evidence in
+this case, we find ample support for the court’s conclusion
+that the defendant’s [mental] illness and refusal to seek
+treatment caused the breakdown. We further conclude, on
+the basis of the record, that the court’s finding about the
+cause of the breakdown did not improperly infect the
+financial awards.”
+• Parker v. Parker, 16 Conn. Supp. 128, 130 (1949). “…it is
+doubtful whether the plaintiff has established the ground
+for divorce upon which he relies. The statute (§ 7327)
+requires ‘legal confinement, because of incurable mental
+illness, for at least five years next preceding the date of
+the complaint.’ There has been no actual confinement of
+the defendant for five years prior to February 13, 1948,
+when this action was commenced.”
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+Dissolution of Marriage - 43WEST KEY
+NUMBERS:
+DIGESTS: ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• Divorce
+Grounds
+marriage
+19. Personal infirmities and conditions arising after
+23. - Insanity or other mental incompetency
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.05 Mental Illness
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+23. Insanity or other mental incompetency
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+B. Grounds
+12. Grounds Exisiting at or Before Marriage
+C. Insanity or Mental Capacity
+§§ 102-106
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+II. Grounds for Divorce; Fault and No-Fault Divorce
+F. Other Particular Grounds
+1. In General
+§ 99. Insanity or other mental incompetency
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of Marriage in General
+§ 15.13 Five-Year confinement for mental illness
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a
+Dissolution of Marriage and Legal Separation
+§ 3.14 Pleading Legal Confinement in a Hospital
+Because of Mental Illness, for at Least Five Years
+Dissolution of Marriage - 44Section 1.3: Multiple Grounds
+SCOPE: A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to dissolution of
+marriage (divorce) based upon multiple grounds.
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website.
+COURT RULES: Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-7. Pleadings in General; Amendments to Complaint
+or Application
+§ 25-8. —Amendment; New Ground for Dissolution of
+Marriage or Civil Union
+§ 25-9. —Answer, Cross Complaint, Claims for Relief by
+Defendant
+§ 25-10. —Answer to Cross Complaint
+• Mezrioui v. Mezrioui, Superior Court, Judicial District of
+Tolland, No. FA13-4019233-S (March 17, 2014) (2014 WL
+1395073) (2014 Conn. Super. LEXIS 611). “Pursuant to
+Connecticut General Statutes § 46b-40[c](9) imprisonment
+for an infamous crime involving a violation of conjugal duty
+and intolerable cruelty pursuant to Connecticut General
+Statutes § 46b-40c(8) the court finds the defendant solely at
+fault for the breakdown of the marriage.”
+• Sweet v. Sweet, 190 Conn. 657, 660, 462 A.2d 1031 (1983).
+“The contention of the defendant, therefore, that a
+determination of irretrievable breakdown precludes the court
+from considering the causes of the dissolution in making
+financial awards is erroneous.”
+• Gluck v. Gluck, 181 Conn. 225, 227, 435 A.2d 35 (1980).
+“Next, the defendant asserts that General Statutes 46b-40
+(c), to the extent that it authorizes the dissolution of a
+marriage if the marriage has broken down irretrievably . . .
+nullifies the other grounds for dissolution . . . . The
+gravamen of the unparticularized claim that irretrievable
+breakdown nullifies the other grounds for dissolution set
+forth in 46b-40 (c) and prevents defenses appears to be that
+the legislature has sanctioned divorce on demand. This claim
+too was rejected in Joy v. Joy . . . .”
+• Joy v. Joy, 178 Conn. 254, 255, 423 A.2d 895 (1979). “The
+absence of objective guidelines does not mean an abdication
+of judicial function, nor does it signal, as the defendant
+Dissolution of Marriage - 45Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:
+DIGESTS: TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+argues, that a court determining whether a marriage has in
+fact irretrievably broken down is acting purely ministerially
+or is granting a divorce ‘upon demand.’ It does, however,
+sustain the trial court’s conclusion that the defendant’s
+decision to rearrange his business ventures after the
+initiation of divorce proceedings does not necessarily repair
+the rupture in the marital relationship that had previously
+occurred.”
+• Edge v. Commissioner Of Welfare, 34 Conn. Supp. 284, 286,
+388 A.2d 1193 (1978). “ . . . although fault need not be
+established in dissolution of marriage actions, fault can still
+be an element to be raised in dissolution actions for
+purposes of establishing the support obligation of either
+spouse to the other.”
+• Christoni v. Christoni, 156 Conn. 628, 629, 239 A.2d 533
+(1968). “Where more than one ground for a divorce is
+claimed and one alleged ground is proved, it is immaterial
+whether or not an additional statutory ground or grounds
+may also exist.”
+• Divorce
+II. Grounds
+##12-38
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 7. Grounds for Dissolution of Marriage
+§ 7.02: Fault and cause of breakdown
+• West’s Connecticut Digest
+Divorce
+II. Grounds
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15. Dissolution of marriage in general
+§ 15.4 Other grounds for dissolution
+• Divorce in Connecticut: The Legal Process, Your Rights, and
+What to Expect, by Renee C. Bauer, Addicus Books, 2014.
+1.3 Is Connecticut a “no-fault” state or do I need grounds
+for a divorce?
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a Dissolution
+of Marriage and Legal Separation
+Dissolution of Marriage - 46Section 1.4: Defenses
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Selected bibliographic resources relating to defenses to
+grounds for dissolution of marriage (divorce)
+• Comity: "[C]omity is a flexible doctrine, the application of
+which rests in the discretion of the state where
+enforcement of a foreign order is sought." Walzer v.
+Walzer, 173 Conn. 62, 70, 376 A.2d 414 (1977).
+• “The defenses of recrimination and condonation have been
+abolished.” Venuti v. Venuti, 185 Conn. 156, 157, 440 A.2d
+878 (1981).
+• Condonation: “the principle relied upon means only that
+an aggrieved spouse actually forgives and forgets.” Toolan
+v. Toolan, 15 Conn. Supp. 277, 277 (1948).
+• Recrimination “is generally defined as a rule or doctrine
+which precludes one spouse from obtaining a divorce from
+the other, where the spouse seeking the divorce has
+himself or herself been guilty of conduct which would
+entitle the opposite spouse to a divorce.” Courson v.
+Courson, 117 A.2d 850, 851, 208 Md. 171 (1955).
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-40(c). Grounds for dissolution of marriage; legal
+separation; annulment.
+§ 46b-52. Recrimination and condonation abolished.
+“The defenses of recrimination and condonation to any
+action for dissolution of marriage or legal separation
+are abolished.”
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+• Nietupski v. Del Castillo, 196 Conn. App. 31, 37, 228 A. 3d
+1053 (2020). “We first consider the plaintiff's claim that
+the court violated the free exercise clause of the first
+amendment to the United States constitution by rendering
+a judgment of marital dissolution pursuant to § 46b-
+40(c)(1). That contention is without merit.
+In his principal appellate brief, the plaintiff alleges that
+‘[c]ivil laws granting divorce ... are morally wrong because
+the state therein usurps an authority to which it has no
+right whatsoever. It is obvious that the state unlawfully
+invades an area of religious liberty in which it has no
+competence when it claims the power to dissolve a
+marriage lawfully contracted by two baptized persons such
+contract is a sacrament. Marriage belongs to God.’ By
+Dissolution of Marriage - 47Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+dissolving the parties' marriage, the plaintiff argues, the
+court violated his right to free exercise of religion.
+The plaintiff has provided no legal authority that
+substantiates his bald assertion. In his principal appellate
+brief, the plaintiff alleges that he sought a judgment of
+legal separation because ‘divorce is [a] great offense’ to his
+religious beliefs. No such allegation was contained in his
+operative complaint or advanced at trial. Moreover, the
+record plainly indicates that, following the commencement
+of the plaintiff's action, the defendant filed a cross
+complaint, in which she sought a judgment of dissolution
+pursuant to § 46b-40(c)(1).
+This court previously has rejected a first amendment
+challenge in such circumstances. As we explained: ‘The
+United States Supreme Court has consistently held that the
+right of free exercise does not relieve an individual of the
+obligation to comply with a valid and neutral law of general
+applicability on the ground that the law proscribes (or
+prescribes) conduct that his religion prescribes (or
+proscribes). ... [Section] 46b-40(c)(1) is a valid and
+neutral law of general applicability. The statute does not in
+any manner infringe on the defendant's right to exercise
+his religious beliefs merely because it permits the plaintiff
+to obtain a divorce from him against his wishes.’ (Citation
+omitted; internal quotation marks omitted.)
+Grimm v. Grimm, 82 Conn. App. 41, 45, 844 A.2d 855
+(2004), rev'd in part on other grounds, 276 Conn. 377,
+886 A.2d 391 (2005), cert. denied, 547 U.S. 1148, 126 S.
+Ct. 2296, 164 L. Ed. 815 (2006); see also Joy v. Joy, 178
+Conn. 254, 256, 423 A.2d 895 (1979) (upholding
+constitutionality of § 46b-40(c)(1) generally). This court
+thus concluded that the rendering of a judgment of
+dissolution pursuant to § 46b-40(c)(1) ‘does not violate [a
+party's] right to exercise his religious beliefs.’
+Grimm v. Grimm, supra, at 46. In light of that precedent,
+the plaintiff's claim fails.”
+• St. Denis-Lima v. St. Denis, 190 Conn. App. 296, 212 A.3d
+242 (2019). “Thereafter, on June 13, 2017, the court
+granted the defendant's motion to dismiss, concluding that
+the certified copies of the dissolution proceedings from
+Brazil by and between the parties implicated the principle
+of comity. Furthermore, the court noted that (1) the
+evidence submitted supported the finding that the
+marriage of the parties was dissolved by a decree of the
+court in Brazil on May 16, 2016, and that the decree was
+made final by an order of the court by way of the
+registration of the decree on July 6, 2016; (2) the
+plaintiff's appeal from the decree was dismissed; (3) both
+parties submitted themselves to the court in Brazil and
+were represented by counsel throughout the proceedings;
+(4) as part of the decree, the parties were awarded joint
+custody and certain parenting rights, and support orders
+were issued; and (5) although the parties continue to
+Dissolution of Marriage - 48Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+litigate, inter alia, alimony, property, custody, and
+visitation issues in Brazil, those issues did not affect the
+finality of the Brazilian decree dissolving the marriage.”
+• Ribeiro v. Riberio, Superior Court, Judicial District of New
+Haven, No. FA08-4009313-S (Jan. 7, 2011) (2011 WL
+383981) (2011 Conn. Super. LEXIS). ”In his motion to
+open judgment, the defendant claims that reasonable
+cause exists for his non-appearance due to his mistaken
+belief that a foreign court had exclusive jurisdiction. The
+defendant further alleges that he has a defense to the
+action and should be allowed to submit evidence relating to
+the grounds for dissolution…”
+“The court does not credit the husband’s testimony that he
+was advised that Portugal had exclusive jurisdiction of
+dissolution proceedings but does find credible his testimony
+that he mistakenly believed that to be the case. The
+defendant has also persuaded this court that he has a
+defense to the portion of the complaint that alleged willful
+desertion.”
+• Dervin v. Dervin, 27 Conn. Sup. 459, 462 (1968). “That a
+person having property is incapable of managing his affairs
+and has a conservator appointed to do so in their behalf
+does not warrant a finding or interpretation in and of itself
+that such person is insane. What was said in the Dochelli
+[v. Dochelli] case, supra, [125 Conn. 468,] 470, applies
+with even greater force: ‘This does not connote insanity in
+the narrower sense and will not avail as a defense.’”
+• Divorce
+III. Defenses
+38.5. In general
+39. Nonexistence or invalidity of marriage
+40. Agreements for separation
+41. Mistake of law
+42. Mistake of fact
+43. Insanity
+44. Drunkenness
+45. Connivance
+46. Provocation
+47. Condonation
+52. Recrimination
+56. Collusion
+DIGESTS: • West’s Connecticut Digest
+Divorce
+III. Defenses
+38.5–56
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+C. Defenses in Divorce Actions
+§§ 107-169
+Dissolution of Marriage - 49
+NUMBERS:
+ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+III. Defenses; Circumstances Precluding Divorce
+§§ 100-140
+• 13 ALR 3d 1419, Domestic Recognition of Divorce Decree
+Obtained in Foreign Country and Attacked for Lack of
+Domicile or Jurisdiction of Parties, Thomson West, 1967
+(Also available on Westlaw).
+ALR INDEX: • Divorce and Separation
+• Defenses
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 15 Dissolution of marriage in general
+§ 15.2. Breakdown of marriage relationship
+§ 15.14. Defenses
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+§ 3.03 CHECKLIST: Asserting Grounds for a Dissolution
+of Marriage and Legal Separation
+§ 3.15 Asserting Defenses to Ground for Dissolution
+[1] Asserting Condonation and Recrimination
+[2] Asserting Provocation
+[3] Asserting Justification
+Dissolution of Marriage - 50Section 2: Procedures
+A Guide to Resources in the Law Library
+SCOPE: COURT
+INFORMATION:
+PUBLIC ACTS: • Selected bibliographic resources relating to procedures in a
+dissolution of marriage (divorce) commenced after October
+1, 1997.
+DEFINITIONS: • Jurisdiction: “The Superior Court shall have exclusive
+jurisdiction of all complaints seeking a decree of
+annulment, dissolution of a marriage or legal separation.”
+Conn. Gen. Stat. § 46b-42 (2023)
+• Divorce, Custody, and Visitation, Connecticut Judicial
+Branch
+• Public Act No. 23-46, Sec. 4 “Generally eliminates the 90-
+day waiting period for non-contested divorce or legal
+separation proceedings” from Summary for Public Act No.
+23-46 (January Regular Session) (Effective October 1,
+2023)
+• Public Act No. 18-14, Sec. 1 “requires the plaintiff to serve
+the defendant a blank appearance form with the complaint”
+from Summary for Public Act No. 18-14 (Effective October
+1, 2018)
+• Waiver of service of process of summons and complaint
+under section 46b-45(b).
+“Any person entitled to service of process of a summons and
+complaint that commences an action for an annulment, a
+dissolution of marriage, a dissolution of civil union or a legal
+separation may waive such service by (1) executing a
+written waiver of service on a form prescribed by the Office
+of the Chief Court Administrator, and (2) filing an
+appearance with the court. Upon filing of both the waiver of
+service and the appearance of the person waiving such
+service, the action shall proceed as consistent with the
+provisions of this chapter.” Public Act No. 17-47, Sec. 3
+(June 2017 Spec. Sess.) (Effective October 1, 2017)
+STATUTES: • Conn. Gen. Stat (2023)
+Chapter 815j. Dissolution of Marriage, Legal Separation
+and Annulment
+§ 46b-44. Residency requirement.
+§ 46b-45. Service and filing of complaint and
+appearance. Waiver of service.
+§ 46b-46. Notice to nonresident party. Jurisdiction over
+nonresident for alimony and support.
+§ 46b-53. Conciliation procedures; privileged
+communications. (2024 Supplement)
+§ 46b-67. Waiting period. Filing of motion to waive
+waiting period; nonappearing defendant.
+Effect of decree. (2024 Supplement)
+Dissolution of Marriage - 51
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-2. Complaints for Dissolution of Marriage or Civil
+Union, Legal Separation, or Annulment
+§ 25-3. Action for Custody of Minor Child
+§ 25-5. Automatic Orders upon Service of Complaint or
+Application
+§ 25-11. Order of Pleadings
+§ 25-28. Order of Notice
+§ 25-30. [Sworn] Statements to be filed
+§ 25-49. Definitions [Uncontested Matter, Financial
+Disputes and Parenting Disputes]
+§ 25-50. Case Management
+§ 25-51. When Motion for Default for Failure to Appear
+Does Not Apply
+§ 25-52. Failure to Appear for Scheduled Disposition
+§ 25-57. Affidavit concerning Children
+§ 25-58. Reports of Dissolution of Marriage or Civil
+Union and Annulment
+• O’Brien v. O’Brien, 326 Conn. 81, 101-102, 161 A.3d 1236
+(2017). “We therefore conclude that, although the trial
+court could not punish the plaintiff because it had not
+found him in contempt, the court nevertheless properly
+determined that it could compensate the defendant for any
+losses caused by the plaintiff’s violations of the automatic
+orders. The plaintiff’s transactions--in which he sold and
+exchanged stock shares and options for cash—plainly
+violated the automatic orders, which expressly provide
+that, while the dissolution proceedings are pending, no
+party shall ‘sell, transfer, [or] exchange’ any property
+without permission from the other party or the court.
+Practice Book § 25-5 (b) (1). The automatic orders are
+intended to ‘keep the financial situation of the parties at a
+status quo during the pendency of the dissolution action’
+Ferri v. Powell-Ferri, 317 Conn. 223, 232, 116 A.3d 297
+(2015).”
+• Grant v. Grant, 171 Conn. App. 851, 158 A.3d 19 (2017).
+“In light of these legal principles, it is clear that a violation
+of the court’s automatic orders will not arise when
+expenditures are used for customary and usual expenses.”
+(p. 860)
+“There was evidence submitted at trial which established
+that at the time the defendant depleted his retirement
+account . . . he had been unemployed . . . and did not
+have a substantial source of income. The plaintiff resided
+in the marital property, which was in the process of being
+foreclosed, and, with the exception of the defendant’s
+retirement account, he had minimal assets available to use
+for customary and usual household expenses and
+reasonable attorney fees. In light of the evidence and
+testimony as to the defendant’s unemployment status and
+minimal available income and assets, with the exception of
+Dissolution of Marriage - 52
+learn about the tools
+available to you to
+update cases.Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+his retirement account, ‘it is not clear how [he] could have
+paid [his] own living and legal expenses independently.’
+Traystman v. Traystman, 141 Conn. App. 789, 800-801,
+62 A.3d 1149 (2013).
+‘As is often stated, we do not reverse the factual findings
+of the trial court unless they are clearly erroneous and find
+no support in the evidence.’ (Emphasis in original; internal
+quotation marks omitted.) Szynkowicz v. Szynkowicz,
+supra, 140 Conn. App. 542. Under the circumstances of
+this case, the court's finding the defendant in contempt for
+violating the automatic orders was clearly erroneous
+because the evidence at trial suggested that the defendant
+spent money from his retirement account for customary
+and usual household expenses. The court failed to identify
+any expenditures that violated the automatic orders in its
+articulation. See Practice Book § 25-5(b). The court,
+therefore, abused its discretion with respect to this claim.”
+(pp. 862-863)
+• Emerick v. Emerick, 170 Conn. App. 368, 386, 154 A.3d
+1069 (2017). “The defendant next claims that the court
+erred in denying his request for a jury trial. It is well
+settled, however, that ‘there is no right to a jury trial in an
+equitable action…. Whether the right to a jury trial attaches
+in an action presenting both legal and equitable issues
+depends on the relative importance of the two types of
+claims….In an action that is essentially equitable, the court
+may determine incidental issues of fact without a jury.’
+Gaudio v. Gaudio, 23 Conn. App. 287, 302, 580 A.2d 1212,
+cert. denied, 217 Conn. 803, 584 A.2d 471 (1990). ‘A
+dissolution of a marriage is essentially an equitable action.’
+Id., 302. Here, because the plaintiff's cause of action
+sought only a dissolution of her marriage, together with
+alimony and an equitable division of property, her cause of
+action is essentially equitable, for which the defendant has
+no right to a trial by jury. Accordingly, the defendant's
+claim lacks merit.”
+• Keller v. Keller, 158 Conn. App. 538, 119 A.3d 1213
+(2015). “In this marital dissolution action, the plaintiff,
+Beth Keller, appeals from an order of contempt entered
+against her by the trial court in the course of the
+proceedings dissolving her marriage to the defendant,
+Richard Keller.” (p. 539)
+“The court found the plaintiff in contempt both for failing to
+provide the defendant with her new address, and failing to
+give the defendant sufficient details and contact
+information for a trip that she took with the children to
+California.” (p. 542)
+• Barcelo v. Barcelo, 158 Conn. App. 201, 204, 118 A.3d 657
+(2015). “We reverse all of the court’s financial orders in
+the judgment of dissolution…on the basis of our conclusion
+that the court erred by (1) ordering the defendant, by way
+Dissolution of Marriage - 53Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+of a supplemental child support order, to pay the plaintiff
+15 percent of his future bonus income, (2) failing to
+provide notice to the parties, prior to rendering its
+judgment of dissolution, that it would not reserve
+jurisdiction to enter postsecondary educational support
+orders for the parties’ minor children, and (3) ordering the
+parties to submit to arbitration to resolve any future
+disputes over distribution of their personal property.”
+• Chambers v. Stewart, Superior Court, Judicial District of
+Stamford-Norwalk at Stamford, No. CV09-5012130-S,
+(Jan. 20, 2012) (53 Conn. L. Rptr. 315) (2012 WL 432552)
+(2012 Conn. Super. LEXIS 186). “Plaintiff has a three-
+count complaint which alleges that two mortgages which
+the defendant holds on the plaintiff’s home are invalid
+because they violate the automatic orders (hereafter
+‘orders’) which were entered at the commencement of the
+dissolution action between the plaintiff and his former
+spouse and were in effect at the time the mortgages were
+given.” (p. 315)
+---
+“There is nothing in either the Rule (Rule 25-5) or in Form
+JD-FM-158 which expressly imposes a duty on third parties
+to take notice of or abide by the prohibitions contained in
+the rule. It is undeniable that the Judges of the Superior
+Court could easily have added language to the rule to
+indicate that the automatic order was indeed intended to
+be binding on third parties. Provencher v. Enfield, 284
+Conn. at 785, supra. In fact, a contrary intention appears
+from the fact that that the rule making authority has
+chosen the remedy of a contempt proceeding as a means
+of enforcement and have said so in bold upper case letters.
+Thus, it is fair to infer that the automatic order was
+designed for no other purpose than to control the conduct
+of the parties during the pendency of the action.” (p. 317)
+• Parotta v. Parotta, 119 Conn. App. 472, 988 A.2d 383
+(2010). “. . . (T)he court . . . heard argument on the
+defendant’s motion to transfer and, treating it as a motion
+for modification of the automatic orders, ordered the sum
+of the $100,000 to be wired from a brokerage account in
+the defendant’s name directly to the account of his criminal
+defense attorney, to be used for legal fees and expert
+witness fees in conjunction with the pending criminal
+charges. The court also ordered that no portion of those
+funds could be used for the posting of the defendant’s bail
+or bond. Finally, the court indicated that the $100,000 sum
+would be considered a draw against the defendant’s share
+of the equitable distribution of property at the time of the
+final hearing in the dissolution action. This appeal
+followed.” (p. 475)
+“Our Supreme Court has . . . determined that certain
+interlocutory orders may be treated as final judgments for
+Dissolution of Marriage - 54purposes of appeal. State v. Curcio, 191 Conn. 27, 31,
+Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+463 A.2d 566 (1983). ‘An otherwise interlocutory order is
+appealable in two circumstances: (1) where the order or
+action terminates a separate and distinct proceeding, or
+(2) where the order or action so concludes the rights of the
+parties that further proceedings cannot affect them.’ Id.
+When the plaintiff filed this appeal, the court had not
+rendered judgment on her complaint for dissolution or the
+defendant's cross complaint. Nor had the court assigned to
+either party any part of the estate of the other as the court
+is permitted to do, by statute, only at the time of the final
+hearing. We must, therefore, determine whether the
+court's order modifying the automatic orders to give the
+defendant permission to expend funds in his own name,
+although interlocutory, is a final judgment for purposes of
+appeal. The plaintiff contends that there is an appealable
+final judgment pursuant to the second prong of Curcio. We
+are not persuaded. (pp. 475-476)
+“Finally, we are further persuaded that the court's order
+did not constitute an appealable final judgment in light of
+the decisional law regarding temporary injunctions. We
+believe that the automatic orders in marital dissolution
+judgments are most akin to temporary injunctions on the
+basis that they represent a temporary restraint on the use
+of or alienation of one’s assets pending full adjudication on
+conjunction with a final hearing.” (p. 482)
+“As in the case of a temporary injunction, the purpose of
+the automatic orders in marital dissolution cases is simply
+to maintain the status quo while the action is pending.
+And, as a permanent injunction typically encompasses the
+relief sought or granted by the temporary injunction, a
+dissolution judgment similarly assigns, to one party or the
+other, the property that was subject to the injunctive effect
+of the automatic orders.
+” (p. 483)
+• Divorce
+IV. Proceedings
+57-187
+DIGESTS: • West’s Connecticut Digest
+Divorce
+IV. Proceedings
+A. Jurisdiction
+B. Venue
+C. Time for Proceeding
+D. Parties
+E. Process or Notice
+F. Appearance
+G. Abatement and Revival
+H. Incidental Proceedings
+I. Pleading
+J. Evidence
+K. Dismissal
+Dissolution of Marriage - 55
+NUMBERS:ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+L. Trial or Hearing
+M. New Trial
+N. Judgment or Decree
+O. Appeal
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+D. Practice and Procedure in Divorce Actions
+§§ 170-355
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+IV. Proceedings, Trial, and Judgment
+§§ 141-459
+TEXTS &
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+LAW REVIEWS: Public access to law
+review databases is
+available on-site at
+each of our law
+libraries.
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 16. Jurisdiction
+Chapter 17. Parties
+Chapter 18. Process
+Chapter 19. Pleadings
+• Friendly Divorce Guidebook for Connecticut, 2d ed., by
+Barbara Kahn Stark, LawFirst Publishing, 2003.
+Chapter 6. Getting divorced: procedures and paperwork
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 3. Dissolution of Marriage and Legal Separation
+Chapter 4. Pretrial Pleadings and Discovery
+Samuel V. Schoonmaker, How the Judiciary Has Driven
+Systemic Innovation During the Pandemic, 55 Family Law
+Quarterly 87 (2021-2022).
+See section C. The First Demonstration State, p. 111 et
+seq for discussion of Connecticut’s adoption of the
+pathways process for family cases
+Dissolution of Marriage - 56Table 3: Parenting Education Program
+Parenting Education Program
+STATUTE: You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+• Title 46b. Family Law
+Chapter 815j. Dissolution of Marriage, Legal Separation and
+Annulment
+46b-69b. Parenting education program
+Authority:
+“The Judicial Department shall establish a parenting
+education program for parties involved in any action
+before the Superior Court under section 46b-1, except
+actions brought under section 46b-15 and chapter 815t.”
+Definition and Description:
+“For the purposes of this section, ‘parenting education
+program’ means a course designed by the Judicial
+Department to educate persons, including unmarried
+parents, on the impact on children of the restructuring of
+families. The course shall include, but not be limited to,
+information on the developmental stages of children,
+adjustment of children to parental separation, dispute
+resolution and conflict management, guidelines for
+visitation, stress reduction in children and cooperative
+parenting.”
+Exceptions:
+“The court shall order any party to an action specified in
+subsection (a) of this section to participate in such
+program whenever a minor child is involved in such
+action unless (1) the parties agree, subject to the
+approval of the court, not to participate in such program,
+(2) the court, on motion, determines that participation is
+not deemed necessary, or (3) the parties select and
+participate in a comparable parenting education
+program.”
+Family Support Magistrate:
+“A family support magistrate may order parties involved
+in any action before the Family Support Magistrate
+Division to participate in such parenting education
+program, upon a finding that such participation is
+necessary and provided both parties are present when
+such order is issued.”
+Completion:
+“No party shall be required to participate in such
+program more than once. A party shall be deemed to
+have satisfactorily completed such program upon
+certification by the service provider of the program.
+Dissolution of Marriage - 57You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+COURT RULES: Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+CASE LAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+(c) The Judicial Department shall, by contract with
+service providers, make available the parenting
+education program and shall certify to the court the
+results of each party's participation in the program.”
+Fees:
+“Any person who is ordered to participate in a parenting
+education program shall pay directly to the service
+provider a participation fee, except that no person may
+be excluded from such program for inability to pay such
+fee. Any contract entered into between the Judicial
+Department and the service provider pursuant to
+subsection (c) of this section shall include a fee schedule
+and provisions requiring service providers to allow
+persons who are indigent or unable to pay to participate
+in such program and shall provide that all costs of such
+program shall be covered by the revenue generated from
+participants' fees. The total cost for such program shall
+not exceed two hundred dollars per person. Such
+amount shall be indexed annually to reflect the rate of
+inflation.
+Time:
+“The program shall not exceed a total of ten hours.”
+Domestic Violence:
+“Any service provider under contract with the Judicial
+Department pursuant to this section shall provide safety
+and security for participants in the program, including
+victims of family violence.”
+• Connecticut Practice Book (2024)
+Chapter 25. Procedure in Family Matters
+§ 25-5(a)(5). “The parties shall participate in the
+parenting education program within sixty days of the
+return day or within sixty days from the filing of the
+application.”
+• Dutkiewicz v. Dutkiewicz, 289 Conn. 362, 957 A.2d 821
+(2008). “The defendant claims that § 46b-69b is facially
+unconstitutional because it violates his right to substantive
+due process guaranteed by the fourteenth amendment to the
+United States constitution. The defendant contends that the
+statute unconstitutionally infringes on a parent's right to
+exercise care, custody and control over his or her child
+because, absent a showing of harm to the child or parental
+unfitness, the state does not have a compelling interest to
+issue an automatic order for the parties to attend the
+parenting education program. The trial court observed that,
+consistent with United States Supreme Court jurisprudence,
+a parent's interest in making decisions concerning the care,
+custody and control of his or her child is a fundamental right.
+The trial court concluded, however, that ‘[o]n its face, the
+language of the statute fails to implicate the care, custody or
+control that a parent exercises over a child.’ Despite this
+Dissolution of Marriage - 58Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+PUBLICATIONS: TREATISES: You can contact us
+or visit our catalog
+to determine which
+of our law libraries
+own the treatises
+cited.
+References to online
+databases refer to
+in-library use of
+these databases.
+FORMS: Please visit the
+Official Court
+Webforms page for
+the current forms.
+conclusion, the trial court nonetheless applied strict scrutiny
+and held that the statute was constitutional. The trial court
+concluded that the statute was narrowly tailored, in that it
+applies only to parents with minor children who are parties
+to four specified family law actions; see Practice Book § 25-
+5(a); and that the statute achieved a compelling state
+interest by aiming to maintain familial harmony through a
+difficult transition.” (pp. 371-372)
+“It is clear from the text of the statute that the purpose of
+the course is to educate parents and provide them with
+information aimed at lessening the adverse impact on
+children that may result from the restructuring of the family.
+As the trial court concluded, ‘[o]n its face, the language of
+the statute fails to implicate the care, custody or control
+that a parent exercises over a child.’ We agree. The course
+merely provides information to parents regarding the effects
+of family restructuring on children. Although the legislature
+intended to provide useful educational material, what
+parents choose to do with the information is entirely up to
+them. Parents can choose to apply the skills gleaned from
+the course or parents can choose the opposite — that is, to
+ignore the information and to decline to use it in their
+familial interactions. There is no legal requirement for
+parents to use the information in exercising care, custody
+and control over their children.” (p. 380)
+“Moreover, the education program does not involve the
+children themselves. There is no requirement that the
+children attend any of the presentations. The statute does
+not authorize the providers to enter the home. Nor does the
+statute authorize the providers to interview or counsel the
+children.” (p. 381)
+• JDP-FM-151. Parenting Education Programs: List of Approved
+Programs, Instructions to Participants, Program Explanation,
+Program Costs (rev. 3/24)
+• Connecticut Practice Series: Family Law and Practice with
+Forms.
+Chapter 42. Child Custody and Visitation
+§ 42:50. Parenting-education program
+§ 42:51. – Form
+• A Practical Guide to Divorce in Connecticut, Hon. Barry F.
+Armata and Campbell D. Barrett, editors, Massachusetts
+Continuing Legal Education, 2013, with 2018 supplement.
+Chapter 8. Issues Relating to Children: Jurisdiction, Child
+Custody, Visitation, and Other Issues
+§ 8.4 Child Custody and Visitation
+§ 8.4.1 Parent Education
+• JD-FM-149. Parenting Education Program - Order, Certificate
+and Results (rev. 11/12)
+Dissolution of Marriage - 59Section 2.1: Jurisdiction
+SCOPE: SEE ALSO: A Guide to Resources in the Law Library
+• Bibliographic resources relating to the residency
+requirement for:
+• filing a complaint for dissolution of marriage
+• issuing a decree dissolving a marriage
+• Pleadings and Motion Practice in Connecticut Family
+Matters
+DEFINITIONS: Sec. 3. Motion to Dismiss
+• Jurisdiction: “Jurisdiction is the power in a court to hear
+and determine the cause of action presented to it.
+Jurisdiction must exist in three particulars: the subject
+matter of the case, the parties, and the process.” Brown v.
+Cato, 147 Conn. 418, 422, 162 A.2d 175 (1960).
+• Domicil: “‘To constitute domicil[e], the residence at the
+place chosen for the domicil[e] must be actual, and to the
+fact of residence there must be added the intention of
+remaining permanently; and that place is the domicil[e] of
+the person in which he has voluntarily fixed his habitation,
+not for a mere temporary or special purpose, but with the
+present intention of making it his home.... [T]his intention
+must be to make a home in fact, and not an intention to
+acquire a domicil[e].... Moreover, [a] person may have ...
+only one domicil[e] at any one time.... [A] former
+domicil[e] persists until a new one is acquired.... Therefore
+proof of the acquisition of a new domicil[e] of choice is not
+complete without evidence of an abandonment of the
+old.... [O]ur review of a question of subject matter
+jurisdiction is a matter of law over which our review is
+plenary....’ (Citations omitted; emphasis omitted; internal
+quotation marks omitted.) Juma v. Aomo, 143 Conn. App.
+51, 56-60, 68 A.3d 148 (2013).” St. Denis-Lima v. St.
+Denis, 190 Conn. App. 296, 309-310, 212 A.3d 242
+(2019).
+• Residence: “while domicil is essential to ‘final jurisdiction,’
+residence alone provides jurisdiction for the filing of a
+dissolution complaint.” Sauter v. Sauter, 4 Conn. App. 581,
+582, 495 A.2d 1116 (1985).
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-44. Residency requirement
+“(a) A complaint for dissolution of a marriage or for
+legal separation may be filed at any time after either
+party has established residence in this state.
+“(b) Temporary relief pursuant to the complaint may
+be granted in accordance with sections 46b-56 and
+46b-83 at any time after either party has established
+residence in this state.
+Dissolution of Marriage - 60
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+“(c) A decree dissolving a marriage or granting a legal
+separation may be entered if: (1) One of the parties
+to the marriage has been a resident of this state for
+at least the twelve months next preceding the date of
+the filing of the complaint or next preceding the date
+of the decree; or (2) one of the parties was domiciled
+in this state at the time of the marriage and returned
+to this state with the intention of permanently
+remaining before the filing of the complaint; or (3)
+the cause for the dissolution of the marriage arose
+after either party moved into this state.
+“(d) For the purposes of this section, any person who
+has served or is serving with the armed forces, as
+defined by section 27-103, or the merchant marine,
+and who was a resident of this state at the time of his
+or her entry shall be deemed to have continuously
+resided in this state during the time he or she has
+served or is serving with the armed forces or
+merchant marine.”
+• Altraide v. Altraide, 153 Conn. App. 327, 330 n.2, 101
+A.3d 317 (2014). “The defendant also argues that the
+court lacked jurisdiction over this case because a prior
+divorce action had been filed in Nigeria. The test for
+jurisdiction over marital actions is domicile. Litvaitis v.
+Litvaitis, 162 Conn. 540, 545, 295 A.2d 519 (1972). The
+record confirms, based on the testimony of the plaintiff and
+the defendant, that both parties were residents of
+Connecticut for twelve months prior to the filing of the
+complaint. Jurisdiction in this state is therefore proper.”
+• Juma v. Aomo, 143 Conn. App. 51, 57-58, 68 A.3d 148
+(2013). "‘With regard to whether a court has jurisdiction,
+“[t]he traditional requisite for subject matter jurisdiction in
+matrimonial proceedings has been domicil.... Regardless of
+its validity in the nation awarding it, the courts of this
+country will not generally recognize a judgment of divorce
+rendered by the courts of a foreign nation as valid to
+terminate the existence of a marriage unless, by the
+standards of the jurisdiction in which recognition is
+sought, at least one of the spouses was a good faith
+domiciliary in the foreign nation at the time the decree was
+rendered.” ... Id. at 545-46.
+‘To constitute domicil, the residence at the place chosen
+for the domicil must be actual, and to the fact of residence
+there must be added the intention of remaining
+permanently; and that place is the domicil of the person in
+which he has voluntarily fixed his habitation, not for a
+mere temporary or special purpose, but with the present
+intention of making it his home....’ Rice v. Rice, 134 Conn.
+440, 445–46, 58 A.2d 523 (1948), aff'd, 336 U.S. 674, 69
+S.Ct. 751, 93 L.Ed. 957 (1949). ‘[T]his intention must be
+to make a home in fact, and not an intention to acquire a
+Dissolution of Marriage - 61Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+domicil.’ . . .Id., 447. ‘Where . . . it becomes highly
+advantageous to the claimant temporarily to feign an
+intention to become a resident for only a brief time, in
+order to accomplish other ends, his claim of intention will
+be scrutinized and weighted like any other evidence in the
+light of his conduct and all the circumstances surronding
+it.’ Id., 448. Moreover, ‘[a] person may have ... only one
+domicil at any one time.’ Smith v. Smith, 174 Conn. 434,
+439, 389 A.2d 756 (1978). ‘[A] former domicil persists
+until a new one is acquired.... Therefore proof of the
+acquisition of a new domicil of choice is not complete
+without evidence of an abandonment of the old.’ ... Rice v.
+Rice, supra, 134 Conn. at 446.”
+• Zitkene v. Zitkus, 140 Conn. App. 856, 866, 60 A.3d 322
+(2013). “Our Supreme Court likewise has explained that
+‘judgments of courts of foreign countries are recognized in
+the United States because of the comity due to the courts
+and judgments of one nation from another. Such
+recognition is granted to foreign judgments with due
+regard to international duty and convenience, on the one
+hand, and to rights of citizens of the United States and
+others under the protection of its laws, on the other hand.
+This principle is frequently applied in divorce cases; a
+decree of divorce granted in one country by a court having
+jurisdiction to do so will be given full force and effect in
+another country by comity.... The principle of comity,
+however, has several important exceptions and
+qualifications. A decree of divorce will not be recognized by
+comity where it was obtained by a procedure which denies
+due process of law in the real sense of the term, or was
+obtained by fraud, or where the divorce offends the public
+policy of the state in which recognition is sought, or where
+the foreign court lacked jurisdiction.’ Litvaitis v. Litvaitis,
+162 Conn. 540, 544-45, 295 A.2d 519 (1972).
+With respect to establishing the jurisdiction of the foreign
+court, ‘courts of this country will not generally recognize a
+judgment of divorce granted by a court of another country
+unless, by the standards of the jurisdiction in which
+recognition is sought, at least one of the spouses was a
+good faith domiciliary in the foreign nation at the time the
+decree was rendered.’ (Internal quotation marks
+omitted.) Bruneau v. Bruneau, 3 Conn. App. 453, 455, 489
+A.2d 1049 (1985). It is undisputed that the plaintiff was
+domiciled in Lithuania at the time that the Kaunas City
+District Court rendered judgment dissolving their marriage,
+that both parties appeared before that court and that both
+parties agreed to the settlement agreement submitted
+thereto. On that basis, the trial court determined that the
+Kaunas City District Court ‘had jurisdiction to enter the
+divorce decree.’ The plaintiff does not argue otherwise in
+this appeal.”
+• Jungnelius v. Jungnelius, 133 Conn. App. 250, 35 A.3d 359
+(2012). Residency Requirement to Establish Subject Matter
+Dissolution of Marriage - 62Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+Jurisdiction.
+“…our Supreme Court precedent only requires
+the plaintiff to establish that for the twelve months before
+the date the complaint was filed …that either she or the
+defendant were domiciled in Connecticut with substantially
+continuous residence. (p. 258)
+•
+“Our Supreme Court discussed the elements of domicile in
+Adame v. Adame, 154 Conn. 389, 225 A.2d 188 (1966). In
+that case, the court wrote: ‘The requisites of domicile are
+actual residence coupled with the intention of permanently
+remaining…The intention is a fact which must be found by
+the court….and the intention must be to make a home at
+the moment, not to make a home in the future. . . We
+discussed the concept of domicile at length in McDonald v.
+Hartford Trust Co., 104 Conn 169, 132 A. 902 [1926],
+where we noted that a domicile once acquired continues
+until another is established and that [t]he law does not
+permit one to abandon, nor recognize an abandonment of,
+a domicile until another has been established.’” (p. 259)
+• Charles v. Charles, 243 Conn. 255, 256, 701 A.2d 650
+(1997). “The sole issue on appeal is whether the Superior
+Court has subject matter jurisdiction, pursuant to General
+Statutes § 46b-44 (c) (1), over a dissolution of marriage
+action brought by an individual who is not a resident of
+Connecticut against a member of the Mashantucket Pequot
+Indian Tribe (tribe) who resides on the tribe’s reservation
+in Ledyard. We answer this question in the affirmative.”
+• Sauter v. Sauter, 4 Conn. App. 581, 582, 495 A.2d 1116
+(1985). “The plaintiff initially argues that the court erred in
+dismissing the action for lack of subject matter jurisdiction
+because it should not have considered the question of
+domicil until trial. On the basis of LaBow v. LaBow, 171
+Conn. 433, 370 A.2d 990 (1976), he argues that while
+domicil is essential to ‘final jurisdiction,’ residence alone
+provides jurisdiction for the filing of a dissolution
+complaint. We agree.”
+“The pendency of an action in one state is not a ground for
+abatement of a later action in another state.” (p. 584)
+“In the interests of judicial economy, a court may, in the
+exercise of its discretion, order that the second action be
+stayed during the pendency of the first action, even though
+the actions are pending in different jurisdictions.” (pp.
+584-585)
+• Taylor v. Taylor, 168 Conn. 619, 620-621, 362 A.2d 795
+(1975). “. . . the burden of proving an allegation of lack of
+jurisdiction . . . falls upon the party making that claim . . .”
+• Hames v. Hames, 163 Conn. 588, 595, 316 A.2d 379
+(1972). “Obviously, even if canon law should deny the
+authority of the state to dissolve a marriage, religious
+Dissolution of Marriage - 63WEST KEY
+NUMBERS:
+DIGESTS: ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+doctrine could not nullify the decrees of our courts. U.S.
+Const., amend. 1, 14.”
+• Divorce
+IV. Proceedings
+(A) Jurisdiction
+57-65
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 4. Jurisdiction and service
+• West’s Connecticut Digest
+Divorce
+IV. Proceedings
+A. Jurisdiction
+57. Courts invested with jurisdiction
+58. Jurisdiction of cause of action
+59. – In general
+60. – Place of marriage
+61. – Place of occurrence of cause for divorce
+62. – Domicile or residence of parties
+63. – Separate domicile
+64. – Acquisition of domicile for purpose of divorce
+65. Jurisdiction of the person
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+D. Practice and Procedure in Divorce Actions
+1. Jurisdiction in Divorce Actions
+§§ 170-196
+• 25 Am Jur 2d Domicil, Thomson West, 2014 (Also available
+on Westlaw).
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+IV. Proceedings, Trial, and Judgment
+B. Jurisdiction and Venue
+§§ 146-168
+• 28 CJS Domicile, Thomson West, 2019 (Also available on
+Westlaw).
+• 73 ALR 3d 431, Validity and Construction of Statutory
+Provision Relating to Jurisdiction of Court for Purpose of
+Divorce for Servicemen, by James O. Pearson, Jr., J.D.,
+Thomson West, 1976 (Also available on Westlaw).
+• 51 ALR 3d 223, What Constitutes Residence or Domicil
+Within State by Citizen of Another Country for Purpose of
+Jurisdiction in Divorce, by Emile F. Short, LL.B., LL.M.,
+Barrister-at-Law, Lincoln’s Inn, Thomson West, 1973 (Also
+available on Westlaw).
+Dissolution of Marriage - 64TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+• 13 ALR 3d 1419, Domestic Recognition of Divorce Decree
+Obtained in Foreign Country and Attacked for Lack of
+Domicile or Jurisdiction of Parties, Thomson West, 1967
+(Also available on Westlaw).
+ALR INDEX: • Divorce and Separation
+Jurisdiction
+Residence or domicile
+TEXTS &
+• ALI Restatement of the Law Conflict of Laws, 2d
+Chapter 3. Judicial jurisdiction
+Topic 3. Jurisdiction over status
+Title B. Jurisdiction for divorce
+• Divorce in Connecticut: The Legal Process, Your Rights, and
+What to Expect, by Renee C. Bauer, Addicus Books, 2014.
+Chapter 1. Understanding the Divorce Process
+• A Practical Guide to Divorce in Connecticut, Hon. Barry F.
+Armata and Campbell D. Barrett, editors, Massachusetts
+Continuing Legal Education, 2013, with 2018 supplement.
+• 2 Stephenson’s Connecticut Civil Procedure, 3d ed., by
+Renée Bevacqua Bollier and Susan V. Busby, Atlantic Law
+Book Company, 2002, with 2003 supplement.
+Chapter 20. Family law procedures
+§ 243. Exclusive jurisdiction of superior court; Venue
+§ 244. Jurisdiction required for dissolution; Domicile
+§ 245. Residence requirements
+§ 246. Exceptions to residence requirements
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 16. Jurisdiction
+• Friendly Divorce Guidebook for Connecticut, 2d ed., by
+Barbara Kahn Stark, LawFirst Publishing, 2003.
+Chapter 6. Getting divorced: procedures and paperwork
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 2. Jurisdiction
+• The Military Divorce Handbook: A Practical Guide to
+Representing Military Personnel and Their Families, 3d ed.,
+by Mark E. Sullivan, American Bar Association, 2019.
+Chapter 6. Divorce
+• Frank S. Berall, Domicile, Residence and Citizenship, 82
+Connecticut Bar Journal 249 (2008).
+LAW REVIEWS: Public access to law
+review databases is
+available on-site at
+each of our law
+libraries.
+Dissolution of Marriage - 65• Robert M. McAnerney and Samuel V. Schoonmaker, III,
+Connecticut’s New Approach to Marriage Dissolution, 47
+Connecticut Bar Journal 375 (1973).
+Dissolution of Marriage - 66Table 4: Domicile
+Domicile
+Leaving “When the parties left this State with the intention of never
+returning, their domicile in Connecticut was not thereby changed.
+The former domicile persists until a new one is acquired.” Mills v.
+Mills, 119 Conn. 612, 617-618, 617, 179 A. 5 (1935).
+Abandonment “The law does not permit one to abandon, nor recognize an
+abandonment of, a domicil until another has been established.”
+McDonald v. Hartford Trust Co., 104 Conn. 169, 177, 132 A. 902
+(1926).
+Compared to
+address
+“An ‘address’ is not domicil, and a person may have
+simultaneously two or more residence addresses but only one
+domicil at any one time.” Taylor v. Taylor, 168 Conn. 619, 621,
+362 A.2d 795 (1975).
+Once you have identified useful cases, it is important to update the cases before you rely on them.
+Updating case law means checking to see if the cases are still good law. You can contact your local law
+librarian to learn about the tools available to you to update cases.
+Dissolution of Marriage - 67Section 2.2: Process
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Bibliographic sources relating to the procedures for service
+of process in an action for dissolution of marriage.
+• Process: “shall be a writ of summons or attachment,
+describing the parties, the court to which it is returnable
+and the time and place of appearance, and shall be
+accompanied by the plaintiff’s complaint.” Connecticut
+Practice Book § 8-1(a) (2024).
+• Manner of service: “Except as otherwise provided,
+process in any civil action shall be served by leaving a true
+and attested copy of it, including the declaration or
+complaint, with the defendant, or at his usual place of
+abode, in this state.” Conn. Gen. Stat. § 52-57(a) (2023)
+• Usual place of abode: “It is clear that one’s ‘usual place
+of abode’ is in the place where he would most likely have
+knowledge of service of process . . . . Its chief purpose is
+to ensure actual notice to the defendant that the action is
+pending . . . . The usual place of abode is generally
+considered to be the place where the person is living at the
+time of service . . . . It is not necessarily his domicil . . .
+and a person may have more than one usual place of
+abode . . . . In the final analysis, the determination of
+one’s usual place of abode is a question of fact and the
+court may consider various circumstances.” Plonski v.
+Halloran, 36 Conn. Supp. 335, 335-336, 420 A.2d 117
+(1980).
+• Long arm statute (domestic relations): Conn. Gen.
+Stat. § 46b-46 (2023)
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-45. Service and filing of complaint and
+appearance. Waiver of service.
+§ 46b-46. Notice to nonresident party. Jurisdiction over
+nonresident for alimony and support.
+§ 52-46. Time for service.
+§ 52-46a. Return of process.
+§ 52-48. Return day of process.
+§ 52-50. Persons to whom process shall be directed.
+(2024 Supplement)
+§ 52-54. Service of summons.
+§ 52-57. Manner of service upon individuals,
+municipalities, corporations, partnerships and voluntary
+associations.
+§ 52-123. Circumstantial defects not to abate
+pleadings.
+• Public Act No. 17-47 - An Act Concerning Nonadversarial
+Dissolution Of Marriage (Effective October 1, 2017)
+Summary for Public Act 17-47
+Dissolution of Marriage - 68
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+PUBLIC ACT: Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+Waiver of service of process of summons and
+complaint under section 46b-45(b).
+“Any person entitled to service of process of a summons
+and complaint that commences an action for an
+annulment, a dissolution of marriage, a dissolution of
+civil union or a legal separation may waive such service
+by (1) executing a written waiver of service on a form
+prescribed by the Office of the Chief Court
+Administrator, and (2) filing an appearance with the
+court. Upon filing of both the waiver of service and the
+appearance of the person waiving such service, the
+action shall proceed as consistent with the provisions of
+this chapter.” Public Act No. 17-47, Sec. 3 (June 2017
+Spec. Sess.) (Effective October 1, 2017)
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 8. Commencement of Action
+§ 8-1. Process
+§ 8-2. Waiver of Court Fees and Costs
+Chapter 10. Pleadings
+§ 10-12. Service of Pleading and Other Papers;
+Responsibility of Counsel or Self-Represented
+Party: Documents and Persons to be Served
+§ 10-13. —Method of Service
+§ 10-14. —Proof of Service
+§ 10-15 —Numerous Defendants
+§ 10-16. —Several Parties Represented by One
+Attorney
+§ 10-17. —Service by Indifferent Person
+Chapter 11. Motions, Requests, Orders of Notice, and Short
+Calendar
+§ 11-4. Applications for Orders of Notice
+§ 11-5. Subsequent Orders of Notice; Continuance
+§ 11-6. Notice by Publication
+§ 11-7. Attestation; Publication; Proof of Compliance
+§ 11-8. Orders of Notice Directed outside of the United
+States of America
+Chapter 25. Procedure in Family Matters
+§ 25-5. Automatic Orders upon Service of Complaint or
+Application
+§ 25-23. Motions, Requests, Orders of Notice, and
+Short Calendar
+§ 25-28. Order of Notice
+• Coppola v. Coppola, 243 Conn. 657, 666, 707 A.2d 281
+(1998). “Allowing an amendment of the return date under
+the circumstances of the present case does not render §
+52-46a meaningless. A return date may be amended but it
+still must comply with the time limitations set forth in §
+52-48 (b). Section 52-48 (b) requires that ‘[a]ll process
+shall be made returnable not later than two months after
+the date of the process . . . .’ Section 52-48 (b), therefore,
+with its two month limit, circumscribes the extent to which
+a return date may be amended.”
+Dissolution of Marriage - 69
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update them to
+ensure they are still
+good law. You can
+contact your local
+law librarian to learn
+about updating
+cases.Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:
+DIGESTS: ENCYCLOPEDIAS: • Cato v. Cato, 226 Conn. 1, 626 A.2d 734 (1993). “The sole
+issue in this appeal is whether an order of notice is
+necessary to meet the jurisdictional requirements of
+General Statutes (Rev. to 1989) § 46b-46, the domestic
+relations long-arm statute.” (p. 2)
+“We conclude that in a case such as this, where service of
+process can be accomplished by the most reliable means—
+that is, in-hand service of process by a process server in
+accordance with 52-57a—an order of notice is not required
+pursuant to 46b-46.” (p. 9)
+• Babouder v. Abdennur, 41 Conn. Supp. 258, 262, 566 A2d
+457(1989). “In Connecticut, as in other states, the court
+will not exercise jurisdiction in a civil case which is based
+upon service of process on a defendant who has been
+decoyed, enticed or induced to come within the court’s
+jurisdiction by any false representation, deceitful
+contrivance or wrongful device for which the plaintiff is
+responsible . . . . This rule does not apply, however, when
+the defendant enters the state on his own, even if the
+plaintiff and his agents then engage in trickery to make
+service of process.”
+• Gluck v. Gluck, 181 Conn. 225, 226, 435 A.2d 35 (1980).
+“In particular, she [the defendant] claims that abode
+service is constitutionally deficient within the context of a
+dissolution proceeding. We disagree.”
+• Smith v. Smith, 150 Conn. 15, 20, 183 A.2d 848 (1962).
+“Abode service is only a step removed from manual service
+and serves the same dual function of conferring jurisdiction
+and giving notice.”
+• Process #1 et seq.
+• Divorce
+IV. Proceedings
+(E) Process or Notice
+76-80
+• Connecticut Family Law Citations: A Reference Guide to
+Connecticut Family Law Decisions, by Monika D. Young,
+LexisNexis, 2023.
+Chapter 4. Jurisdiction and service
+• West’s Connecticut Digest
+Divorce
+IV. Proceedings
+C. Time for proceeding
+E. Process or notice
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+D. Practice and Procedure in Divorce Actions
+1. Jurisdiction in Divorce Actions
+§ 173. Service and notice requirements
+Dissolution of Marriage - 70Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+IV. Proceedings, Trial, and Judgment
+C. Parties and Process
+2. Process, Notice and Appearance
+§§ 177-192
+• 72 CJS Process, Thomson West, 2018 (Also available on
+Westlaw).
+TREATISES:
+Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+ALR INDEX: • Divorce and Separation
+Process and service of process and papers
+TEXTS &
+• 2 Stephenson’s Connecticut Civil Procedure, 3d ed., by
+Renée Bevacqua Bollier and Susan V. Busby, Atlantic Law
+Book Company, 2002, with 2003 supplement.
+Chapter 20. Family law procedures
+§ 248. Service of process
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 18. Process
+• Friendly Divorce Guidebook for Connecticut, 2d ed., by
+Barbara Kahn Stark, LawFirst Publishing, 2003.
+Chapter 6. Getting divorced: procedures and paperwork
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Chapter 2. Jurisdiction
+Part IV. Effectuating Service of Process
+§ 2.09. Checklist: Effectuating Service of Process
+§ 2.10. Serving Process to Effectuate Jurisdiction
+§ 2.11. Serving Process on Residents of
+Connecticut
+§ 2.12. Serving Process on Non-Residents of
+Connecticut
+§ 2.15. Serving Process – Who is Authorized
+Dissolution of Marriage - 71Section 2.3: Parties
+SCOPE: A Guide to Resources in the Law Library
+• Bibliographic resources relating to proper or necessary
+parties to an action for dissolution of marriage in
+Connecticut and third party intervention.
+STATUTES: • Conn. Gen. Stat. (2023)
+§ 46b-43. Capacity of minor to prosecute or defend.
+§ 46b-54. (Formerly Sec. 46-43). Appointment of
+counsel or guardian ad litem for a minor child. Duties.
+Best interests of the child.
+§ 46b-55. (Formerly Sec. 46-63). Attorney General as
+party to action.
+§ 46b-57. Third party intervention re custody of minor
+children. Preference of child.
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 9. Parties
+§ 9-1. Continuance for Absent or Nonresident
+Defendant
+§ 9-3. Joinder of Parties and Actions; Interested
+Persons as Plaintiffs
+§ 9-4.
+— Joinder of Plaintiffs in One Action
+§ 9-5.
+— Consolidation of Actions
+§ 9-10.
+— Orders to Ensure Adequate Representation
+§ 9-18. Addition or Substitution of Parties; Additional
+Parties Summoned in by Court
+§ 9-19.
+§ 9-22.
+— Nonjoinder and Misjoinder of Parties
+— Motion to Cite in New Parties
+§ 9-24. Change of Name by Minor Children
+Chapter 10. Pleadings
+§ 10-12. Service of the Pleading and Other Papers;
+Responsibility of Counsel or Self-Represented
+Party; Documents and Persons to Be Served
+§ 10-13.
+§ 10-14.
+§ 10-15.
+§ 10-16.
+— Method of Service
+— Proof of Service
+— Numerous Defendants
+— Several Parties Represented by One
+Attorney
+§ 10-17.
+— Service by Indifferent Person
+• Luster v. Luster, 128 Conn. App. 259, 273-275, 17 A.3d
+1068 (2011). “In determining whether the conservators in
+this case have the authority to maintain a dissolution
+action on behalf of the defendant, we are mindful of the
+importance of the right of access to our courts, a right
+shared by all people, including those declared legally
+incompetent.” (p. 270)
+“General Statutes § 45a-650 (k) very clearly states: ‘[a]
+conserved person shall retain all rights and authority not
+expressly assigned to a conservator.’ (Emphasis added.)
+Dissolution of Marriage - 72
+CASELAW: Once you have
+identified useful
+cases, it is important
+to update them to
+ensure they are still
+good law. You can
+contact your local
+law librarian to learn
+about updating
+cases.Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+Additionally, although a conserved person retains all of his
+or her unassigned rights and authority; see General
+Statutes § 45a-650(k); there has been created a common-
+law rule that a conserved person, like a minor, does not
+have the legal capacity to bring a civil action in his or her
+own name, but must do so through a properly appointed
+representative, except in limited circumstances. See
+Lesnewski v. Redvers, 276 Conn. 526, 530, 886 A.2d 1207
+(2005); Cottrell v. Connecticut Bank & Trust Co., supra,
+175 Conn. 261; Newman v. Newman, supra, 35 Conn. App.
+451.” (p. 273)
+“Given that a conserved person, except in limited
+circumstances, may bring a civil action only through a
+properly appointed representative, such as a conservator,
+and that an action for dissolution of marriage is a civil
+action, combined with the conserved person’s retention of
+all rights and authority not specifically assigned, we
+conclude that a conservator may bring a civil action for
+dissolution of marriage on behalf of the conserved person.”
+(p.274-275)
+• Manndorf v. Dax, 13 Conn. App. 282, 287, 535 A.2d 1324
+(1988). “Although interested in the defendant’s marriage
+to the husband, the plaintiff, as a nonparty to that
+marriage, had no right to maintain an action for its
+annulment.”
+• Derderian v. Derderian, 3 Conn. App. 522, 526-527, 490
+A.2d 1008 (1985). “Other jurisdictions have upheld
+judgments in dissolution of marriage actions which
+potentially disturb the interests of those not parties to a
+dissolution action by construing the judgments as
+determinative of the right, title and interest in the property
+of the husband and wife, assuming that the property is an
+asset of the marital estate….
+A judgment in a dissolution of marriage action may,
+therefore, contain the judicial seeds of the divestment of a
+claimed interest in realty belonging to those other than the
+parties to the action. If a judgment in a dissolution of
+marriage action is subsequently, collaterally attacked by a
+third person who took his interest after it or after another
+earlier aborted action between the same marital parties
+was pending, knowing of the pendency of those actions,
+and who could have, but did not intervene in those actions,
+the judgment will nevertheless stand.
+In the present action, a precise, underlying debt of the
+brother to the defendant [his sister] had been determined
+in the second dissolution of marriage action. That debt was
+the award of the marital home to the defendant. Since
+there was an established debt at the time of the present
+partition action, the brother was not an indispensable party
+in the action.”
+Dissolution of Marriage - 73Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+• Vanderlip v. Vanderlip, 1 Conn. App. 158, 159, 468 A.2d
+1253 (1984). “In this case, we cannot believe that the
+defendant was harmed by the refusal of the court to permit
+a continuance. On the day following the order to proceed
+immediately to trial, the defendant appeared. The usual
+order of trial was revamped in her favor. She was present
+at all relevant times. Under these circumstances, we are
+not persuaded that the trial court abused its discretion.”
+• Sands v. Sands, 188 Conn. 98, 105, 448 A.2d 822 (1982).
+“Drawing a distinction between a situation where a party
+has actually received or is receiving state welfare benefits
+and a situation where a party has merely applied for those
+benefits would impinge on the discretion of the trial court
+to fashion a remedy that is just and equitable. It is obvious
+that the defendant applied for state welfare benefits with
+the expectation of having her application approved. In
+addition, there was testimony that the defendant had
+already received benefits from the city of Meriden. The trial
+court could not ignore the fact that the state had a definite
+and imminent interest in this matter. Under these
+circumstances, the trial court clearly acted within its
+discretion in awarding $1 per year alimony in order to
+protect a valid state interest.”
+• Salvio v. Salvio, 186 Conn. 311, 324, 441 A.2d 190
+(1982). “Since Gerald and Deborah [the children] had
+acquired no legal interest in the funds on deposit, they
+were not necessary parties for the purpose of establishing
+the trial court’s jurisdiction over those accounts.”
+• Manter v. Manter, 185 Conn. 502, 503, 441 A.2d 146
+(1981). “The issue in this case is whether a divorced
+adoptive father who has permitted his former wife's second
+husband to adopt his children may, more than a year
+following the latter's divorce, intervene to regain custody of
+the children. The appellant's motion to intervene was
+denied by the trial court, and he appeals from that denial.
+Prospective third party intervenor Allan Dexter Coombs
+married Brenda Mae Coombs in March, 1961. The couple
+then adopted two minor children, Donald Allan and Heather
+Eleanor. After the Coombs' divorce in July, 1974, Brenda
+Coombs married John P. Manter in February, 1975, using
+thereafter the name of Bonnie Manter. Because of the
+Manter marriage, Allan Coombs consented to the
+termination of his parental rights and the adoption of
+Donald and Heather by John Manter; the termination and
+adoption agreements were ordered by Probate Court
+decree on September 9, 1975. After two years of marriage
+Bonnie and John Manter were divorced on January 18,
+1978, with Bonnie Manter retaining custody of both
+children. The divorce decree was modified on April 6, 1978,
+to deny John Manter visitation rights. To date he has not
+challenged that denial or the custody decision.
+Dissolution of Marriage - 74Once you have
+identified useful
+cases, it is important
+to update the cases
+before you rely on
+them. Updating case
+law means checking
+to see if the cases
+are still good law.
+You can contact your
+local law librarian to
+learn about the tools
+available to you to
+update cases.
+WEST KEY
+NUMBERS:
+Seeking custody or visitation rights, Allan Coombs moved
+on February 13, 1979, to intervene in the divorce action of
+Manter v. Manter under General Statutes 46b-57, which
+permits interested third parties to intervene in custody
+controversies before the Superior Court. At a preliminary
+hearing the trial court on April 2 granted Coombs standing
+for the expressly limited purpose of a visitation study by
+the family relations office. By supplemental order dated
+October 1, 1979, the court denied the motion to intervene
+on the dual grounds that no present dispute was then
+before the court and no facts were presented to qualify
+Coombs as an interested party under 46b-57. Coombs now
+appeals from that denial of his motion to intervene.”
+• Divorce
+IV. Proceedings
+(D) Parties
+§§ 70-74
+DIGESTS: • ALR Digest
+Divorce
+IV. Proceedings
+(D) Parties
+§§ 70-74
+• West’s Connecticut Digest
+Divorce
+IV. Proceedings
+D. Parties
+§§ 70-74
+• 24 Am Jur 2d Divorce and Separation, Thomson West,
+2018 (Also available on Westlaw).
+I. Divorce and Separation Proceedings
+D. Practice and Procedure in Divorce Actions
+2. Parties in Divorce Actions
+§§ 197-215
+• 27A CJS Divorce, Thomson West, 2016 (Also available on
+Westlaw).
+IV. Proceedings, Trial, and Judgment
+C. Parties and Process
+1. In General
+§§ 169-176
+ALR INDEX: • Divorce and Separation
+Third persons
+TEXTS &
+• 7 Connecticut Practice Series: Family Law and Practice with
+Forms, 3rd ed., by Arnold H. Rutkin et al., 2010, Thomson
+West, with 2022-2023 supplement (also available on
+Westlaw).
+Chapter 17. Parties
+• LexisNexis Practice Guide: Connecticut Family Law, Louise
+Truax, editor, 2024 ed., LexisNexis.
+Dissolution of Marriage - 75
+ENCYCLOPEDIAS: Encyclopedias and
+ALRs are available in
+print at some law
+library locations and
+accessible online at
+all law library
+locations.
+Online databases are
+available for
+in-library use.
+Remote access is not
+available.
+TREATISES:Each of our law
+libraries own the
+Connecticut treatises
+cited. You can
+contact us or visit
+our catalog to
+determine which of
+our law libraries own
+the other treatises
+cited or to search for
+more treatises.
+References to online
+databases refer to
+in-library use of
+these databases.
+Remote access is not
+available.
+Chapter 2. Jurisdiction
+Part VI. Determining the Parties to Dissolution,
+Paternity and Custody Actions
+§ 2.22. Checklist: Determining the Parties to
+Dissolution, Paternity and Custody Actions
+§ 2.23. Establishing Standing
+§ 2.24. Bringing a Dissolution Action by Spouses or
+a Paternity Action by a Parent
+§ 2.25. Bringing a Dissolution Action by Native
+American Tribe Members
+§ 2.27. Bringing a Dissolution on Behalf of
+Incompetent Persons
+§ 2.28. Making the Attorney General or Town Clerk
+a Party
+§ 2.29. Evaluating the Necessity of Joinder and
+Third Parties in Dissolution Actions
+Dissolution of Marriage - 76Section 3: Pleadings, Motions, and Forms
+A Guide to Resources in the Law Library
+• See our research guide on Pleadings and Motion Practice in Family Matters.
+• Connecticut Judicial Branch Family Court Forms:
+Divorce, Custody, and Visitation Information
+(CT Judicial Branch)
+What to Expect on Your Resolution
+Plan Date (PDF)
+Responding to a Divorce
+Family Law Forms (Full List)
+Divorce Forms File for Custody or Visitation (or
+both)
+Divorce with an Agreement (or “waive 90”) File for a Motion for Modification
+Divorce without an Agreement File for a Motion for Contempt
+Nonadversarial (simplified or
+“non-ad”) Divorce
+File for a Restraining Order
+• Library of Connecticut Family Law Forms, 2d ed., by Amy Calvo MacNamara,
+Aidan R. Welsh, and Cynthia Coulter George, Eds., 2014, Connecticut Law
+Tribune.
+• 7 Connecticut Practice Series: Family Law and Practice with Forms, 3rd ed., by
+Arnold H. Rutkin et al., 2010, Thomson West, with 2022-2023 supplement (also
+available on Westlaw).
+• LexisNexis Practice Guide: Connecticut Family Law, Louise Truax, editor, 2024
+ed., LexisNexis. Chapter 20. Forms
+Dissolution of Marriage - 77Part B. Nonadversarial
+Dissolution of Marriage
+SCOPE: DEFINITIONS: A Guide to Resources in the Law Library
+• Bibliographic resources relating to nonadversarial
+dissolutions of marriage
+• Effect of Decree of Dissolution of Marriage: “The
+decree of dissolution of marriage shall give the parties the
+status of unmarried persons and they may marry again.”
+Conn. Gen. Stat. § 46b-44c(b) (2023).
+•
+“‘defined benefit pension plan’ means
+a pension plan in which an employer promises to pay a
+specified monthly benefit upon an employee's retirement
+that is predetermined by a formula based on the employee's
+earnings history and tenure of service.” Conn. Gen. Stat.
+§ 46b-44a(b) (2023).
+STATUTES: Conn. Gen. Stat. (2023)
+§ 46b-44a. Filing of joint petition for nonadversarial
+dissolution of marriage. Procedure. (2024 Supplement)
+§ 46b-44b. Revocation of joint petition for nonadversarial
+dissolution of marriage. Effect.
+§ 46b-44c. Disposition of nonadversarial dissolution of
+marriage; entry of decree of dissolution of marriage.
+§ 46b-44d. Review of settlement agreement in
+nonadversarial dissolution of marriage. Appearance of
+parties required; exceptions. Matters placed on the
+regular family docket.
+You can visit your
+local law library or
+search the most
+recent statutes and
+public acts on the
+Connecticut General
+Assembly website to
+confirm that you are
+using the most up-
+to-date statutes.
+PUBLIC ACTS: • Public Act No. 19-64 - An Act Concerning Court
+Operations. See section 2. (Effective October 1, 2019)
+Summary for Public Act 19-64
+• Public Act No. 17-47 - An Act Concerning Nonadversarial
+Dissolution Of Marriage (Effective October 1, 2017)
+Summary for Public Act 17-47
+• Public Act No. 15-7 - An Act Concerning a Nonadversarial
+Dissolution of Marriage (Effective October 1, 2015)
+Summary for Public Act No. 15-7
+LEGISLATIVE: • Public Act No. 17-47
+Substitute for Raised House Bill No. 7196: Bill Status
+(2017)
+Office of Legislative Research Bill Analysis, House Bill
+7196 (2017)
+Judiciary Committee Joint Favorable Report, House Bill
+7196 (2017)
+Dissolution of Marriage - 78Substitute for Raised House Bill No. 7196 Public Hearing
+Testimony (2017)
+• Michele Kirby, Connecticut’s Expedited Divorce Processes,
+Connecticut General Assembly, Office of Legislative
+Research, OLR Research Report 2016-R-0213 (October 5,
+2016).
+• Public Act No. 15-7
+Raised Senate Bill No. 1029: Bill Status (2015)
+Office of Legislative Research Bill Analysis, Senate Bill
+1029. An Act Concerning a Nonadversarial Dissolution of
+Marriage (2015)
+Judiciary Committee Joint Favorable Report, Senate Bill
+1029 (2015)
+Raised Senate Bill No. 1029 Public Hearing Testimony
+(2015)
+Amendments to the
+Practice Book (Court
+Rules) are published
+in the Connecticut
+Law Journal and
+posted online.
+COURT RULES: • Connecticut Practice Book (2024)
+Chapter 3. Appearances
+§ 3-1. Appearance for Plaintiff on Writ or Complaint in
+Civil and Family Cases
+§ 3-2. Time to File Appearance
+§ 3-3. Form and Signing of Appearance
+§ 3-4. Filing Appearance
+§ 3-5. Service of Appearances on Other Parties
+Chapter 25. Procedure in Family Matters
+§ 25-5B. Automatic Orders upon Filing of Joint Petition—
+Nonadversarial Divorce
+• Nonadversarial (simplified or “non-ad”) Divorce
+(Connecticut Judicial Branch)
+FORMS: Official Judicial
+Branch forms are
+frequently updated.
+Please visit the
+Official Court
+Webforms page for
+the current forms.
+LAW REVIEWS: • Hon. Lynda B. Munro (Ret.), Johanna S. Katz, and Meghan
+M. Sweeney, Administrative Divorce Trends and
+Implications, 50 Fam. L.Q. 427 (2016-2017)
+Public access to law
+review databases is
+available on-site at
+each of our law
+libraries.
+Dissolution of Marriage - 79Table 5: Excerpts from the Public Hearing Testimony of Conn. Public
+Act 17-47
+The Connecticut General Assembly
+Judiciary Committee Public Hearing
+March 6, 2017
+Testimony of the Honorable Elizabeth A. Bozzuto,
+Chief Administrative Judge for Family Matters
+Connecticut Judicial Branch
+Background: “Two years ago, I came before this Committee and asked for
+your support of a similarly titled bill that established a
+simplified dissolution of marriage for parties who agreed to the
+dissolution and who met certain criteria, as well as allowed
+other parties with an agreement to obtain a divorce in nearly a
+quarter of the time that it would ordinarily require. Thanks to
+your leadership on the issue, the bill passed, and as a result,
+one in six of all dissolutions subsequently filed have taken
+advantage of this new law, resulting in thousands of litigants
+moving on with their lives more quickly, and without the time
+and expense of numerous court hearings.”
+Benefits to the
+Parties:
+“The bill before you expands upon the original criteria of our
+nonadversarial dissolution so that more parties can take
+advantage of the simplified process, as well as makes
+additional changes to our dissolution framework, all with one
+central goal in mind: to allow parties to move expeditiously and
+efficiently through the dissolution process.”
+Changes to
+Dissolution
+Framework:
+“Section 1 of the bill amends the existing nonadversarial
+process, whereby parties obtain a divorce without appearing
+before a judge, if they meet specific criteria.”
+“The two criteria that would change include:1) instead of a
+couple having been married eight years or less to qualify, we
+propose increasing this to nine years, and 2) the asset ceiling
+would increase from $35,000 to $80,000. We believe these two
+changes would significantly expand the pool of divorcing
+couples who would qualify for this process.”
+“Section 2 of the bill makes a technical change… This section
+would simply clarify that if the court places the matter on the
+regular family docket, neither party shall pay a new filing fee or
+be responsible for serving one another.”
+Dissolution of Marriage - 80

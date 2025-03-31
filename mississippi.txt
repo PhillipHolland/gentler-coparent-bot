@@ -1,0 +1,457 @@
+MISSISSIPPI LAW ON
+CUSTODY AND VISITATION
+These materials set out the basic tests that apply in custody actions between
+natural parents, between parents and third parties, between third parties, and in actions to
+modify custody and visitation.
+I. Custody actions between natural parents
+Custody actions between natural parents are governed by the “best interest of the
+child” standard. In determining the child’s best interest, courts are guided by factors set
+out in Albright v. Albright. In addition, several presumptions are applicable to the
+parent/parent custody action.
+[A] Presumptions
+[1] Parental equality. It is presumed that mothers and fathers are equally entitled
+to custody of their children. In 1983, the Mississippi Supreme Court replaced the
+maternal preference with a presumption of parental equality. See Albright v. Albright, 437
+So. 2d 1003, 1005 (Miss. 1983); see also Blevins v. Bardwell, 784 So. 2d 166, 172-73
+(Miss. 2001) (tender years doctrine has continuing validity as a factor for consideration in
+custody matters). The court’s holding was based in part on a Mississippi statute providing
+that neither parent “has any right paramount to the right of the other concerning custody.”
+See MISS. CODE ANN. § 93-13-1 (2004) (parents are “the joint natural guardians of their
+minor children and are equally charged with their care, nurture, welfare, and education,
+and the care and management of their estates”).
+1[2] Presumption against custody to violent parent. In 2003, the Mississippi
+legislature created a rebuttable presumption that custody should not be granted to a parent
+with a history of family violence. See MISS. CODE ANN. § 93-5-24 (2004). A “history” of
+family violence includes a pattern of violence or one incident resulting in serious bodily
+injury. If the presumption is raised and not rebutted, custody should be awarded to the
+nonviolent parent without consideration of the Albright factors. The presumption may be
+rebutted by showing that, notwithstanding the violence, the child’s best interests are
+served by placing custody with the parent accused of violence. Factors that may be
+considered as rebuttal evidence include adverse circumstances of the nonviolent parent,
+such as mental illness or substance abuse; the violent parent’s completion of a treatment
+or substance abuse program or parenting class; compliance with a restraining order; and
+whether the violence has discontinued.
+If both parents have a history of violence, the court may (1) award custody to the
+parent least likely to continue violent behavior; (2) order a treatment program for the
+custodial parent; and/or (3) award custody to a third party and limit access to the violent
+parent(s). Courts are directed to order payment of all costs and attorneys’ fees by a party
+who makes frivolous allegations of family violence. See MISS. CODE ANN. § 93-5-24
+(2004). In a 2008 case, the presumption was applied to award custody to grandparents as
+against a married couple, based on proof that a husband was abusive to his wife. J.P. v.
+S.V.B., 987 So. 2d 975 (Miss. 2008).
+[3] Presumption in favor of joint custody upon request. If both parents request
+joint custody, it is presumed that joint custody is in the best interests of the child.
+2[B] Determining custody: the Albright analysis
+[1] The factors. In Albright v. Albright, 437 So. 2d 1003 (Miss. 1983), the
+Mississippi Supreme Court abandoned the maternal preference, holding that a child’s age
+is but one of several factors for consideration in a custody award. The court stated, “the
+polestar consideration in child custody cases is the best interest and welfare of the child.”
+The court set out twelve factors for courts to weigh in awarding custody:
+• the age, health and sex of a child
+• which parent had continuing care of the child prior to separation
+• which parent has the best parenting skills
+• which has the willingness and capacity to provide primary child care
+• the employment responsibilities of both parents
+• the physical and mental health and age of parents
+• emotional ties of the parent and child
+• the parents’ moral fitness
+• the child’s home, school and community record
+• the preference of a child at the age of twelve
+• stability of the home environment and employment of each parent
+• and other relevant factors
+The Albright factors guide chancellors in reviewing evidence relevant to custody.
+They are not, as the supreme court has noted, a mathematical formula. Although
+3chancellors are instructed to weigh parents’ relative merits under each factor, a parent
+who “wins” on more factors is not necessarily entitled to custody. In some cases, one or
+two factors may control an award. See Divers v. Divers, 856 So. 2d 370, 3765 (Miss. Ct.
+App. 2003) (one factor may weigh so heavily that it controls award). Furthermore, a
+chancellor’s ultimate decision is guided by additional considerations – the credibility of
+witnesses, the weight of their testimony, and the weighing of evidence capable of more
+than one interpretation. Johnson v. Gray, 859 So. 2d 1006, 1013-14 (Miss. 2003)
+(chancellor has ultimate discretion to weigh evidence).
+The list is not exhaustive – courts may consider other relevant factors. If the
+presumption against custody to a violent parent is raised and not rebutted, custody should
+be awarded to the non-violent parent. An Albright analysis is not required.
+[2] Other relevant factors
+[a] Separation of siblings. There is a strong preference in Mississippi law for
+keeping siblings together unless unusual circumstances justify their separation. See
+Sellers v. Sellers, 638 So. 2d 481, 484 (Miss. 1994) (no separation of siblings in the
+absence of some unusual and compelling circumstance dictating otherwise). The
+preference, which predates Albright, continues to be recognized as an important
+consideration in custody decisions. For example, the court of appeals reversed an order
+separating eleven- and twelve-year-old sisters; one daughter’s slightly greater attachment
+to her mother did not justify their separation. See Sootin v. Sootin, 737 So. 2d 1022,
+1026-278 (Miss. Ct. App. 1998). However, the preference should be overridden if it
+would place a child in danger or in adverse circumstances. See Carson v. Natchez
+4Children’s Home, 580 So. 2d 1248, 1258 (Miss. 1991) (no error to separate siblings
+where both had been sexually abused and acted out sexually together).
+[b] Parental interference. In several cases, custody has been denied to a parent
+based on interference with the other parent’s relationship with a child. See Ferguson v.
+Ferguson, 639 So. 2d 921, 932 (Miss. 1994) (father belittled mother and encouraged
+child to disobey her); see also Mabus v. Mabus, 890 So. 2d 806, 818 (Miss. 2003)
+(mother’s interference with children’s relationship with father one reason supporting
+award of legal custody to father); Masino v. Masino, 829 So. 2d 1267, 1271 (Miss. Ct.
+App. 2002) (interference and failure to attend parenting classes as ordered negated tender
+years factor).
+In a 2006 case, the court of appeals affirmed modification of custody based on
+expert testimony that a mother’s interference and daughter’s attitude toward her father
+reflected parental alienation syndrome. Two experts testified that the mother’s conduct
+had resulted in the child’s alienation from her father. They stated that the girl suffered
+from depression, showed an excessive dependency on her mother, and exhibited a
+“shallow” animosity toward her father and his relatives without being able to explain why
+– conduct described as consistent with parental alienation syndrome. The case was the
+first to discuss the syndrome in detail. See Ellis v. Ellis, 952 So. 2d 982, 997 (Miss. Ct.
+App. 2006).
+II. Joint custody
+Parents may also be awarded joint legal or joint physical custody, or both. Joint
+legal custody gives the parties shared decision-making authority with regard to a child’s
+health, education, and welfare. Parents who share joint legal custody are obligated by
+5statute to exchange information related to the child and to confer with each other in
+making decisions. MISS. CODE ANN. § 93-5-24 (5)(e) (2004). Parents must confer
+regarding a child’s education, activities, medical and psychological care, religious
+training, discipline, and summer activities.
+Joint physical custody allows each parent to have significant, although not
+necessarily equal, time with a child. Joint physical custody may be structured in a variety
+of ways. Time with a child may be divided in any number of ways -- on a weekly basis or
+by alternating weeks, months, half-years, or years. See Elliott v. Elliott, 877 So. 2d 450,
+452 (Miss. Ct. App. 2003) (custody to mother three days a week and twenty-four
+weekends; father two days a week and twenty-eight weekends); Mercier v. Mercier, 717
+So. 2d 304, 305 (Miss. 1998) (alternating every other week); Morrow v. Morrow, 591 So.
+2d 829, 830 (Miss. 1991) (alternating custody of school age child every two years);
+Daniel v. Daniel, 770 So. 2d 562, 567 (Miss. Ct. App. 2000) (alternating every two
+weeks); McKree v. McKree, 723 So. 2d 1217, 1218 (Miss. Ct. App. 1998) (alternating
+months with reasonable visitation during month).
+As in any custody action, a court should consider the Albright factors in making
+an award of joint custody. No precise test has been articulated to determine when an
+award of joint rather than sole custody is appropriate. Certainly, however, both parents
+should be fit custodians for joint custody to be awarded. And ability to cooperate is an
+important consideration in an award of joint custody. Proximity is also important. As a
+general rule, joint physical custody is feasible only if the parties live in close proximity.
+However, parents may share joint legal custody at a distance. The importance of
+6proximity in joint physical custody is reflected in the fact that appellate courts routinely
+affirm modification of joint physical custody when one parent moves.
+III. Modification of custody
+Often, a guardian ad litem is appointed in an action to modify an existing custody
+order. It is important to understand the different tests applicable to modification actions.
+There may also be important jurisdictional issues that arise in custody modification
+actions.
+[A] The traditional test: Material change in circumstances
+The traditional test for modification of custody requires a finding that a material
+change of circumstances has occurred in the custodial parent’s home since the date of the
+decree, that the change adversely affects the child, and that modification is in the child’s
+best interests, as determined by application of the Albright factors. A court may find a
+material change in circumstances but conclude that a change in custody is not warranted
+under the Albright factors. McBride v. Cook, 858 So. 2d 160, 163 (Miss. Ct. App. 2003).
+The first prong of the test – a material change in circumstances -- requires proof
+of a serious material change in the home of the custodial parent. A change in the
+noncustodial parent’s home does not satisfy the test. Whether a material change has
+occurred depends on the totality of circumstances. Events which would not, alone, be a
+sufficient material change may in combination provide a basis for modifying custody.
+Hill v. Hill, 942 So. 2d 207, 210-11 (Miss. Ct. App. 2006); Duke v. Elmore, 956 So. 2d
+244 (Miss. Ct. App. 2006).
+In some cases, custody may be modified even if the adverse conduct or
+circumstance has ended. For example, a chancellor properly modified custody of a two-
+7year-old based on her mother’s drug use, even though she had been drug-free for some
+months at the time of the hearing. McSwain v. McSwain, 943 So. 2d 1288, 1293 (Miss.
+2006) (mother did not complete treatment program and still associated with former drug
+partner).
+Even if a material change is shown, custody should not, ordinarily, be modified
+unless the change adversely affects the child. A court erred in modifying custody based
+on a mother’s cohabitation that did not adversely affect her children. Forsythe v. Akers,
+768 So. 2d 943, 948 (Miss. Ct. App. 2000). However, if circumstances in the custodial
+parent’s home create a strong likelihood that the child will be damaged, a court may
+change custody without a showing that adverse effects have already occurred. The
+supreme court has stated that “where a child living in a custodial environment clearly
+adverse to the child's best interest, somehow appears to remain unscarred by his or her
+surroundings, the chancellor is not precluded from removing the child for placement in a
+healthier environment.” Riley v. Doerner, 677 So. 2d 740, 744 (Miss. 1996); cf. Duke v.
+Elmore, 956 So. 2d 244, 250 (Miss. Ct. App. 2006) (Riley does not require the presence
+of dangerous or illegal behavior such as drug use be shown in order to find an adverse
+environment).
+[B] Child’s choice
+A child’s preference to shift custody does not in itself constitute an adverse
+material change in circumstances. The court of appeals reversed a modification based
+primarily on a child’s wishes: “While a child’s expression of preference must be afforded
+weight by the chancellor, this Court is unaware that it has ever held that such an
+expression, supported by nothing more, constitutes the type of adverse material change in
+8circumstance that would warrant a custody modification.” The court did note that a
+child’s preference would support modification if the child “could articulate compelling
+reasons” to support the request. Best v. Hinton, 838 So. 2d 306, 308 (Miss. Ct. App.
+2002).
+[C] Alternate test for modification: Ongoing adverse circumstances
+The traditional test for modification usually achieves a satisfactory balance
+between protecting children and ensuring the stability of custodial arrangements.
+However, it hampers courts’ ability to protect children in the unfortunate situation in
+which both parents were questionably fit custodians at the time of divorce. In 1996, the
+supreme court in Riley v. Doerner addressed this deficiency. The court held that custody
+may be modified when the environment provided by a custodial parent is adverse to a
+child’s best interests and the noncustodial parent has changed positively and can provide
+a more suitable home. See Riley v. Doerner, 677 So. 2d 740, 744 (Miss. 1996) (“A child's
+resilience and ability to cope with difficult circumstances should not serve to shackle the
+child to an unhealthy home, especially when a healthier one beckons”) (evidence also
+showed multiple moves, sporadic employment, and several live in partners). The alternate
+“adverse environment” test applies only when a child is living in genuinely adverse
+circumstances. The test is not a vehicle for parents to relitigate the Albright factors.
+Hoggatt v. Hoggatt, 796 So. 2d 273, 274 (Miss. Ct. App. 2001).
+[D) Modification of joint custody
+Modification of joint custody does not require proof that one of the parents is
+providing inadequate care. The triggering event is more likely to be a change that makes
+the arrangement unworkable, such as one parent’s relocation or serious parental conflict.
+9Upon finding a material change, a court is to apply the Albright factors to determine
+which parent should have primary custody. McKree v. McKree, 723 So. 2d 1217, 1220
+(Miss. Ct. App. 1998). As with modification of sole custody, joint custody may be
+modified based only on events occurring since the original decree. Lackey v. Fuller, 755
+So. 2d 1083, 1086-87 (Miss. 2000).
+[E] Modification of visitation
+To modify a visitation order, a petitioner must prove that the visitation order is
+not working and that it is in the child’s best interest to modify the order. See Christian v.
+Wheat, 876 So. 2d 341, 345 (Miss. 2004); Shepherd v. Shepherd, 769 So. 2d 242, 245
+(Miss. Ct. App. 2000). It is not necessary to prove a material change in circumstances.
+Sistrunck v. McKenzie, 455 So. 2d 768, 769 (Miss. 1984) (announcing rule); see also
+Suess v. Suess, 718 1126 (Miss. Ct. App. 1998) (reversing chancellor’s order denying
+change of custody because no material change).
+[F] Military service
+A new custody provision was added to the code in 2008 to address custody and
+visitation when a parent is deployed or transferred. If the noncustodial parent seeks a
+change of custody, the deployment and disruption to the child’s schedule shall not be
+factors in determining whether a material change of circumstances has occurred. A
+temporary order of custody for the deployment period shall end no later than ten days
+after the custodial parent returns. This does not restrict the court’s ability to conduct
+emergency hearings based on allegations of harm to the child. MISS. CODE ANN. § 93-5-
+34. If a noncustodial parent is deployed, the court may delegate that parent’s visitation
+rights to a family member with a close relationship to the child. MISS. CODE ANN. § 93-5-
+1034(4).
+IV. CUSTODY BETWEEN NATURAL PARENTS AND THIRD PARTIES
+In a custody dispute between a parent and a third party, there is a presumption in
+favor of the natural parent as custodian. The traditional test for awarding custody to a
+third party requires a showing of parental unfitness. However, recent decisions create
+several exceptions to the presumption.
+[A] Presumption in favor of natural parents
+Biological parents are presumed to be the best custodians of their children. When
+a third party seeks custody, the best interest/Albright analysis does not apply. As a
+general rule, a third party must prove that a parent has abandoned the child, is unfit to
+have custody, or has engaged in conduct so immoral as to be detrimental to the child. See
+Sellers v. Sellers, 638 So. 2d 481, 484 (Miss. 1994); Carter v. Taylor, 611 So. 2d 874,
+876 (Miss. 1992). The court of appeals emphasized that because of the strong
+presumption in favor of natural parents, third-party custody should be granted only when
+there is a clear showing “that the natural parent has relinquished his parental rights, that
+he has no meaningful relationship with his children, or that the parent’s conduct is clearly
+detrimental to his children. In re Brown, 902 So. 2d 604 (Miss. Ct. App. 2004).
+[B] Unfitness
+To award custody to a third party based on parental unfitness, a court must find
+that the parent engaged in conduct presenting a genuine serious danger to the child. Proof
+that a parent was occasionally intoxicated or had a past history of drug use was not
+sufficient to justify third party custody. See Sellers v. Sellers, 638 So. 2d 481 (Miss.
+1994) (use of marijuana discontinued); Westbrook v. Oglesbee, 606 So. 2d 1142, 1145
+11(Miss Ct. App. 2003). A parent who exhibits some undesirable behavior or lacks
+exemplary parenting skills is not necessarily unfit. Awarding custody to grandparents
+based on a finding that a father was “unprepared” to take custody as opposed to “unfit”
+was reversible error. See Sellers v. Sellers, 638 So. 2d 481 (Miss. 1994) (use of marijuana
+discontinued).
+[C] Abandonment
+Third party custody may also be awarded upon proof that a natural parent
+abandoned a child. Abandonment is “any course of conduct on the part of a parent
+evincing a settled purpose to forgo all duties and relinquish all parental claims to the
+child.” It may consist of a single act or a series of actions. Failure to provide financial
+support for a child is not, in itself, abandonment. Abandonment must be proven by clear
+and convincing evidence. Ethredge v. Yawn, 605 So. 2d 761, 765 (Miss. 1992). In a case
+of first impression, the court of appeals held in 2011 that when a parent has been found to
+be unfit and custody awarded to a third party, the natural parent presumption no longer
+applies. In order to regain custody, the parent must prove a material change in
+circumstances in the home of the child’s custodian. Adams v. Johnson, 33 So. 2d 551
+(Miss. Ct. App. 2010).
+[D] Exceptions
+The Mississippi appellate courts have created three exceptions to the traditional
+rule to provide chancellors with some discretion under these circumstances.
+[1] Constructive abandonment. First, a parent’s long absence from a child’s
+daily life may be considered constructive abandonment. In 2002, the court of appeals
+held that the natural parent presumption does not apply when a parent “constructively
+12abandons” a child. The court of appeals defined constructive abandonment as “voluntary
+abandonment of parental responsibility” and removal from “active participation in a
+child's life” for so long that the effect is the same as actual abandonment. A parent who
+has constructively abandoned a child may regain custody only by showing by clear and
+convincing evidence that it is in the child’s best interests. Hill v. Mitchell, 818 So. 2d
+1221, 1226 (Miss. Ct. App. 2002).
+[2] Relinquishment of legal custody. The Mississippi Supreme Court held in
+2000 that the natural parent presumption does not apply when parents “voluntarily
+relinquish custody of a minor child, through a court of competent jurisdiction.” A mother
+sought to regain custody of children after she and her husband relinquished custody to his
+parents. The court held that parents who voluntarily relinquish legal custody of their
+children can reclaim custody only upon showing by clear and convincing evidence that
+the change in custody is in the child’s best interests. Grant v. Martin, 757 So. 2d 264, 266
+(Miss. 2000).
+[3] Desertion. In a 2010 case, the court of appeals appeared to recognize a new
+circumstance in which a parent forfeits the natural parent presumption – by deserting a
+child. Desertion may involve behavior different from abandonment or constructive
+abandonment. If a parent is found by clear and convincing evidence to have deserted a
+child, the court should determine the child’s best interest under Albright. Applying this
+test, a father who allowed his daughter to remain with her grandmother for four years,
+visiting sporadically, deserted her. Vaughn v. Vaughn, 36 So. 3d 1261, 1265-66 (Miss.
+2010).
+13[4] Third parties in loco parentis. The in loco parentis doctrine (see below)
+may allow some third parties to be treated as natural parents for purposes of
+custody disputes. The doctrine has been applied to men who believed themselves to
+to be the father of a child. However, the court of appeals has declined to extend the
+doctrine to a grandmother who cared for a child since her birth.
+V. Custody between third parties
+Custody is occasionally litigated between two parties neither of whom are the
+child’s natural parents. In an action between third parties, the Albright factors apply to
+determine which of the parties should have custody. See Worley v. Jackson, 595 So. 2d
+853, 855 (Miss. 1992) (custody dispute between maternal and paternal grandparents after
+mother was imprisoned for killing child’s father); Loomis v. Bugg, 872 So. 2d 694, 697
+(Miss. Ct. App. 2004).
+VI. The new paternity cases
+The accuracy and ease of DNA testing to prove paternity has produced a conflict
+with no easy resolution. Men who have assumed – sometimes for years – that a child is
+their biological offspring are learning that the child is not, in fact, theirs in the traditional
+sense. Often, the issue arises at divorce, when a divorcing mother alleges that one of the
+children of the marriage was fathered by another. In some cases, the presumed father is
+fighting to maintain the relationship with the child; in others, he may seek to end a
+relationship with the child, including child support. Until recently, Mississippi cases
+followed biology. A man who was not the biological father, and who had not adopted a
+child, was not the child’s father. A man who was genetically unrelated to a child could
+not be required to pay child support.
+14Then, in a 2004 case, the Supreme Court adopted a new approach to this scenario,
+holding that a man who has acted in loco parentis to a child he believed to be his may
+have rights with regard to the child and may have obligations of support. The case
+involved a husband who believed himself to be the father of a child born prior to his
+marriage but while he was living with his wife-to-be. First, the court rejected a best
+interest defense to a paternity action, holding that paternity actions are “about biology.”
+Second, the court held that determination of paternity in another does not require
+termination of the legal father’s rights: “Merely because another man was determined to
+be the minor child's biological father does not automatically negate the father-daughter
+relationship.” The court noted that under the doctrine of in loco parentis, a person who
+assumes the status and obligations of a parent may be ordered to pay child support and
+may be awarded custody or visitation. Third, the court suggested that legal recognition of
+the biological father did not necessarily require that he be accorded visitation or custody
+rights with regard to the child. The court remanded the case for a determination of
+custody and support, noting that these issues should be determined in a divorce or
+separate custody action, rather than in a paternity action. The court instructed the
+chancellor to appoint a guardian ad litem for the child and to make a determination of the
+child’s best interest, using the Albright factors. Griffith v. Pell, 881 So. 2d 184 (Miss.
+2004).
+In a 2006 case, the Supreme Court applied the in loco parentis doctrine to affirm a
+chancellor’s award of custody to a divorcing husband, even though genetic testing
+showed that he was not the child’s father. The chancellor relied on cases from other
+states, holding that “equitable fatherhood” may be established if the parties were married
+15when the child was conceived and born, the man believed that he was the child’s father,
+he established an actual father-child relationship, and equitable fatherhood by judicial
+order is in the child’s best interests. The court affirmed the custody award, based on in
+loco parentis rather than the equitable parent doctrine. Justice Cobb concurred, but urged
+the court to consider substituting the equitable parent doctrine for the in loco parentis
+doctrine. J.P.M. v. T.D.M., 932 So. 2d 760, 785 (Miss. 2006) (en banc). In another 2006
+case, the Supreme Court affirmed a chancellor’s order of genetic testing, rejecting the
+legal father’s argument that the chancellor should have held a best interest hearing first.
+The paternity suit was filed by the appellant’s cousin, who claimed that one of the
+defendant’s four children was possibly his child. The legal father objected to genetic
+testing, arguing that the court should have conducted a hearing to determine whether it
+was in the child’s best interest to proceed. The Supreme Court looked to the mandatory
+language of the paternity statute, which provides that, upon a motion by any party, the
+court “shall” order genetic test. The wife was pregnant when the couple married, and for
+the five years of their marriage and a year of the divorce proceedings, the husband
+believed himself to be the child’s father. Just before trial, the mother revealed to her
+attorney that the child was not her husband’s. Thoms v. Thoms, 928 So. 2d 852, 854-55
+(Miss. 2006).
+In 2011, the legislature amended the paternity statutes, providing nonmarital
+fathers with more limited rights to disestablish paternity than under the 2007 version. A
+legal father may file a petition to disestablish his paternity. In order to grant relief, the
+court must find that evidence of non-paternity came to the petitioner’s attention after the
+paternity determination, that the testing was properly conducted, and that the petitioner
+16did not prevent the biological father from asserting his rights. Paternity may not be set
+aside if the petitioner (1) married or lived with the mother and voluntarily assumed the
+parental obligation knowing that he was not the child’s father; (2) signed the birth
+certificate or executed an acknowledgement of paternity and did not withdraw consent
+within one year, unless he can prove fraud, duress, or mistake of fact; (3) signed a
+stipulated court-approved agreement of paternity; (4) was named father or ordered to pay
+support after declining genetic testing; or (5) failed to appear for a scheduled genetic
+testing required by court order. MISS. CODE ANN. § 93-9-10(b)(i).
+VII. Visitation
+[A] Standard visitation
+A noncustodial parent has a right to continued significant contact with a child
+under circumstances that foster a close relationship. The Mississippi Supreme Court
+stated the test for awarding visitation as follows: “The best interests of the minor child
+should be the paramount consideration . . . while respecting the rights of the non-
+custodial parent and the objective of creating an environment conducive to developing as
+close and loving a relationship as possible between parent and child.” Chalk v. Lentz, 744
+So. 2d 789, 792 (Miss. Ct. App. 1999); see Dunn v. Dunn, 609 So. 2d 1277, 1286
+(Miss.1992). Except in unusual circumstances, a noncustodial parent is entitled to
+unrestricted standard or liberal visitation. Cox v. Moulds, 490 So. 2d 866, 870 (Miss.
+1986) (error to restrict father’s overnight visitation with daughter because she had to
+sleep on the couch). The Mississippi Supreme Court defines standard visitation as two
+weekends a month until Sunday afternoon and at least five weeks of summer visitation,
+17see Messer v. Messer, 850 So. 2d 161, 167 (Miss. Ct. App. 2003), plus some holiday
+visitation, see Fields v. Fields, 830 So. 2d 1266, 1269 (Miss. Ct. App. 2002).
+[B] Restricted visitation
+However, visitation can, and should, be restricted when a parent’s behavior or
+home environment places the child in danger. Restriction on visitation has been held
+appropriate based on
+• a parent’s abusive behavior toward the child
+• a parent’s history of spousal violence
+• abuse by someone in the parent’s household or visiting the parent
+• drug or alcohol abuse
+• a parent’s mental illness
+• emotional or verbal abuse
+• danger of kidnapping
+• sexual conduct that has an adverse impact on the child
+[C] Grandparent and other third-party visitation
+The Mississippi statute permits grandparent visitation in two situations. First,
+when a parent dies, loses custody, or loses parental rights, his or her parents may petition
+for visitation [Type 1]. Visitation may be granted if the court finds that it is in the child’s
+best interests. Second, grandparents may petition for visitation if (1) the grandparent had
+a viable relationship with the child (either grandparent provided some financial support
+for at least six months and had frequent visitation, including overnights, for at least one
+year); (2) the parent or custodian unreasonably denied visitation; and (3) visitation would
+be in the child’s best interests [Type 2]. MISS. CODE ANN. § 93-16-3(2)-(3) (2004); see
+18Dearman v. Dearman, 811 So. 2d 308, 314-15 (Miss. Ct. App. 2001) (upholding
+visitation to grandparents who had custody for six years, based on a viable relationship
+with child; no express finding that parent unreasonably denied visitation).
+In addition to finding that a grandparent meets the statutory requirements set out
+above, a court must consider the factors in Martin v. Coop to determine whether
+visitation is in a child’s best interest. These include (1) potential disruption in the child’s
+life; (2) suitability of the grandparents’ home; (3) the child’s age; (4) the age and physical
+and mental health of the grandparents; (5) the emotional ties between grandparent and
+child; (6) the grandparents’ moral fitness; (7) physical distance from the parents’ home;
+(8) any undermining of the parents’ discipline; (9) the grandparents’ employment
+responsibilities; and (10) the grandparents’ willingness not to interfere with the parents’
+rearing of the child. See Martin v. Coop, 693 So. 2d 912, 916 (Miss. 1997). Visitation
+awards and denials have been reversed because a chancellor did not consider these
+factors in determining grandparent visitation. See Townes v. Manyfield, 883 So. 2d 93, 97
+(Miss. 2004); T.T.W. v. C.C., 839 So. 2d 501, 505 (Miss. 2003) (reversing denial of
+visitation for failure to consider factors); Morgan v. West, 812 So. 2d 987, 992 (Miss.
+2002) (reversing award for failure to consider the amount of potential disruption, the
+suitability of the grandparent’s home and their moral fitness, the distance from the child’s
+home, and whether the grandparent undermined the parent’s discipline or interfered with
+their rearing of the child); Givens v. Nicholson, 878 So. 2d 1073 (Miss. Ct. App. 2004). ;
+T.T.W. v. C.C., 839 501 (Miss. 2003) (reversing denial of visitation for failure to
+consider factors)
+19Except in unusual circumstances, grandparent visitation should not be not the
+equivalent of noncustodial parent visitation. The supreme court held that grandparent
+visitation every other weekend, four weeks in the summer, and various holidays was
+excessive. See Martin v. Coop, 693 So. 2d 912, 916 (Miss. 1997) (“natural grandparents
+do not have a right to visit their grandchildren that is as comprehensive as the rights of a
+parent”).
+The Mississippi Supreme Court has refused to judicially extend visitation to third
+parties other than grandparents. The supreme court rejected a sister’s petition for
+visitation with her half-brother after their mother died. The court held that the creation of
+visitation rights is a legislative function. See Scruggs v. Saterfiel, 693 So. 2d 924, 926
+(Miss. 1997).
+VIII. Restrictions on custodial parent
+A court may impose restrictions or conditions on either parent to prevent harm to
+a child. Courts have ordered parents to refrain from drinking alcohol in a child’s presence
+and ordered parents to take monthly drug tests. See Turner v. Turner, 824 So. 2d 652, 657
+(Miss. Ct. App. 2002); McLemore v. McLemore, 762 So. 2d 316, 322 (Miss. 2000). In
+one case, a chancellor concerned about a custodial parent’s home environment ordered
+the Department of Human Services to make periodic unannounced visits. Marascalco v.
+Marascalco, 445 So. 2d 1380, 1382 (Miss. 1984) (concern over mother’s serious drinking
+problem).
+Restrictions may include ordering supervised visitation as well as ordering a
+parent to enter counseling or a treatment program. Parents may be ordered to refrain from
+20using drugs or alcohol, to submit to drug tests, or to refrain from visitation in the presence
+of certain third parties. A court may order a parent’s time with a child supervised by a
+responsible third party or agency, or, in extreme cases, suspend visitation altogether. A
+court may also restrict visitation in the presence of others who pose a genuine threat to a
+child. Courts may also order that all parties undergo physical or psychological
+examinations in connection with custody cases. A parent with a history of violence may
+be ordered to attend counseling sessions as a condition of visitation or to refrain from
+alcohol or drug consumption for twenty-four hours prior to visitation.
+21

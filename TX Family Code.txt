@@ -1,0 +1,544 @@
+To extract all text from the provided document, I will collect the content within each `<CONTENT_FROM_OCR>` tag across all `<PAGE>` sections (from `<PAGE1>` to `<PAGE34>`) and present it as a continuous text block. The document is structured with each page enclosed in `<PAGE>` tags, and the text of interest is consistently located between `<CONTENT_FROM_OCR>` and `</CONTENT_FROM_OCR>` tags. Below is the complete extracted text, maintaining the original formatting such as line breaks and spacing as they appear in the document, without adding extra separators between pages unless present in the original content.
+
+---
+
+Family Law Section of the State Bar of Texas
+Texas Family Law Foundation
+
+Texas Chapter of the American Academy of Matrimonial Lawyers and
+Texas Academy of Family Law Specialists
+Response to the Report of the Uniform Forms Task Force Submitted to the Texas Supreme Court as of January 11, 2012
+Provided to the Supreme Court Advisory Committee by:
+Tom Ausley
+Chairman, Family Law Section,
+State Bar of Texas
+Jimmy Vaught
+President, Texas Chapter
+American Academy of
+Matrimonial Lawyers
+The Honorable Judy Warne
+Judge, $257^{\text {th }}$ District Court (Houston)
+Brian Webb
+President,
+Texas Family Law Foundation
+Diana S. Friedman
+President, Texas Academy
+of Family Law Specialists
+The Honorable David Farr
+Judge, $312^{\text {th }}$ District Court (Houston)
+The Honorable Marilea Lewis
+District Judge (Ret.) (Dallas)
+Board Certified Family Law Specialists
+
+Mr. Steve Naylor (Fort Worth)
+Ms. Joan Jenkins (Houston)
+Mr. Chris Wrampelmeier (Amarillo)
+Ms. Katherine Kinser (Dallas)
+Ms. JoAl Cannon Sheridan (Austin)
+Ms. Sherri Evans (Houston)
+Mr. Charles Hordes (Dallas)
+Mr. Charles Hardy (San Antonio)
+Mr. Warren Cole (Houston)
+Mr. Gary Nickelson (Fort Worth)
+Mr. Jonathan Bates (Dallas)
+Ms. Heather King (Fort Worth)
+Mr. William Morris (Houston)
+Mr. Charles Hodges (Dallas)
+1
+ Table of Contents
+Executive Summary
+3
+Policy Objections to the Kit
+4
+The Court Did Not Get What It Asked For?
+4
+Adoption of Forms: Questions of Power and Confusion
+5
+Which powers is the Court exercising?
+Where do forms fit in?
+Are the forms "rules?"
+Conflicting statutes and rules: Section 22.004(c)
+The Protective Order Kit as Prototype
+What will the order for this kit say?
+
+How Does the Kit Relate to Other Law?
+11
+Fundamental constitutional conflicts
+
+The Kit Conflicts with the Texas Family Code
+16
+The Kit is Wrong on Separate Property
+18
+Inconsistences Between the Instructions and Forms
+And Within the Forms Themselves
+19
+Do the Instructions govern?
+How will conflicting provisions be resolved?
+
+Increased Pro Se Litigation Coupled with
+A Reduction in Justice
+21
+Conclusion
+21
+APPENDIX: Catalogue: 70 More Defects in Proposed Forms
+23
+2
+ Executive Summary
+Texas' low-income litigants need legal advice, not another set of inadequate forms that will harm their most important interests. As State Bar President Bob Black recently stated, "...I'd like to point out forms already exist, and if forms alone would solve the problem, we would not have the problem."1 This paper identifies--in very specific detail--the numerous defects in the 'No Minor Children, No Real Property Divorce Kit' (kit) submitted by the Uniform Forms Task Force of the Supreme Court of Texas on January 12, 2012, demonstrating that this ad hoc checkthe-box approach to litigation should be abandoned.
+
+The identified defects run the gamut from the most fundamental constitutional issues to misdirecting the logistics of litigation. Some of the errors and omissions would amount to malpractice if a lawyer committed them while representing a client, even in a simple divorce. Other defects may actually induce an unwary litigant to engage in conduct that will result in his or her arrest and incarceration. Still other shortcomings of the kit may be less extreme, but no less threatening, to the well-being of those who attempt to handle their own cases.
+
+In its Order Creating Uniform Forms Task Force, the Supreme Court of Texas stated that "developing pleading and order forms approved by the Court for statewide use would increase access to justice and reduce the strain on courts posed by pro se litigants."2 It is our contention that the errors and omissions in the proposed divorce kit will actually decrease access to justice and do little to reduce the strain on the courts.
+
+This response first discusses what the Court requested from the Task Force and what it received. Then, we address some fundamentals regarding the Supreme Court's powers in order to focus consideration on the many unanswered policy and practical questions raised about the legal nature of the kit and how various actors in the judicial system will be expected to respond to the forms and the instructions that comprise the kit.
+
+The response concludes with a seven-page catalogue of the errors, omissions and problems within each form that are not addressed in the response.
+
+We respectfully request that, after evaluating the concerns stated in this paper, the Supreme Court Advisory Committee recommend that the Texas Supreme Court reject the proposed forms and allow the State Bar of Texas to propose and manage effective solutions to these issues.
+${ }^1$ Bar Task Force to Study Issues Related to Indigent Pro Se Litigants. Texas Lawyer, February 6, 2012
+${ }^2$ Order Creating Uniform Forms Task Force, Miscellaneous Docket No, 11-9046, In the Supreme Court of Texas
+3
+ Policy Objections to the Court's Endorsement of the Divorce Kit
+
+None of the organizations joining in this response relishes conflict with the Texas Supreme Court. To the contrary, we seek to maintain respect for the Court and to protect the public by clearly and definitively demonstrating that the work product of its Uniform Forms Task Force's falls well short of the standards that are expected of Texas' highest court.
+
+The full explanation below of the extraordinary number of critical defects in the Uniform Forms Task Force's first product was prepared to demonstrate some of the reasons why the organizations object to a do-it-yourself lawsuit approach-especially if the Court's name is to be endorsed on the forms. The sheer volume of serious flaws described below compels the conclusion that the ad hoc approach to this undertaking has not worked and will not work.
+
+Stated generally, our policy objections are:
+
+- The Court's endorsement of forms under these circumstances will lull pro se litigants into a false sense of security as they attempt their own litigation and, as will be seen, raises a host of unaddressed issues for the litigants, the courts and the officials who provide judicial support functions.
+- The defects in the proposed forms would cause many pro se litigants who rely on them to suffer actual harm in terms of lost rights and depleted assets, even though the entire purpose of the effort is intended to provide access to justice.
+- The proposed forms may lead people to believe "something has been done about the pro se problem," but, in reality, they will neither increase access to justice nor improve judicial efficiency. In fact, the forms may cause an increase in the number of selfrepresented litigants who experience problems they do not appreciate or, in many cases, even recognize-before it is too late.
+The Supreme Court Has Not Received
+The Forms It Expected From the Uniform Forms Task Force
+
+From mid-March 2011 to mid-January, 2012, the Supreme Court's Task Force on Uniform Forms labored to produce a simple set of litigation forms, with the intention of affixing the Court's good name as a certification of their sufficiency for use in all Texas courts with family law jurisdiction. Nine months of work and numerous revisions later, the Task Force sent its product to the Court.
+
+The Task Force's report conveying the forms included this sentence:
+4
+ "The Task Force has now completed a kit for an uncontested divorce with no children and no real property." ${ }^3$ [emphasis added]
+
+The Court then asked its Advisory Committee to comment on the forms via Justice Hecht's conveyance letter, which stated:
+"The Task Force reported to the Court on January 11, 2012, that it had completed forms for use in an uncontested divorce involving no minor children or real property. The Supreme Court requests the Advisory Committee to review the report and make recommendations regarding the forms and their use."4 [emphasis added]
+
+It is clear from the quotes above and the course of dealing between them over many months, that forms for an uncontested divorce with no children and no real property were what the Court expected from the Task Force.
+
+The Task Force clearly did not send the Court a petition for use only in uncontested cases. As will be seen below, since the petition form presented to the Court may apply to both contested and uncontested cases, the forms and the rest of the kit may also not be limited to cases without children, real property, pensions and other assets and can, and will be, used beyond the intended purpose.
+
+The failure of the Task Force to comply with the Court's request is exacerbated by its failure to attend to many crucial details, from those necessary to comply with constitutional and statutory laws, to those necessary to handle even the basic logistics of litigation. The errors and omissions that characterize the Task Force's product present conflicts within the kit itself and even within individual forms within the kit.
+The Adoption of Uniform Pleading Forms Raises Questions of Power and Causes Confusion
+
+The Court's foray into uniform forms raises questions about the proper exercise of its powers. The core powers of the Texas Supreme Court are established in Article 5 of the Texas Constitution. In addition to the first section's broad grant of the "judicial power," Article 5, Sections 31(a) through (c), provide:
+"(a) The Supreme Court is responsible for the efficient administration of the judicial branch and shall promulgate rules of administration not inconsistent with the laws of the state as may be necessary for the efficient and uniform administration of justice in the various courts.
+${ }^3$ Letter from Supreme Court of Texas Uniform Forms Task Force dated January 11, 2102
+${ }^4$ Letter from Justice Nathan Hecht to the Supreme Court Advisory Committee dated January 25, 2012
+5
+ (b) The Supreme Court shall promulgate rules of civil procedure for all courts not inconsistent with the laws of the state as may be necessary for the efficient and uniform administration of justice in the various courts.
+(c) The legislature may delegate to the Supreme Court or Court of Criminal Appeals the power to promulgate such other rules as may be prescribed by law or this Constitution, subject to such limitations and procedures as may be provided by law."
+
+Within these subsections, a form of executive power (the power of administration) and a form of legislative power (the power of rulemaking) are given to the Court, the attempted exercise of which, in this instance, is subject to valid criticism.
+
+Subsections (a) and (b) contain three common elements:
+
+1. The power granted must be exercised as "...necessary for the efficient and uniform administration of justice;"
+2. The Court's exercise of these powers is limited in that it must act consistent with the laws of this state; and
+3. Rulemaking is the method prescribed to carry out those powers.
+
+The Court has broad authority in determining what constitutes the "judicial power" under Article 5, Section 1; an important feature of the separation of powers. Through this power, the Court is authorized to decide legal cases, interpret the law, develop the common law and supervise the legal profession.
+
+The Court may also have considerable leeway under Section 31(a) and (b) to determine what is "efficient and uniform," but it seems clear that any exercise grounded in either subsection that is contrary to a statute would be "inconsistent with the laws of this state." [See the discussion on Page 16 regarding the kit's conflicts with the Family Code] It also seems clear that exercises of power under these two provisions have the effect of rules because rulemaking is the only expressed mechanism by which the Court is authorized to act regarding administration and civil procedure.
+
+To date, the Court has not clearly articulated whether it is acting pursuant to one or another provision of Article 5 in support of its work with check-the-box divorce forms. In his letter to State Bar President, Bob Black, the Chief Justice stated "[t]he Constitution requires the Court to administer justice" which could be invoking the language of either Section 31(a) or (b) or perhaps both subsections.
+
+The proponents have given various justifications for the forms approach, including:
+${ }^5$ Letter from Chief Justice Jefferson to State Bar President Bob Black dated January 25, 2012
+${ }^6$ Letter from Chief Justice Jefferson to State Bar President Bob Black dated January 25, 2012
+6
+ - The forms will improve the administration of justice by injecting uniformity to help pro se litigants know what to do, judges to efficiently process cases and clerks and others to assist litigants through the process.
+- The forms will improve access to justice by making it possible for a pro se litigant to understand and apply the proper procedures and handle their own cases accurately and at less expense but with a proper result.
+
+The first justification seems to invoke the Court's powers of administration under Article 5, Section 31(a). But, inspection of the Court's rules classified as "rules of administration" demonstrates that the proposed forms are not of the same character as the rules typically found in that category. ${ }^7$
+
+Because the forms are intended to be used to initiate and conclude a case, and complete all the substantive and procedural elements of a case, they seem to be more in the nature of rules of civil procedure, which would be adopted pursuant to Article 5, Section 31(b). And, the forms bear far greater resemblance to the Court's exercise of authority in the category of civil procedure. ${ }^8$ Yet, we note that the Texas Legislature has codified the procedural and substantive elements of a divorce in its enactment of the Texas Family Code.
+
+Neither the Court nor the forms' proponents have invoked the provisions of Section 22.004(c), Government Code, the procedure specified by the Legislature that must necessarily be complied with in adopting the forms to the extent they conflict with statutes, and in this specific instance, the Texas Family Code. Although the instructions and forms in the referenced kit conflict with various procedural rules established by statute, the Court has not indicated that it will employ the powers granted to it by the Legislature to revise statutes involving civil procedure. That power is governed by Section 22.004(c), Government Code, which reads:
+"(c) So that the supreme court has full rulemaking power in civil actions, a rule adopted by the supreme court repeals all conflicting laws and parts of laws governing practice and procedure in civil actions, but substantive law is not repealed. At the time the supreme court files a rule, the court shall file with the secretary of state a list of each article or section of general law or each part of an article or section of general law that is repealed or modified in any way. The list has the same weight and effect as a decision of the court."
+
+Whether the forms constitute an exercise of administrative power or civil procedure, if the forms and their use have the status of rules, it is critical to know how the instructions or the forms in the referenced kit relate to other rules of administration or civil procedure, whether Court-made or statutory. If there is a conflict between the instructions, the forms and statutory or court-made rules of procedure, which will govern?
+${ }^7$ See Rules of Judicial Administration, http://www.supreme.courts.state.tx.us/rules/rja-home.asp
+${ }^8$ See Texas Rules of Civil Procedure, http://www.supreme.courts.state.tx.us/rules/trcphome.asp
+7
+ The answers to these questions are especially important since the proposed forms under consideration are referred to-within the instructions and forms themselves-as a kit, implying that the pieces fit together in some coherent manner, although it will be seen below that the package itself fails to achieve this coherence for many reasons.
+
+The Court's prior foray into the uniform forms business-its Protective Order Kit--does little or nothing to shed any light on the legal nature of the kit. If the Court uses the approach to the proposed divorce forms that it used with the Protective Order forms, the confusion regarding these important issues will be exacerbated and have a greater negative impact.
+
+The entire order establishing the Protective Order forms reads as follows:
+"ORDERED that:
+"The following protective order forms are approved for use in obtaining a protective order under Title IV of the Texas Family Code. Use of the approved forms is not required. However, if the approved forms are used, the court should attempt to rule on the application without regard to technical defects in the application. A trial court must not refuse to accept the approved forms simply because the applicant is not represented by counsel." [emphasis added] ${ }^9$
+
+First, it is hard see how "efficiency"-a primary purported rationale of the current effort-is to be achieved by uniformity unless use of the proposed forms is required. However, the order says use of the protective order form is not required, only that it is "approved" for use.
+
+The Texas Access to Justice Commission (ATJ) has complained about courts not accepting selfrepresented litigants' filings and imposing other barriers that are unfair to pro se litigants. In that light, the last sentence of the order seems to bind courts to accept the protective order forms from an unrepresented litigant who proffers them.
+
+More importantly, a February 6, 2012, ATJ report to the Court states that its Self-Represented Litigants Committee and subcommittees have determined that no rules are required "at this time" in relation to the divorce kit proposed for the Court's adoption. ${ }^{10}$ Then again, Ms. McAllister has stated publicly that the proposed forms would be required to be accepted by courts. ${ }^{11}$
+
+Second, there is no definition of the term "technical defects" in the order by which the Protective Order forms were adopted. There is no guidance that Court had a legal standard in mind when it used that language. Nor is there any standard of review promulgated by the Court to apply to a denial of a protective order that might shed light on what constitutes a technical defect. Surely, provisions inserted into an order that are contrary to constitutional and statutory provisions could
+${ }^9$ Order Approving Protective Order Forms, Misc. Docket No. 05-9059, In the Supreme Court of Texas
+${ }^{10}$ Letter from Trish McAllister to the Court conveying her Supplemental Report to the Court on the Activities of the Self-Represented Litigants Committee of the Texas Access to Justice Commission dated February 6, 2012
+${ }^{11}$ Testimony of Trish McAllister to Solutions 2012 on February 10, 2012
+8
+ hardly be considered to be technical defects that trial courts are urged by the Court to overlook. Since protective orders provide the basis for violators' arrest and incarceration, the term "technical defects" seems extraordinarily important.
+
+The language of the Order Approving Protective Order Forms could be just a "guideline," perhaps an indication that the Court wants judges to liberally construe protective order petitions. But how are judges, applicants and respondents to know that from the language chosen and what standard would the Court apply to review a denial? The point is that the order deploying the Protective Order forms is insufficient to make certain the legal nature of the forms in that kit or the newly proposed kit. Therefore, at this time, the extent to which the language of that order constitutes a rule is not at all clear; the forms are authorized but not required for users, but the order may be binding on courts if the user is not represented, irrespective of whether the forms, as completed by the user, comply with constitutional and statutory law and technical rules of civil procedure.
+
+At this time, it is not known whether the Court would use the same "technical defect" language in adopting the newly proposed forms, but, doing so would be problematic for reasons beyond those raised regarding the protective order forms.
+
+The Legislature has already adopted Family Code standards for what constitutes liberal pleading in divorce cases. Sections 6.402(a) and (b), Family Code, provide:
+"Sec. 6.402. PLEADINGS. (a) A petition in a suit for dissolution of a marriage is sufficient without the necessity of specifying the underlying evidentiary facts if the petition alleges the grounds relied on substantially in the language of the statute.
+(b) Allegations of grounds for relief, matters of defense, or facts relied on for a temporary order that are stated in short and plain terms are not subject to special exceptions because of form or sufficiency."
+
+In addition, long-established precedent clearly authorizes judges to liberally construe pro se pleadings and briefs. Cooper v. Circle Ten Boy Scouts of America, 254 S.W.3d 689, 693 (Tex. App-Dallas 2008, no pet.) (citing Mansfield State Bank v. Cohn, 573 S.W.2d 181, 184-85 (Tex. 1978)).
+
+The presence of these Family Code pleading provisions and established case law raises several questions:
+
+- If the Court uses the same "technical defect" language in an order adopting the proposed divorce forms as was used in adopting the Protective Order forms, would that be in replacement or revision of, in addition to or in conflict with the standards of Section 6.402, Family Code?
+9
+ - If the Supreme Court approves a form, does that mean it cannot be "technically defective" and that it satisfies Section 6.402 per se?
+- Would the Court's admonition for courts to overlook "technical defects" constitute a revision of the long-established case law regarding the liberal construction of pro se pleadings?
+- Would the Court be deciding by rule or order that all pleadings in Court-approved forms satisfy the pleading rules in all cases initiated using the forms?
+- Would the forms effectively cancel out technical pleading and practice requirements promulgated by statutes or existing rules?
+
+The same precedents that authorize judges to liberally construe pro se litigants' pleadings, state that pro se litigants are to be held to the same standards as attorneys regarding applicable laws and rules of procedure because otherwise a pro se litigant would have an advantage over a litigant who is represented by counsel. Cooper at 693 (citing Mansfield State Bank v. Cohn at 184-85).
+
+Despite the long-established rule that pro se litigants are held to the same standards as an attorney with regard to the substantive law and procedural rules, a recent family law case calls into question whether the Court intends to adhere strictly to that principle. In Wheeler v. Green, 157 S.W.3d 439 (Tex. 2005), after forgiving a pro se litigant's multiple missed deadlines and failure to properly move to withdraw admissions, the Court stated: "[b]y contrast, if the same elementary mistakes had been made by a lawyer, such conclusion might not be warranted." [Id. at Footnote 1]
+
+A more recent case raises concerns about the Court's consistency regarding pro se litigants. In Pena v. McDowell, 201 S.W.3d 665 (Tex. 2006), the Court determined that a court clerk told a pro se inmate his appeal was defective but cited the wrong rule. Although the Court determined that the inmate's filing was actually defective under another rule and "... recognize[d] that courts of appeal have routinely dismissed similar cases on the basis of [the cited rule] even though a dismissal under [the other rule] would have been more appropriate...," the Court stated:
+"While an experienced attorney might have been able to discem from the court's citation to rule 25.1(e) that there was a problem with the certificate of service, our decision today does not amount to a special accommodation to a pro se litigant. To the contrary, it has long been our position that pro se litigants are not exempt from the rules of procedure..." [Id. at Footnote 3]
+
+However, in support of this statement the Court cited Wheeler v. Green, the case discussed above in which the Court implied that pro se litigants not be subject to the same rules of procedure.
+10
+ The Kit Conflicts with Established Constitutional Principles of Due Process
+Proponents of check-the-box divorces contend they are necessary to assist those who cannot afford a lawyer. But, they also say that persons of all income levels have a right to represent themselves so they have a need for forms, too, and besides, there is no way they can keep higher income people from using the forms.
+
+While opponents of the forms disagree with those propositions, the proponents must admit that their position necessarily means the forms they are espousing must be usable for all couples who have no children and none of the types of property that the kit expressly excludes.
+
+However, the petition omits fundamental necessities of constitutional due process applicable to a large class of such persons. Self-represented litigants will be lulled into using forms that will, in fact, not be properly utilized in many cases for which, on the surface, the forms purport to apply. We cite the following examples:
+
+- The petition does not require the petitioner to state facts that authorize the court to exercise personal jurisdiction over many respondents, despite the fact that the plaintiff bears the initial burden of pleading sufficient allegations to bring a defendant within the provisions of the Texas long-arm statute, Tex. Civ. Prac. \& Rem. Code, Sections 17.041-.045. See BMC Software Belgium, N.V. v. Marchand, 83 S.W.3d 789, 793 (Tex. 2002); also see Schwartz, A Practitioner's Guide to the Exercise of Personal Jurisdiction by Federal and State Courts in Texas, 2005 Page Keeton Civil Litigation Conference, University School of Law.
+In light of the presence of Sections 6.305 and 6.308, Family Code, most Texas judges require petitioners to plead the basis for jurisdiction over the respondent in the beginning.
+However, in the Jurisdiction portion of the Original Petition [Section 3, Page 2] there are nine boxes divided into two segments, one targeted at the six-month Texas residency requirement of the Family Code and the other at the 90-day county residency requirement of the Code. In each segment is an instruction to the petitioner to "Check all boxes that apply."
+Assume that the potential respondent is not a Texas resident and has never had any contacts whatsoever with Texas so that he or she is not constitutionally subject to personal jurisdiction in this state. Further, he or she does not receive service or, having received it, files no answer and does not personally appear.
+The petitioner can "check all boxes that apply," as directed, showing that he or she has resided in the county for the last 90 days and in Texas for last six months so that the court has jurisdiction over the petitioner. Yet, there is no requirement that the petitioner must state sufficient jurisdictional facts to allow the court to exercise jurisdiction over the respondent. All blanks related to the respondent can be left blank without deviating from the instructions.
+11
+ In this situation, a court could enter a decree dissolving the marriage but could not exercise jurisdiction over any marital property. See Section 6.308, Family Code. So, a form that purports to be useful for dividing personal property cannot be used for that purpose in this situation, despite the fact that the petitioner has followed the instructions accurately and completely.
+
+This would not be a rare problem. In fact, the problem is so well known that it is directly addressed in separate provisions of the Family Code. See Sections 6.305 and 6.308, Family Code] Further, the Texas economy is global and home to many persons from other states, Mexico and other foreign countries. But, the spouses of many of those immigrants do not have constitutionally-required minimum contacts with Texas. Experienced family lawyers, including those who handle cases for indigent petitioners, frequently see cases in which a respondent spouse is not subject to personal jurisdiction.
+
+- The Instructions do not resolve the problem of personal jurisdiction described above. The very first segment of the Instructions (Page 1, top left hand column) states:
+"You can use these forms when:... On the day you file the divorce, you or your spouse must have lived in Texas for at least six months and in the county where you are filing for divorce for at least 90 days..." [underlining of the word "or" was added; the italicizing and bolding are in the original]
+This language clearly says the form may be used if one "or" the other spouse meets the length of presence requirements, hence the use of the disjunctive.
+The Instructions on Page 1, top right hand column, also say:
+"Do not use these forms if:... You and your spouse are not residents of Texas." [underlining added]
+This double-negative probably means that the form should not be used if both spouses are not residents, hence the use of the conjunctive "and." It could mean the form should not be used if one of the spouses is not a resident, but that would conflict with the affirmative statement that the form may be used if one or the other spouse is a resident.
+The foregoing attempt to make sense of the instructions as they relate to the issue of jurisdiction ignores the fact that the affirmative instruction regarding who can use the form is very specific and never uses the word "resident," while the "do not use" segment uses the general term "resident" but never defines that term, even though it may have various definitions depending on the legal context at issue.
+The Instructions and the Answer compound the jurisdiction error by misstating the law, once again by omission. The Instructions [Page 2, left column, Section B and Page 3, Step 4]
+12
+ indicate that there are only two options a respondent may exercise when receiving a copy of the petition: (1) file an Answer or (2) sign the Waiver. The petitioner is given the option of having the respondent served with the petition formally, but the respondent's options are still described as answering or waiving his or her rights.
+
+The errors in these forms are that neither the Instructions nor the Answer tell the respondent or the petitioner that there are two other options available to the respondent who may not be subject to personal jurisdiction: (1) file a special appearance, or (2) do nothing. Neither the Answer nor the Instructions warn the respondent that, by filing the Answer, he or she voluntarily submits himself or herself to the jurisdiction of the court, in effect waiving any defense to the jurisdiction that the party may have had. To be legally correct, there would have to be such a warning and provision for a special appearance, which is allowed to be filed simultaneously with an answer, or separately, without submitting to the jurisdiction of the court. See Rule 120a, Texas Rules of Civil Procedure.
+
+Most important, these errors would effectively work in favor the petitioner and against a respondent who relied on the Answer and Instruction. That is, the forms taken as proposed would work against the interest of the respondent by failing to advise him or her of important rights, effectively putting the Texas Supreme Court on the side of the petitioner. Thus, the danger of the Court writing the pleadings for litigants is apparent.
+
+This misstatement of law is compounded by the fact that the petitioner is instructed to give the answer to the other party. (See Pro Se Litigants Placed into Conflicting Roles on Page 24). It is a substantial re-engineering of the legal process to have one party responsible for providing the other party's pleadings, even more so since the Instructions tell the petitioner what advice to give to the other spouse. Were a lawyer to do so, there would be grounds for a malpractice claim and the violation would be subject to a grievance proceeding.
+
+By directing a self-represented petitioner to do what a lawyer would be penalized for doing, the proposed forms, backed by an order of the Supreme Court, would establish different rules for self-represented litigants than those by which represented litigants are to be governed. This is contrary to the established law of this state.
+
+We submit that the forms discussed do not increase access to justice.
+In his letter to State Bar President Black, Chief Justice Jefferson stated that the Court "will approve forms only if they are substantively correct..." Further, the entire rationale for the forms project is to produce forms that are legally sufficient and to signify their legal sufficiency to the trial courts by having the forms carry the phrase "Approved by the Supreme Court." 12
+${ }^{12}$ See Footnote 5
+13
+ The jurisdictional defect is fundamental and with that defect, the petition, and the resulting decree of divorce, will not be substantively correct or legally sufficient for use in many cases, despite the representation, intended by affixing the statement that the Court approved them, that they are correct and sufficient.
+
+The Chief Justice also stated that the forms must be "... reasonably calculated to accomplish the goal of greater access to the courts.." To gain access to the courts, a non-indigent divorce petitioner who files in this situation-doing everything the kit instructs or requests of him or her-pays a filing fee between $\$ 260$ and $\$ 300$. This raises three possibilities:
+
+1. If the petitioner pays the fee to obtain a clerk-stamped filed copy, and later discovers that the petition is defective because it fails to state jurisdictional facts, the petitioner's fee will be lost when the case must be dismissed. The judge will be ethically barred from coaching the petitioner regarding the facts needed to sustain jurisdiction, since a plea to the jurisdiction by the non-resident spouse would be part of that spouse's defense to any action by the court affecting that spouse's interests. This will leave the trial court facing an angry constituent who says: "I followed the instructions to the letter and the Texas Supreme Court said these pleadings are legally sufficient."
+2. If the clerk to whom the petition is presented for filing sees that there are no boxes checked regarding the respondent's residency and rejects the form before it is filed, the petitioner would not lose his fee. But, the clerk would be performing a function only a judge can perform, which is effectively ruling that the petition is legally insufficient in that it does not state facts that would give the court jurisdiction over the respondent. This is a function that cannot be delegated to a court clerk and would leave the clerk facing an angry constituent who could rightly say: "But, I did exactly what the Texas Supreme Court told me to do." Alternatively, the clerk could say: "I'll accept it, but unless you check one of these other boxes, your case is going to be dismissed and you'll lose your filing fee." In that instance, the clerk would be giving legal advice and, in most instances, without a law license. The clerk will once again face an angry constituent who followed the instructions only to be rejected.
+3. When court clerks receive a petition filed by a lawyer, they do not and will not review the pleadings prior to or after accepting it for filing to determine whether the petition contains sufficient information to satisfy the Texas long-arm statute. Nor is a judge going to tell a lawyer how to cure a deficient pleading. Texas lawyers and their clients must live with the lawyers' errors and omissions. Requiring clerks to review check-the-box petitions, or have judges coach the litigant, would constitute a separate and different rule for self-represented litigants, who should also be required to live with their mistakes. Furthermore, it is highly doubtful that the Court could or would delegate that function to the clerks, even by exercise of its rulemaking authority.
+14
+ 4. The indigent petitioner who pays no filing fee will also be harmed by the jurisdictional defect in the forms. That petitioner will show up after the 60-day waiting period only to be told by the judge the petition is defective. That will mean that his or her interest in the community property cannot be divided. Any plans the petitioner may have made in reliance on access to his or her interest in the property will have been defeated or delayed. In addition, the respondent would gain at least 60 days extra to cash in the community's bank account, sell the car and take any number of other actions that dissipate or destroy property with no consequence, until a later, correct divorce is refiled.
+
+- Even though a Texas court may not exercise jurisdiction over a non-resident's property (or children) in this situation, the court could dissolve the marriage. See Section 6.308, Family Code.
+This raises a number of additional problems:
+
+1. Assuming there is community property present in the case, access to a partial, divorceonly remedy does not appear to meet the Chief Justice's goal of increased "access to justice" when issues of marital property remain unresolved
+2. If the spouses have community property or children, and the court dissolves the marriage, another lawsuit(s) would have to be filed in order to address the property and children that were not addressed in the divorce.
+This result is also contrary to the state's long-established policy of avoiding a proliferation of lawsuits. ${ }^{13}$ It would also at least double the non-indigent petitioner's costs of litigation because each new suit would require an additional filing fee and costs for service of process. Regarding an indigent person's filing, the uncompensated costs borne by the taxpayers will double for the class of cases with this jurisdictional defect.
+3. The Jurisdiction portion of the Final Decree of Divorce [Section 3 on Page 2] contains boilerplate language stating that the Court "heard evidence and finds" that it has jurisdiction over the parties and that the Original Petition meets all legal requirements.
+Presumably, it is at this point in the process that a conscientious trial court brings home to the petitioner, who followed all instructions, that his pleadings with respect to jurisdiction are flawed. But, how is a petitioner's evidence of jurisdiction to be admitted if there is nothing to direct him to plead it properly? In addition, how will the respondent know to challenge any jurisdictional allegations of which he or she has no notice because they were not plead?
+${ }^{13}$ [See, Section 7.01 et seq., Family Code; see also Rules 39, 40 and 51, Texas Rules of Civil Procedure
+15
+ 4. If a court does not closely review the pleadings and fails to hold the petitioner to established legal requirements for pleading and proof of the court's jurisdiction over the other spouse, an order regarding marital property would be void.
+Third parties in possession of the community property purportedly divided by an order that is void due to lack of jurisdiction will have no basis for withholding that property from the petitioner if the petitioner presents the order to claim it. As a practical matter, the other spouse will have been deprived of his or her property with little chance to recover it. It cannot be said that the order was procured by fraud because the petitioner did exactly what he or she was told to do by the Texas Supreme Court. Surely the absent spouse's loss of his or her property interest would not correspond with the Supreme Court's determination regarding whether access to justice has been increased.
+The Kit Conflicts with the Texas Family Code
+
+On its face, the kit is not for use in a divorce where the couple has real estate. In testimony before the first meeting of the State Bar's Solutions 2012 task force, ATJ Executive Director Trish McAllister stated that if a case initiated by use of the kit turned out to actually involve real property, for example, the real property would have to be divided in a future lawsuit. ${ }^{14}$
+
+Consistent with that explanation, neither the proposed Original Petition nor the proposed Final Decree of Divorce contain any provision for real estate. It is only by the absence of any provision for division of real estate that the issue remains open for question, there being no written policy clearly expressing Ms. McAllister's position. Then again, if that is the result, there is no reason why the same analysis would not apply to other types of property, such as retirement funds, for which the proposed forms are supposedly not to be used and for which there are no provisions in the petition or decree. (This sets aside the fact that there also is no prohibition against modifying the forms.)
+
+One problem with Ms. McAllister's analysis is that a number of sections of the Family Code require that certain claims be addressed by the court in a suit for dissolution of a marriage:
+
+- Section 7.001. Requires the court in a decree of divorce to order a division of the estate of the parties (i.e., the entire estate).
+- Section 7.002(a) and (b). Requires the court in a decree of divorce to order the division of specified real and personal property wherever located.
+- Section 7.002(c). Requires the court in a decree of divorce to confirm as separate property income and earnings from certain property.
+- Section 7.003. Requires the court in a decree of divorce to determine the rights of the parties in pensions, investments and the like.
+${ }^{14}$ See Footnote 11 .
+16
+ - Section 7.004. Requires the court in a decree of divorce to specifically divide certain rights under insurance policies.
+- Section 7.007. Requires the court in a decree of divorce to determine rights to reimbursement of the parties.
+- Section 6.406(b), Family Code: If the parties are parents of a child, as defined by Section 101.003, and the child is not under the continuing jurisdiction of another court as provided by Chapter 155, it requires that the suit for dissolution of a marriage must include a suit affecting the parent-child relationship under Title 5. [emphasis added]
+
+While the Instructions and the forms tell a petitioner not to use them for cases involving certain types of property and children covered by the statutes cited above, there will inevitably be cases filed using the kit in which the couple actually has children, pensions or real property. It is reported by judges that litigants are adapting forms to uses and situations for which existing forms were not intended. Among the many questions presented if the forms in issue are adopted are:
+
+- What if the respondent finds out she is pregnant during the 60-day waiting period or after?
+- What if she is pregnant by someone other than the spouse and has concealed it as of the time the petition is filed?
+- What if one party does have an interest in a retirement account that the other party does not know about, that has been concealed or the other party simply does not understand that he or she has an interest in it?
+- What if there is real property involved?
+- Since use of the kit is stated to be for cases without kids, real property or pensions, in light of the cited Family Code provisions, what is a court to do when it becomes apparent that kids, real property or pensions are actually involved?
+- Will a court be required or authorized to give effect to the limitations on use of the kits stated in the Instructions or the forms themselves?
+- Since the Supreme Court has stated no intention to exercise its rulemaking procedures under Section 22.004(c), Government Code, can the Court's adoption of the kit be said to amend or overrule the cited Family Code provisions?
+- Will the Supreme Court be required by the mandatory language in those statutes to address the items for which the kit is supposed to be inapplicable?
+- How would the trial court be able to proceed since the pleadings would presumably not address those issues, there being no boxes to check or spaces to fill in regarding those items?
+- Is the trial court to advise the petitioner regarding the defects in the petition and advise him or her on how to comply with the Family Code?
+- Is the court authorized to dismiss the petitioner's case for using the kit improperly?
+17
+ - If the omission of children or one of the types of property cited above was intentional, may the petitioner be prosecuted for perjury or falsifying a government document?
+- If the omission of children or one of the types of property cited above was intentional, will the petition be considered a judicial admission so that any excluded rights or property should simply be awarded to the respondent?
+- Will a petitioner who uses the kit but makes false entries regarding the existence of children be subject to sanctions to the same extent as an attorney would?
+- Because there is no place in the forms to list real property if it were present, would a petitioner who uses the form anyway be subject to sanctions when the property was omitted because there was no place for it on the form?
+
+Each of these factual situations is known to happen with regularity. Without legal advice, these issues will be ignored or improperly addressed. The easily anticipated problem of actual facts not corresponding to the intended uses of the kit is entirely ignored within the kit itself . Further, as documented above, Ms. McAllister told the Court that ATJ's Self-Represented Litigants Committee sees no need for rules "at this time." Who then will give the trial courts controlling advice on this issue, if the proposed kit is put to use? The Texas Supreme Court has not given any guidance regarding how it will factor the presence of these very real problems into its calculation of whether access to justice will be increased by using these forms.
+The Kit Incorrectly States the Law Governing Separate Property
+
+On Page 2, Section $6\left[3^{\text {rd }}\right.$ paragraph in box)], the Final Decree of Divorce states the following:
+"About separate property: If either party receives... money from a lawsuit that is not lost wages, it is separate property..." [italics in the original; underlining added]
+
+Section 3.001(3), Family Code, only characterizes a recovery for personal injuries sustained by a spouse during marriage. It does not require that the damages have been recovered in a lawsuit, as the form suggests, and it does not properly limit the application of separate property to recovery for other damages. Contract damages or tort damages based on harm to property, for example, are not within the separate property characterization of the Family Code.
+
+The items in the decree for Husband's Separate Property (Page 3, Section 2) and Wife's Separate Property [Page 5, Section 2] are also defective for the same reason, which will greatly compound the loss one or both parties will suffer by using the kit because these are the operative provisions in the decree by which their interest in some property will be permanently lost. Who will be held accountable when these defects cause a litigant to lose his or her important assets because the form was wrong-even though it carried the Supreme Court's endorsement? Again, we suggest that access to justice is not being served.
+18
+ Inconsistencies Between the Instructions and the Forms and Within the Forms Themselves
+
+Neither the Instructions nor the forms themselves state that the Instructions govern the use of the forms. If there is a conflict between the Instructions and the form as promulgated-or as the form is actually used-how is a petitioner or judge to know whether the petition or the Instructions governs the form's use?
+
+For a judge to even observe that there is a conflict between the Instructions and the form as actually used, the judge would have to:
+
+1. know about the Instructions in sufficient detail to become aware of the conflict; and
+2. know whether the form's actual use is all that matters or be certain of the legal effect of using the form in violation of the Instructions.
+
+It is critical to remember that trial court judges will not see the Instructions. Only the Original Petition will be filed; there is no direction for the petitioner to include the Instructions with the petition and it is likely that a clerk who receives the petition would not accept the Instructions for filing. Nor is there any language in the Instructions or the forms that alerts the petitioner or the judge to any rule that would resolve the conflict and, again, ATJ's Self-Represented Litigants Committee says it sees no need for rules "at this time." 15
+
+There are direct conflicts between the Instructions, which are part of the kit, and the forms within the kit. For example:
+
+- The Instructions tell a petitioner: "Do not use these forms if: You and your spouse do not agree about everything in your divorce." [First page, right column at top] However, there is no language in the Original Petition that limits its use to uncontested divorces.
+Moreover, the Original Petition at Section 7 (Page 4) states:
+"My spouse and I will try to make an agreement about how to divide the personal property and debts we acquired during our marriage. If we cannot agree, I ask the Court to divide our personal property and debts according to Texas law." [Emphasis added]
+This portion of the Original Petition therefor allows for a contested case, but the Instructions tell the Petitioner "do not use this form" if the case is contested. It may be that the Uniform Forms Task Force recognized these forms would be used for contested cases as Section 1 of the Original Petition requires the petitioner to tell the court what level of discovery will apply. The levels of discovery from which a petitioner may choose [Original Petition, Page
+${ }^{15}$ See Footnote 10
+19
+ 1, Section 1] describe in Level 1 petitioners having "less than $\$ 50,000$ and in Level 2 "All other couples," which presumably anticipates estates in excess of $\$ 50,000$.
+
+The following questions then arise:
+
+- Which controls, the Instructions or the Original Petition?
+- What is the effect of using this form even if the petitioner knows full well the other spouse is not in agreement or has not been consulted?
+- If the form is for an uncontested case that becomes contested, will the case be dismissed?
+- If the form can be used for a contested divorce anyway, what purpose is served by the language in the Instructions saying "do not use" this form?
+
+There are critical inconsistencies within the forms themselves. For example:
+
+- The Original Petition does tell the petitioner not to use the form if children, real property, retirement that will be split or "alimony" are actually present in the case. [Page 1, highlighted in box] Further, the Original Petition states:
+"You may be able to ask the judge to order a sale of your home and divide the proceeds of the sale. You may be entitled to part of your spouse's retirement. You may be entitled to spousal support. Using this divorce kit will not allow you to do any of these things. You will need to consult an attorney." [Page 1, bottom paragraph highlighted in box; emphasis added]
+
+The italicized language quoted above from the Original Petition may indicate it is intended to be binding in that "using the kit will not allow" certain enumerated things to be done. However, it begs the following questions:
+
+- Does this language bind the judge, the petitioner, the respondent or all of them?
+- Would using the form for a case involving the items in the quoted language be subject to dismissal upon motion of the respondent or by the Court sua sponte?
+- After the court has learned that there are elements present in the case for which the forms are not supposed to be used, would the court allow the petitioner to amend the petition so that it conforms to the purported limitations stated in the forms and the instructions, even if amending the petition does not raise issues required to be joined in a suit for dissolution of marriage?
+- Alternatively, would the court conclude that the form had been falsified and seek to determine whether the falsification had been intentional, perhaps justifying sanctions or criminal prosecution?
+20
+ The Kit Will Cause an Unnecessary and Unwarranted Increase in the Harms of Pro Se Litigation Without Increasing Access to Justice
+
+The "kit" has been characterized as a necessity to meet the needs of the poor for access to justice. $^{16}$
+
+The kit contains an Affidavit of Indigency by which it can be determined whether the filer will be required to pay certain court costs. However, by advising them that the filing fees range up to $\$ 300$, the Instructions [Page 1, second paragraph from the bottom] make it clear that people who are not indigent may use the forms within the kit.
+
+The Instructions go on to say that if the person is poor, receives public benefits or "believe[s] [the person] can't afford the court filing fee," the person may not have to pay the court fees. Neither the Instructions nor the forms advise against the use of the kit if the person is not indigent or can afford an attorney.
+
+The Court's stated purpose is to increase access to justice by use of the forms. But, that goal will not be advanced by assisting those who already have access to justice, i.e., those who can afford an attorney. Instead, given all of the significant problems with the proposed forms, the availability of forms--endorsed by the Texas Supreme Court--for use by anyone will dramatically expand the potential universe of those who will be made vulnerable by those defects. This result will be a decrease in justice.
+
+It is also reasonable to conclude that pro se litigation will increase as a result of the availability of Court-endorsed forms. A survey of state chapter presidents of the American Academy of Matrimonial Lawyers showed that pro se litigation had increased substantially in almost every state. While a cause and effect relationship is impossible to prove, it is clear that the presence of do-it-yourself forms did nothing to reduce pro se litigation in other states.
+Conclusion
+No one can seriously dispute the enormous quantity of very serious defects that are clearly present in the forms proposed by the Uniform Forms Task Force for adoption by the Texas Supreme Court. Although this group of highly motivated people spent nine months of hard work on them, the effort produced a "kit" that, if used as proposed, would cause demonstrable harm to the very pro se litigants the Task Force sought to assist.
+${ }^{16}$ See Order Creating Uniform Forms Task Force, Miscellaneous Docket No. 11-9046 in the Supreme Court of Texas ("The Court is concemed about the accessibility of the court system to Texans who are unable to afford legal representation."; see also Footnote 3;;see also Footnote 5 see also Supplemental Report to the Supreme Court from ATJ Executive Director Trish McAllister dated February 6, 2012.
+21
+ This product is simply unacceptable and entirely unworthy of carrying the endorsement of the Texas Supreme Court.
+
+A few of these defects can be readily addressed, while others go to the core of the roles of the many actors responsible for the actual day-to-day administration of justice. The fault is simple: Using an ad hoc task force comprised of those who are so committed to a concept that obvious critical issues are overlooked is anathema to sound public policy development.
+
+An ad hoc approach can never be expected to sustain even this level of effort over the prolonged period of time that would be needed to perform constant updating and perfecting of the forms proposed. A gargantuan capability would be needed just to address Family Law, much less a host of legal practice areas that the proponents have clearly stated their intention to address. That capability is nowhere on the horizon. The good intentions of the proponents will never provide it.
+
+In short, the development of uniform forms for use in Family Law litigation is beyond the institutional capacity of the Texas Supreme Court and should be abandoned, rather than accept a result that will inevitably fall short of the standards on which a high court must insist.
+22
+ APPENDIX:
+A Catalogue of Additional Defects in the Proposed Forms
+
+The Instructions and Original Petition place a petitioner in conflicting roles and potentially in a position to be arrested and confined. For example:
+
+- The kit relies on one party to supply the other party with forms and instructions on their use, which is entirely inconsistent with the adversarial nature of litigation and invites petitioners into a conflict of interest situation that the kit does not address.
+The Instructions [Page 3, left column, Step 4] direct the petitioner to:
+"Give your spouse a copy of the petition that has been stamped by the court clerk and a blank answer form. Your spouse will need to file... the Answer with the Court..."
+As was demonstrated above, the kit is not limited to uncontested cases. Even if the parties believe at the outset that they will agree on all matters, until the final decree is entered, under the system of laws in Texas and every other state, the litigation system is adversarial.
+There are no instructions addressed to the respondent, either in a separate document or within the Answer form itself. The kit leaves it to the solely to the petitioner to supply the Answer form and any instructions to the respondent.
+- While the Original Petition requests information from the petitioner regarding the existence of a Protective Order against either party, the Instructions direct the petitioner to:
+
+1. "...give your spouse a copy of the petition...;" OR
+2. give the spouse a waiver of service and rights and have it signed in front of a notary; OR
+3. use a process server; OR
+4. send legal notice by mail; OR
+5. by cross-reference to the posting and publication-by-service kits on the TexasLawHelp.org website.
+Once again, the petitioner is told to "give" the other spouse documents and there are no instructions for the respondent other than those received from the petitioner.
+In this situation, a petitioner might well believe that the Supreme Court of Texas has allowed him to give the other spouse documents by hand delivering them. It would be common for a Protective Order to require a petitioner who was the subject of it to stay more than a certain distance away from the respondent. Or, a Protective Order may require a respondent who is subject to it to stay away from the petitioner.
+23
+ There is no warning to the petitioner not to personally convey the documents to the respondent when one or the other is subject to a Protective Order. If the Instructions and forms are adopted by a Texas Supreme Court Order, will the Court's order or the Protective Order govern personal delivery? Will all petitioners be expected to understand that the kit does not authorize conduct that the Protective Order prohibits, when one is stamped "Approved by the Texas Supreme Court" and the other is signed by a mere district judge?
+
+Prosecution of a violation of a Protective Order does not require proof of intent or any other mens rea; violations of Protective Order are subject to strict liability. Thus, the petitioner who follows the clearly-stated directives of the divorce kit will have no defense to arrest and prosecution for making personal delivery of the divorce documents as directed. In addition, when the petitioner approaches the other spouse, who is subject to a Protective Order, the petitioner places the other spouse in the position of violating the order.
+
+Additional defects common to two or more forms
+
+1. Neither the Instructions nor any of the forms warns a pro se litigant that he or she will be held to the same standards as an attorney when it comes to procedural and substantive legal matters.
+2. Neither the Instructions nor the forms indicate whether the forms may be modified by an individual user. If so, a litigant who makes changes in the proposed forms would defeat the entire effort to provide uniform forms, as well as the purported limitations of the forms to uncontested, no-child, no-real property, no pension-splitting, no spousal maintenance cases.
+3. The warnings on the Original Petition and the Final Decree of Divorce [Page 1, highlighted box] state that a person should not use the form if he or she wants to ask the judge "for spousal support, sometimes referred to as 'alimony."' This statement is factually incorrect.
+"Spousal support" usually refers to temporary spousal support. [e.g., Section 201.104, Family Code] Spousal support is payable only during the pendency of the divorce. How does a pro se litigant know that they can, in fact, request the court to order assistance so that expenses may be paid during the pendency of the case? The instructions certainly would lead them to believe that they do not have this option.
+"Alimony" in Texas is purely contractual and is based upon the Internal Revenue Code which has very specific requirements. [See separate references to alimony and spousal maintenance in the following Family Code provisions: 3.409, 8.055(a-1)(1)(E), 154.062(b)(5) and 203.005(b)] "Maintenance" is court-ordered support as provided in the Family Code and can be payable following the date of divorce. [See Chapter 8, Family Code]
+24
+ Attorneys often misunderstand each of these terms. Is a pro se litigant in a position to understand and use these terms?
+4. The top of each of the following proposed forms contains a warning that includes references to children, although the kit is supposed to be for divorces without children:
+A. Original Petition
+B. Final Decree of Divorce
+C. Respondent's Answer to Divorce
+D. Waiver of Service-Divorce (No Minor Children, No Real Property)
+E. Military Status Affidavit
+F. Affidavit of Indigency
+The presence of the reference to children is confusing at best, may be misleading and may make the forms subject to abuse, at worst. Will the reference be used to argue that the forms really are authorized for use with cases involving children (with a little modification here and there that must be okay, too)?
+5. On each form, next to a blank for a cause number at the top of their first pages, the form has check-boxes for the type of court in which the case is being filed. One of those boxes is beside "County Court:" [Page 1, upright corner] County courts do not have jurisdiction over divorce cases. County courts at law in some counties do have family law jurisdiction, but not all counties.
+6. While there is the mention of children in the warnings on each form, the reference to property is only to personal property. The forms are not for use with children, but children are listed; the forms are not for use with real property, but real property is not mentioned.
+7. The directives on Page 1 of the Affidavit of Indigency [boxed language, $3^{\text {rd }}$ paragraph] and on Page 2 of the Military Affidavit [just above the signature line] says the affidavit must be signed "in front of a notary." However, Section 132.001, Civil Practice and Remedies Code, provides that, in lieu of having the party seek out a notary when these forms are signed, the party has the option of signing the document by declaration under penalty of perjury.
+
+Additional defects: the Original Petition
+
+1. On Page 4, Section 7, the Original Petition asks the court to divide the couple's personal property "according to Texas law." Nowhere do the Instructions or the form itself advise the party regarding Texas law and the division of property, that a fair and equitable division is required, that it is the net estate that is to be divided and that who assumes the debts is a
+25
+ factor in determining what is fair and equitable. (Of course, this reality is contrary to the commonly held belief that community property is divided 50:50.)
+2. The "money damage" provision [Page 5, Section 7] is wrong. Not all money damages are separate property. Contractual damages are not separate property. Damages associated with many tort actions are not separate property. A portion of the total award for a personal injury suit can be considered separate property, in addition to lost wages. For example, that would be true of the recovery of medical expenses paid by the community estate. [See Section 3.001(3), Family Code]
+3. While the Instructions say "do not use the form unless each of you wants to keep your own retirement," the Original Petition goes on to indicate that separate property is an asset owned prior to marriage. With respect to a retirement account, that is only true as to benefits existing at the time of marriage. Even though an employee may have owned a retirement account as of the date of marriage, any increase in that account is considered part of the community estate and should be divided upon divorce. Without understanding that part of the other spouse's retirement account may be separate property and part may be community property, a litigant could be unintentionally waiving what is often the most significant asset for low income families.
+4. The Instructions say the form is for an uncontested divorce, but, as shown above, the Original Petition anticipates a contested case. If a case becomes contested-e.g., a spouse decides he or she does want to divide the retirement account(s)-and is not dismissed summarily based on an invalid use of the form, how would a pro se litigant amend the petition? (The same would be true of children who come to the spouses' attention when a pregnancy is discovered, or disclosed, after the petition is filed.)
+5. Texas Rules of Civil Procedure Section 190.1 specifically requires that a petition must allege whether discovery is to be conducted under level 1,2 , or 3 . The form only allows for Levels 1 and 2. Is this effectively an amendment to TRCP 190.1?
+Will a person completing the form know what discovery is? Will they know that they have a right to request information relative to their estate from the other side? Unrepresented litigants may simply request that each party be awarded the assets in their own name because they do not have access to the information relative to assets held in the name of the other side. The right to significant retirement or other employment benefits may be waived if not divided at the time of the divorce.
+26
+ Additional defects: the Final Decree
+
+1. While the Original Petition opens the door to use of the kit in contested cases, the Final Decree of Divorce would not be usable in a case tried to a jury. Texas Family Law is virtually unique in the extent to which contested issues are subject to trial by jury.
+2. The debt portions of the decree do not include any indemnification language. Although the debts may be apportioned to one party, without that language, the division of the debts is meaningless. [See Page 4, "Husband's Debts" and Page 6, "Wife's Debts"] With this form, there are no consequences if a party fails to discharge the debts assigned to that party. In a proper decree, the party not paying the debt would at least have to indemnify the other party.
+3. There is no provision that would allow the respondent to prove up the decree without the petitioner present. [See Page 1, Section 1, at bottom]
+4. On Page 2, Section 4, the possibilities regarding children do not include the scenario in which the wife has had a child during the marriage but the paternity of that child was addressed by an acknowledgement of paternity signed by the husband or by a court order. The form would exclude parties who have a disabled child whose disability arose after the child became an adult. There is no reason why that disability should affect the parties.
+5. The decree contains no provision for stating the grounds upon which the divorce was granted. (Texas has both no-fault and fault-based grounds for divorce.)
+6. There is no provision for showing that a respondent was represented by counsel. [See Page 7, Section 10]
+7. The instructions omit any mention of tracing of separate property to current assets. This omission is then reflected in the form's checkboxes for the confirmation of separate property. While the form encourages the pro se to see an attorney, it gives enough seemingly accurate (after all, it is done under the authority of the Supreme Court) information that a pro se will believe he or she has enough information to proceed.
+8. Neither the Instructions nor the decree require the attachment of the documents either party may need to sign to transfer the personal property that is divided. In the absence of such provisions, an order requiring a party to sign such documents is not enforceable by contempt. There is no warning to the pro se litigant of this problem.
+27
+ 9. There is no warning that the form should not be used if, on the date of divorce, one party still has property the other one wants or expects to be awarded. The form does not have a place to list this type of property or any provisions ordering one party to deliver property to the other within specified dates, times, and locations.
+10. The form does not clearly cover securities, bonds, annuities, brokerage funds, mutual funds, union benefits, business interests (including sole proprietorships, partnership interests, and membership interests in limited liability companies) held solely in one party's name. (Remember, there is no limit on the value of an estate that may be dissolved using the proposed forms and even the boxes for selecting the discovery level to be applied refer to estates up to $\$ 50,000$ and "all other couples.")
+11. The form does not have a place for one party to pay the other a sum of cash as of the date of divorce or within a specified period after that date, not as alimony, but as needed to carry out the terms of dissolution of the community estate.
+12. There are no provisions for addressing the filing of income tax returns or the sharing of information necessary to prepare income tax returns.
+13. There are no provisions for the continuation of health insurance, such as COBRA. Without these, a pro se litigant probably will not know health insurance benefits can be continued after divorce. Being able to retain health insurance under COBRA for an extended period of time after marriage may be the single most valuable "asset" to a low-income person.
+14. There are no provisions for permanent injunctions.
+15. There is no provision discussing whether there were temporary orders and, if there were, whether any of their provisions survive.
+16. The name change check boxes [Page 7, Section 8] are misleading at best and incorrect at worst. The form refers to "a name used before marriage." Section 6.706(a) of the Family Code states that the name can be one "previously used by the party." The Family Code appears broader than the language of the form because the Code allows any name used prior to the marriage and not the name used immediately prior to the marriage, which the form may imply.
+17. Because one of the parties may be represented by counsel, on Page 7 in Section 9 there should be a reference regarding which party is responsible for the attorney's fees.
+28
+ 18. Although the Original Petition [Page 1, Section 1] provides for discovery, the Final Decree makes no provision for whether and when the parties are discharged from retaining documents obtained in discovery.
+19. The decree does not state that it is a final judgment, contain the common language of such judgments ("for which let execution and all writs and processes necessary to enforce the judgment issue") and fails to clearly state that the order is appealable.
+20. On Page 2, Section 2, there are references to whether a court reporter was used. However, neither the Instructions nor the form ever educate the petitioner (or respondent) regarding whether a court reporter should be used and why.
+
+Additional defects: the Respondent's Answer to Divorce
+
+1. There is no instruction informing the pro se respondent what "real property" is or what "minor children" are. This form may be inappropriate if there is a child over 18 years of age but for whom the parents may still be obligated to pay child support. For example, the adult child could still be enrolled in and attending high school or the adult child could be disabled with the disability arising before the child's $18^{\text {th }}$ birthday. It may also be inappropriate if the wife is pregnant. Remember: The Respondent does not possess the Instructions and the Instructions are not directed to the Respondent.
+2. On Page 1, Section 1, there are conflicting statements. One says "I request notice of all hearings in this case." The other forces the respondent who signs the decree to waive the right to be notified and appear at a final prove up hearing. This waiver conflicts with the earlier statement that the respondent requests notice of all hearings in the case.
+3. The form incorrectly states [Page 1, last paragraph] that the respondent has to give a copy of any papers the respondent files to both the spouse and the spouse's attorney. The certificate of service follows this incorrect statement. If the spouse has an attorney, the respondent does not have to also give a copy to the spouse.
+4. The name change check boxes [Page 2, Section 3] are misleading at best and incorrect at worst. The form refers to "a name used before marriage." Section 6.706(a) of the Family Code states that the name can be one "previously used by the party." The Family Code is broader than the language of the form appears to permit because the Code allows any name used prior to the marriage and not the name used immediately prior to the marriage.
+
+Additional defects: the Affidavit of Inability to Pay
+29
+ 1. Will a person completing the form know what "proof" is for purposes of attaching "proof of public benefits"? [Page 1, instruction between the public benefits check boxes and the spaces for "income sources."]
+2. What if there is more than one source of other public benefits or other income? The form encourages the applicant to list only one "other" source by providing limited space.
+
+Additional defects: Certificate of last known Mailing Address
+
+1. There are no instructions in the form for how and when this form is to be used. The reference at the bottom of Page 2, Basic Information, is insufficient to address this defect. The idea may be to always file it in case of a default judgment, although if the certificate is filed when the suit is filed, it may not be accurate at the time of the default judgment.
+2. There is no date for the party's signature. A date would be very useful as the party may complete this form months before a default judgment and months before filing it with the court. The court should be able to see how current this certificate is.
+
+Additional defects: the Military Status Affidavit
+
+- On Page 2 is a box at top followed by the sentence "I do not know if the Respondent is in the military now." This sentence satisfies the statute. Everything after that is not in the statute. As written, it asks what the Petitioner can afford to post as a bond. That is irrelevant as the statute says the bond is to protect the service member from loss or damage. Also it is for the court to determine if there will be harm or not, not the Petitioner.
+
+Additional defects: the Instructions
+
+1. The definition of an "uncontested" divorce in the kit fails to include a default final hearing when the respondent files an answer but does not appear at the final hearing. That raises the question: What does a pro se do with these forms if the respondent does not file an answer but does show up for the final hearing?
+2. "Do not use these forms if" instruction box [Page 1, right column, $5^{\text {th }}$ item in box]. There is no reason not to use the forms if the disabled child is an adult and the disability occurred after the child became an adult.
+3. "For Military Families" instruction box [Page 1, left column in box]: The instructions do not address the issue that Texas may not have personal jurisdiction over the respondent even if Texas is the home state of the petitioner. Without that personal jurisdiction, the trial court may only grant an in rem divorce and may not divide the personal property.
+30
+ 4. The instructions about where to turn in the forms [Page 1, $3^{\text {rd }}$ paragraph from bottom] may cause a petitioner to believe he or she may file in the spouse's county and still have the suit be pending in the petitioner's county. The instructions for service members fails to state that the service member may also file in the county of the spouse's county of residence if the spouse has resided there at least 90 days.
+5. "Will there be a fee?" The instructions [Page 1, $2^{\text {nd }}$ paragraph from bottom] state that you may have to pay to have an official serve the spouse, but they do not explain what you cannot do if the person is not formally served.
+6. "Basic Information." The instructions [Page 2, Section B] are not very clear about the receipt of "legal notice." If the receipt is in the form of being served with citation by a process server, the respondent would not file a waiver of service. If the receipt is informal through the petitioner just handing the respondent the petition, there is no period of time within which the respondent must file a waiver of service or an answer.
+7. "What if I can't find my spouse?" [Page 2, last paragraph] To answer any questions, the instructions direct the pro se litigant to www.TexasLawHelp.org. The forms there have some of the same problems as the Supreme Court forms. This also raises the questions: If TexasLawHelp.org has satisfactory forms, why do we need Court-approved forms? Will the Court's order have the effect of adopting the TexasLawHelp forms by reference? Is the Supreme Court Advisory Committee to review those forms, too?
+8. "Divorce in Texas - Take These Steps" [Page 3, Step 4 (2) Waiver of Service] The instruction is wrong. Section 6.4035, Family Code, does not require a waiver to be signed one day after the suit is filed. The waiver needs only to be signed after the suit is filed.
+9. "Divorce in Texas - Take These Steps" [Page 3, Step 4 (2) Official Service in Person or by Mail] There is no statement about how personal service is more likely to hold up than service by mail or service by publication. As a result, the pro se litigant may believe that the easiest method of service is the best method since they all appear to be equal.
+10. "Divorce in Texas - Take These Steps" [Page 4, Step 7] Contrary to the instructions, the divorce is final (but not for purposes of appeal) even if the litigant does not turn in the Information on Suit Affecting the Family Relationship (BVS form). The instructions fail to mention that a party may file a motion for new trial or an appeal after the decree is signed by the judge.
+11. "Are you ready for court?" [Page 5, sample testimony]:
+31
+ a. Domicile does not require residence, which is particularly important for a pro se military serviceman.
+b. Jurisdiction is also proper if the spouse's state of domicile was Texas.
+c. Venue is also proper if the spouse resided in the county.
+d. There is no reason why the sample testimony cannot and should not track the insupportability language from the statute-unless there is another ground for the divorce. Tracking that language ensures the testimony clearly meets the statutory requirement to get a divorce.
+e. If the parties have an adult disabled child whose disability arose after the child was emancipated, there is no reason why the parties should not get a divorce without discussing that child.
+f. The instructions fail to state that you must have a hearing if it is a default divorce under Section 6.701 of the Family Code.
+g. There is no mention in the sample testimony that the spouse signed the decree in agreement with its terms or that the spouse waived his or her right to sign the decree. That testimony is needed.
+h. These sample questions will not suffice if it is a default divorce. There would be no evidence of the assets and liabilities of the marriage, including their values, so the judge would have no evidence on which to divide those assets and liabilities. Case law is clear on this point. A good judge will not allow a default divorce without any evidence.
+12. "Common Questions-Where do I get divorced?" [Page 6]:
+a. Only here do the instructions state that you can get divorced in Texas if your spouse has resided in Texas for the last six months. The statutory requirement is that Texas must be the state of domicile for the six months preceding the filing of the suit for divorce, which is not exactly what the instructions state. Particularly for military service members, domicile is different than residence.
+b. Only here do the instructions state that you can be divorced in a county in which your spouse has resided. The instructions should state that the residence must be for the 90 days preceding the filing for divorce not "for the last 90 days."
+13. "Common Questions-Do I need a lawyer?" [Page 6, left column] The instructions should include the proper term, "maintenance," for post-divorce spousal support.
+14. "Common Questions-Terms to know" [Page 6, right column in box] A divorce can be contested on other grounds too, such as a fight over possession or access to the children, child support, maintenance, and temporary orders.
+15. "Common Questions-How long will it take to get divorced?" [Page 7, $2^{\text {nd }}$ paragraph] The 60-day waiting period does not apply if the court finds that the respondent has been
+32
+ convicted or received deferred adjudication for an offense involving family violence or the petitioner has an active protective order under Title 4 of the Family Code or an active magistrate's order for emergency protection. [Section 6.702(c), Family Code]
+16. "Common Questions-What if I started my divorce in a different county?" [Page 7, $3^{\text {rd }}$ paragraph from bottom] Again, there is difference between satisfying a domicile requirement and being a resident. The instructions imply that you must be a resident of Texas, not simply that Texas is your state of domicile.
+17. There are no warnings that a division of the debts does not mean the party not awarded a debt is free of responsibility for that debt. If the party was liable for the debt, the party stays liable for the debt even if the ex-spouse was awarded that debt.
+18. There are no instructions on what type of documents are needed to transfer title to motor vehicles, boats, manufactured homes, etc.
+19. There is no help for the person who changes his or her name in a decree instructing them to get a certified copy of the decree and taking it to the Social Security Administration and a Texas driver license office.
+
+Conclusion
+No one can seriously dispute the enormous quantity of very serious defects that are clearly present in the forms proposed by the Uniform Forms Task Force for adoption by the Texas Supreme Court. Although this group of highly motivated people spent nine months of hard work on them, the effort produced a "kit" that, if used as proposed, would cause demonstrable harm to the very pro se litigants the Task Force sought to assist.
+
+This product is simply unacceptable and entirely unworthy of carrying the endorsement of the Texas Supreme Court.
+
+A few of these defects can be readily addressed, while others go to the core of the roles of the many actors responsible for the actual day-to-day administration of justice. The fault is simple: Using an ad hoc task force comprised of those who are so committed to a concept that obvious critical issues are overlooked is anathema to sound public policy development.
+
+An ad hoc approach can never be expected to sustain even this level of effort over the prolonged period of time that would be needed to perform constant updating and perfecting of the forms proposed. A gargantuan capability would be needed just to address Family Law, much less a host of legal practice areas that the proponents have clearly stated their intention to address. That capability is nowhere on the horizon. The good intentions of the proponents will never provide it.
+33
+ In short, the development of uniform forms for use in Family Law litigation is beyond the institutional capacity of the Texas Supreme Court and should be abandoned, rather than accept a result that will inevitably fall short of the standards on which a high court must insist.
+34
+
+---
+
+This text represents the complete content extracted from all `<CONTENT_FROM_OCR>` sections within each `<PAGE>` of the document, presented in the order of the pages (1 through 34). The process involved identifying each `<PAGE>` section, locating the `<CONTENT_FROM_OCR>` tag within it, and collecting the text between the opening and closing tags, ensuring all content is captured as it appears in the original document.

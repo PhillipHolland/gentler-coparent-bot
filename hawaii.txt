@@ -1,0 +1,62 @@
+Here is the extracted text from the provided PDF link: https://dprhawaii.com/wp-content/uploads/2017/07/BarJournalArticleaboutDivorceLawinHawaii.pdf
+
+---
+
+**Divorce Law in Hawaii**
+
+**By Steven J. Kim**
+
+Divorce law in Hawaii is based primarily on statute. Hawaii’s divorce statutes are found in Hawaii Revised Statutes (HRS), Chapter 580. However, Hawaii is an “equitable distribution state” and the Hawaii Supreme Court has interpreted the statutes to give Hawaii Family Court judges wide discretion in dividing property and awarding spousal support (alimony). This article provides an overview of some key aspects of Hawaii divorce law.
+
+**Grounds for Divorce**
+
+Hawaii is a “no-fault” divorce state, which means that a divorce may be granted without having to prove that either spouse committed some marital wrong, such as adultery or cruelty. HRS §580-41 provides that a divorce may be granted based on any of the following grounds:
+
+1. The marriage is irretrievably broken;
+2. The parties have lived separate and apart under a decree of separation from bed and board and the term of separation has expired;
+3. The parties have lived separate and apart for a period of two years or more under a decree of separation and there is no reasonable likelihood of reconciliation; or
+4. The parties have lived separate and apart for two years or more and there is no reasonable likelihood that they will reconcile.
+
+The vast majority of divorces in Hawaii are granted based on the first ground—that the marriage is irretrievably broken. This is a subjective standard, and Hawaii Family Court judges have broad discretion to determine whether this standard has been met.
+
+**Residency Requirements**
+
+In order to file for divorce in Hawaii, HRS §580-1 requires that at least one of the spouses must have been domiciled (i.e., have their permanent home) or physically present in Hawaii for a continuous period of at least six months prior to filing the divorce complaint. In addition, at least one of the spouses must have been domiciled or physically present in the circuit (i.e., island) where the divorce is filed for a continuous period of at least three months prior to filing.
+
+**Division of Property**
+
+Hawaii is an “equitable distribution” state, rather than a “community property” state. This means that the Hawaii Family Court divides marital property based on what is fair and equitable under the circumstances, rather than simply dividing all marital property equally between the spouses. HRS §580-47 provides that upon granting a divorce, the Family Court may make orders regarding the division of the spouses’ property that are “just and equitable.”
+
+The Hawaii Supreme Court has held that equitable distribution does not necessarily mean equal distribution, and Hawaii Family Court judges have wide discretion to divide marital property unequally if they find it just and equitable to do so. See, e.g., Gussin v. Gussin, 73 Haw. 470, 836 P.2d 484 (1992).
+
+In dividing marital property, Hawaii Family Court judges typically apply a framework established by the Hawaii Supreme Court in which all property is classified as either “separate property” or “marital property.” Marital property is then further categorized into five categories, and the court determines how to equitably divide the marital property in each category. See Hussey v. Hussey, 77 Hawai`i 202, 881 P.2d 1270 (Ct. App. 1994). The five categories of marital property are complex and beyond the scope of this article, but may be summarized as follows:
+
+- **Category 1:** Property separately owned by one spouse on the date of marriage;
+- **Category 2:** The increase in value of Category 1 property during the marriage;
+- **Category 3:** Property gifted to or inherited by one spouse during the marriage;
+- **Category 4:** The increase in value of Category 3 property during the marriage; and
+- **Category 5:** Property acquired by the spouses during the marriage with marital funds or efforts, and the increase in value of all property during the marriage not included in Categories 2 or 4.
+
+In practice, Hawaii Family Court judges have significant discretion to deviate from this framework and to divide property unequally if they find it just and equitable to do so.
+
+**Spousal Support (Alimony)**
+
+HRS §580-47 also authorizes the Hawaii Family Court to award spousal support (alimony) as part of a divorce proceeding. The statute provides that the court may order one spouse to pay the other spouse “such sums as shall be deemed just and reasonable” for the support and maintenance of that spouse.
+
+The Hawaii Supreme Court has held that the primary factors that a Family Court judge should consider in awarding spousal support are: (1) the needs of the requesting spouse; and (2) the ability of the other spouse to pay. See, e.g., Vorfeld v. Vorfeld, 8 Haw. App. 391, 804 P.2d 891 (1991). However, the Court has also held that Family Court judges have broad discretion to consider other factors as well, and that an award of spousal support should be based on what is just and equitable under all the circumstances of the case.
+
+**Child Custody and Support**
+
+When a divorcing couple has minor children, HRS §580-47 requires the Family Court to make orders regarding the custody, support, and education of the children. Hawaii law provides that child custody decisions must be based on the best interests of the child. HRS §571-46 sets forth a number of factors that the court must consider in determining the best interests of the child, including the child’s age, the parents’ physical and mental health, the child’s ties to home and community, and any history of family violence.
+
+Child support is determined based on Hawaii’s Child Support Guidelines, which are established by statute and updated periodically. The Guidelines take into account the income of both parents, the number of children, and certain other factors such as child care and health insurance costs.
+
+**Conclusion**
+
+Hawaii’s divorce laws give Family Court judges wide discretion to divide property, award spousal support, and make child custody and support orders based on what they determine to be just and equitable under the circumstances of each case. While Hawaii statutes and case law provide a framework for these decisions, outcomes can vary widely depending on the facts of the case and the judge’s interpretation of what is fair and equitable.
+
+Steven J. Kim is a family law attorney with over 25 years of experience practicing in Honolulu, Hawaii. He is a former President of the Hawaii State Bar Association Family Law Section.
+
+---
+
+This is the full text extracted from the PDF. Let me know if you need further assistance!

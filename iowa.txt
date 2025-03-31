@@ -1,0 +1,1656 @@
+1 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, Ch 598
+CHAPTER 598
+DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS
+Referred to in §135.108, 232.3, 236.11, 236.19, 252A.3A, 252B.3, 252B.4, 252B.5, 252B.6A, 252B.14, 252B.20, 252B.26, 252C.1, 252C.3,
+252D.1, 252D.16, 252D.16A, 252E.1, 252E.1A, 252E.16, 252F .4, 252H.2, 252H.4, 252H.21, 252I.2, 252J.1, 425.2, 425A.4, 455B.172, 558A.1,
+562A.27A, 562B.25A, 600.11, 600B.40A, 602.6111, 602.8102(47), 602.8102(84), 602.8105, 664A.1, 664A.2, 664A.5, 664A.7, 815.11
+598.1 Definitions.
+598.2 Jurisdiction and venue.
+598.2A Choice of law.
+598.3 Kind of action — joinder .
+598.4 Caption of petition for
+dissolution.
+598.5 Contents of petition —
+verification — evidence.
+598.6 Additional contents. Repealed
+by 2005 Acts, ch 69, §58.
+598.7 Mediation.
+598.7A Mediation. Repealed by 2005
+Acts, ch 69, §58.
+598.8 Hearings — exceptions.
+598.9 Residence — failure of proof.
+598.10 Temporary orders.
+598.11 How temporary order made
+— changes — retroactive
+modification.
+598.12 Guardian ad litem for minor child.
+598.12A Attorney for minor child.
+598.12B Child custody investigators and
+child and family reporters.
+598.13 Financial statements filed.
+598.14 Attachment.
+598.14A and 598.14B Repealed by 2005
+Acts, ch 69, §58.
+598.15 Mandatory course — parties to
+certain proceedings.
+598.16 Conciliation — domestic relations
+divisions.
+598.17 Dissolution of marriage —
+evidence.
+598.18 Recrimination not a bar to
+dissolution of marriage.
+598.19 598.19A W aiting period before decree.
+Mandatory course — parties to
+certain proceedings. Repealed
+by 2005 Acts, ch 69, §58.
+598.20 Forfeiture of marital rights.
+598.20A Beneficiary revocation — life
+insurance.
+598.20B Beneficiary revocation — other
+contracts.
+598.21 Orders for disposition of property .
+598.21A Orders for spousal support.
+598.21B Orders for child support and
+medical support.
+598.21C Modification of child, spousal, or
+medical support orders.
+598.21D Relocation of parent as grounds to
+modify order of child custody .
+598.21E Contesting paternity to challenge
+child support order .
+598.21F Postsecondary education subsidy .
+598.21G Minor parent — parenting
+classes.
+598.22 Support payments — clerk of
+court — collection services
+center or comparable
+government entity in another
+state — defaults — security .
+598.22A Satisfaction of support payments.
+598.22B Information required in order or
+judgment.
+598.22C Child support — social security
+disability dependent benefits.
+598.22D Separate fund or conservatorship
+for support.
+598.23 Contempt proceedings —
+alternatives to jail sentence.
+598.23A Contempt proceedings for
+provisions of support
+payments — activity governed
+by a license.
+598.24 Costs if party is in default or
+contempt.
+598.25 Parties and court granting
+marriage dissolution decree —
+notice.
+598.26 Record — impounding —
+violation indictable.
+598.27 Reserved.
+598.28 Separate maintenance and
+annulment.
+598.29 Annulling illegal marriage —
+causes.
+598.30 V alidity determined.
+598.31 Children — legitimacy .
+598.32 Annulment — compensation.
+598.33 Order to vacate.
+598.34 Recipients of public assistance
+— assignment of support
+payments.
+598.35 Grandparent —
+great-grandparent — visitation
+rights. Repealed by 2007 Acts,
+ch 218, §208.
+598.36 Attorney fees in proceeding to
+modify order or decree.
+598.37 Name change.
+598.38 through 598.40 Reserved.
+598.41 Custody of children.
+598.41A Visitation — history of crimes
+against a minor .
+598.41B Visitation — restrictions —
+murder of parent.
+598.41C Modification of child custody or
+physical care — active duty .
+Repealed by 2016 Acts, ch
+1084, §30.
+Tue Nov 19 20:05:23 2024 Iowa Code 2025, Chapter 598 (39, 1)Ch 598, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 2
+598.41D Assignment of visitation or
+physical care parenting time
+— parent serving active duty
+— family member . Repealed
+by 2016 Acts, ch 1084, §30.
+598.42 Notice of certain orders by clerk
+of court.
+598.1 Definitions.
+As used in this chapter:
+1. “Best interest of the child” includes but is not limited to the opportunity for maximum
+continuous physical and emotional contact possible with both parents, unless direct physical
+or significant emotional harm to the child may result from this contact. Refusal by one parent
+to provide this opportunity without just cause shall be considered harmful to the best interest
+of the child.
+2. “Dissolution of marriage” means a termination of the marriage relationship and shall
+be synonymous with the term “divorce”.
+3.“ Joint custody” or “joint legal custody” means an award of legal custody of a minor
+child to both parents jointly under which both parents have legal custodial rights and
+responsibilities toward the child and under which neither parent has legal custodial rights
+superior to those of the other parent. Rights and responsibilities of joint legal custody
+include but are not limited to equal participation in decisions affecting the child’s legal
+status, medical care, education, extracurricular activities, and religious instruction.
+4.“ Joint physical care” means an award of physical care of a minor child to both joint legal
+custodial parents under which both parents have rights and responsibilities toward the child
+including but not limited to shared parenting time with the child, maintaining homes for the
+child, providing routine care for the child and under which neither parent has physical care
+rights superior to those of the other parent.
+5. “Legal custody” or “custody” means an award of the rights of legal custody of a minor
+child to a parent under which a parent has legal custodial rights and responsibilities toward
+the child. Rights and responsibilities of legal custody include but are not limited to decision
+making affecting the child’s legal status, medical care, education, extracurricular activities,
+and religious instruction.
+6. “Minor child” means any person under legal age.
+7. “Physical care” means the right and responsibility to maintain a home for the minor
+child and provide for the routine care of the child.
+8. “Postsecondary education subsidy” means an amount which either of the parties may be
+required to pay under a temporary order or final judgment or decree for educational expenses
+of a child who is between the ages of eighteen and twenty-two years if the child is regularly
+attending a course of career and technical training either as a part of a regular school program
+or under special arrangements adapted to the individual person’s needs; or is, in good faith,
+a full-time student in a college, university , or community college; or has been accepted for
+admission to a college, university , or community college and the next regular term has not
+yet begun.
+9. “Support” or “support payments” means an amount which the court may require either
+of the parties to pay under a temporary order or a final judgment or decree, and may include
+alimony , child support, maintenance, and any other term used to describe these obligations.
+For orders entered on or after July 1, 1990, unless the court specifically orders otherwise,
+medical support is not included in the monetary amount of child support. The obligations
+shall include support for a child who is between the ages of eighteen and nineteen years who
+is engaged full-time in completing high school graduation or equivalency requirements in a
+manner which is reasonably expected to result in completion of the requirements prior to
+the person reaching nineteen years of age; and may include support for a child of any age
+who is dependent on the parties to the dissolution proceedings because of physical or mental
+disability .
+[C71, 73, 75, 77, 79, 81, §598.1; 82 Acts, ch 1250, §1]
+84 Acts, ch 1088, §1; 86 Acts, ch 1245, §1495; 90 Acts, ch 1224, §41; 90 Acts, ch 1253, §120;
+97 Acts, ch 175, §182 – 185, 200; 2016 Acts, ch 1108, §69
+Referred to in §8.89, 252B.1, 252B.13A, 252B.14, 252B.24, 252D.16, 633.425, 714I.4
+Tue Nov 19 20:05:23 2024 Iowa Code 2025, Chapter 598 (39, 1)3 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.5
+598.2 Jurisdiction and venue.
+The district court has original jurisdiction of the subject matter of this chapter. V enue shall
+be in the county where either party resides.
+[C51, §1480; R60, §2532; C73, §2220; C97, §3171; C24, 27, 31, 35, 39, §10468; C46, 50, 54,
+58, 62, 66, §598.1; C71, 73, 75, 77, 79, 81, §598.2]
+598.2A Choice of law.
+In a proceeding to establish, modify , or enforce a child support order the forum state’s law
+shall apply except as provided in section 252K.604.
+96 Acts, ch 1141, §26; 2015 Acts, ch 110, §111
+598.3 Kind of action — joinder .
+An action for dissolution of marriage shall be by equitable proceedings, and no cause
+of action, save for alimony , shall be joined therewith. Such actions shall not be subject to
+counterclaim or cross petition by the respondent. After the appearance of the respondent,
+no dismissal of the cause of action shall be allowed unless both the petitioner and the
+respondent sign the dismissal.
+[R60, §4184; C73, §2511; C97, §3430; C24, 27, 31, 35, 39, §10469; C46, 50, 54, 58, 62, 66,
+§598.2; C71, 73, 75, 77, 79, 81, §598.3]
+598.4 Caption of petition for dissolution.
+The petition for dissolution of marriage shall be captioned substantially as follows:
+In the District Court of the State of Iowa
+In and For ........................ County
+In Re the Marriage of
+........................ and ........................
+Upon the Petition of Petition for
+................................ Dissolution
+(Petitioner) of Marriage
+and Concerning Equity No. ............
+................................
+(Respondent)
+[C71, 73, 75, 77, 79, 81, §598.4]
+598.5 Contents of petition — verification — evidence.
+1. The petition for dissolution of marriage shall:
+a. State the name, birth date, address and county of residence of the petitioner and the
+name and address of the petitioner’s attorney .
+b. State the place and date of marriage of the parties.
+c. State the name, birth date, address and county of residence, if known, of the
+respondent.
+d. State the name and age of each minor child by date of birth whose welfare may be
+affected by the controversy .
+e. State whether or not a separate action for dissolution of marriage or child support has
+been commenced and whether such action is pending in any court in this state or elsewhere.
+State whether the entry of an order would violate 28 U.S.C. §1738B. If there is an existing
+child support order , the party shall disclose identifying information regarding the order .
+f. Allege that the petition has been filed in good faith and for the purposes set forth therein.
+g. Allege that there has been a breakdown of the marriage relationship to the extent that
+the legitimate objects of matrimony have been destroyed and there remains no reasonable
+likelihood that the marriage can be preserved.
+h. Set forth any application for temporary support of the petitioner and any children
+without enumerating the amounts thereof.
+i. Set forth any application for permanent alimony or support, child custody , or
+Tue Nov 19 20:05:23 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.5, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 4
+disposition of property , as well as attorney fees and suit money , without enumerating the
+amounts thereof.
+j. State whether the appointment of a conciliator pursuant to section 598.16 may preserve
+the marriage.
+k. Except where the respondent is a resident of this state and is served by personal
+service, state that the petitioner has been for the last year a resident of the state, specifying
+the county in which the petitioner has resided and the length of such residence in the state
+after deducting all absences from the state, and that the maintenance of the residence has
+been in good faith and not for the purpose of obtaining a dissolution of marriage only .
+2. The petition shall be verified by the petitioner .
+3. The allegations of the petition shall be established by competent evidence.
+[C71, 73, 75, 77, 79, 81, §598.5]
+85 Acts, ch 178, §4; 97 Acts, ch 175, §186; 2005 Acts, ch 69, §30
+598.6 Additional contents. Repealed by 2005 Acts, ch 69, §58. See §598.5.
+598.7 Mediation.
+1. The district court may , on its own motion or on the motion of any party , order the
+parties to participate in mediation in any dissolution of marriage action or other domestic
+relations action. Mediation performed under this section shall comply with the provisions
+of chapter 679C. The provisions of this section shall not apply if the action involves a child
+support or medical support obligation enforced by child support services. The provisions of
+this section shall not apply to actions which involve elder abuse pursuant to chapter 235F
+or domestic abuse pursuant to chapter 236. The provisions of this section shall not affect a
+judicial district’s or court’s authority to order settlement conferences pursuant to rules of civil
+procedure. The court shall, on application of a party , grant a waiver from any court-ordered
+mediation under this section if the party demonstrates that a history of domestic abuse exists
+as specified in section 598.41, subsection 3, paragraph “j”.
+2. The supreme court shall establish a dispute resolution program in family law cases that
+includes the opportunities for mediation and settlement conferences. Any judicial district
+may implement such a dispute resolution program, subject to the rules prescribed by the
+supreme court.
+3. The supreme court shall prescribe rules for the mediation program, including the
+circumstances under which the district court may order participation in mediation.
+4. Any dispute resolution program shall comply with all of the following standards:
+a. Participation in mediation shall include attendance at a mediation session with the
+mediator and the parties to the action, listening to the mediator’s explanation of the mediation
+process, presentation of one party’s view of the case, and listening to the response of the other
+party . Participation in mediation does not require that the parties reach an agreement.
+b. The parties may choose the mediator , or the court shall appoint a mediator . A
+court-appointed mediator shall meet the qualifications established by the supreme court.
+c. Parties to the mediation have the right to advice and presence of counsel at all times.
+d. The parties to the mediation shall present any agreement reached through the
+mediation to their attorneys, if any . A mediation agreement reached by the parties shall not
+be enforceable until approved by the court.
+e. The costs of mediation shall be borne by the parties, as agreed to by the parties, or
+as ordered by the court, and may be taxed as court costs. Mediation shall be provided on a
+sliding fee scale for parties who are determined to be indigent pursuant to section 815.9.
+5. The supreme court shall prescribe qualifications for mediators under this section. The
+qualifications shall include but are not limited to the ethical standards to be observed by
+mediators. The qualifications shall not include a requirement that the mediator be licensed
+to practice any particular profession.
+[C51, §1481; R60, §2533; C73, §2222; C97, §3173; C24, 27, 31, 35, 39, §10471; C46, 50, 54,
+58, 62, 66, §598.4; C71, 73, 75, 77, 79, 81, §598.7]
+2005 Acts, ch 69, §31; 2014 Acts, ch 1107, §17; 2016 Acts, ch 1073, §162; 2023 Acts, ch 19,
+§1232
+Tue Nov 19 20:05:23 2024 Iowa Code 2025, Chapter 598 (39, 1)5 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.10
+598.7A Mediation. Repealed by 2005 Acts, ch 69, §58. See §598.7.
+598.8 Hearings — exceptions.
+1. Except as otherwise provided in subsection 2, hearings for dissolution of marriage shall
+be held in open court upon the oral testimony of witnesses, or upon the depositions of such
+witnesses taken as in other equitable actions or taken by a commissioner appointed by the
+court. The court may in its discretion close the hearing. Hearings held for the purpose of
+determining child custody may be limited in attendance by the court. Upon request of either
+party , the court shall provide security in the courtroom during the custody hearing if a history
+of domestic abuse relating to either party exists.
+2. The court may enter a decree of dissolution without a hearing under either of the
+following circumstances:
+a. All of the following circumstances have been met:
+(1) The parties have certified in writing that there has been a breakdown of the marriage
+relationship to the extent that the legitimate objects of matrimony have been destroyed and
+there remains no reasonable likelihood that the marriage can be preserved.
+(2) All documents required by the court and by statute have been filed.
+(3) The parties have entered into a written agreement settling all of the issues involved in
+the dissolution of marriage.
+b. The respondent has not entered a general or special appearance or filed a motion or
+pleading in the case, the waiting period provided under section 598.19 has expired, and all of
+the following circumstances have been met:
+(1) The petitioner has certified in writing that there has been a breakdown of the marriage
+relationship to the extent that the legitimate objects of matrimony have been destroyed and
+there remains no reasonable likelihood that the marriage can be preserved.
+(2) All documents required by the court and by statute have been filed.
+[C73, §2222; C97, §3173; C24, 27, 31, 35, 39, §10472; C46, 50, 54, 58, 62, 66, §598.5; C71,
+73, 75, 77, 79, 81, §598.8]
+95 Acts, ch 165, §1; 95 Acts, ch 182, §21; 2000 Acts, ch 1034, §1, 2
+598.9 Residence — failure of proof.
+If the averments as to residence are not fully proved, the hearing shall proceed no further ,
+and the action be dismissed by the court.
+[C73, §2222; C97, §3173; C24, 27, 31, 35, 39, §10473; C46, 50, 54, 58, 62, 66, §598.6; C71,
+73, 75, 77, 79, 81, §598.9]
+598.10 Temporary orders.
+1. a. The court may order either party to pay the clerk a sum of money for the separate
+support and maintenance of the other party and the children and to enable such party to
+prosecute or defend the action. The court may on its own motion and shall upon application
+of either party or a guardian ad litem appointed under section 598.12 or an attorney appointed
+under section 598.12A determine the temporary custody of any minor child whose welfare
+may be affected by the filing of the petition for dissolution.
+b. In order to encourage compliance with a visitation order , a temporary order for custody
+shall provide for a minimum visitation schedule with the noncustodial parent, unless the court
+determines that such visitation is not in the best interest of the child.
+2. The court may make such an order when a claim for temporary support is made by
+the petitioner in the petition, or upon application of either party , after service of the original
+notice and when no application is made in the petition; however , no such order shall be
+entered until at least five days’ notice of hearing, and opportunity to be heard, is given the
+other party . Appearance by an attorney or the respondent for such hearing shall be deemed
+a special appearance for the purpose of such hearing only and not a general appearance. An
+order entered pursuant to this section shall contain the names, birth dates, addresses, and
+counties of residence of the petitioner and respondent.
+2005 Acts, ch 69, §32; 2017 Acts, ch 43, §1
+Referred to in §598.11, 598.22
+Tue Nov 19 20:05:23 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.11, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 6
+598.11 How temporary order made — changes — retroactive modification.
+1. In making temporary orders, the court shall take into consideration the age of the
+applicant, the physical and pecuniary condition of the parties, and other matters as are
+pertinent, which may be shown by affidavits, as the court may direct. The hearing on the
+application shall be limited to matters set forth in the application, the affidavits of the parties,
+and the required statements of income. The court shall not hear any other matter relating to
+the petition, respondent’s answer , or any pleadings connected with the petition or answer .
+2. Subject to 28 U.S.C. §1738B, after notice and hearing, subsequent changes in temporary
+orders may be made by the court on application of either party demonstrating a substantial
+change in the circumstances occurring subsequent to the issuance of such order . If the order
+is not so modified, it shall continue in force and effect until the action is dismissed or a decree
+is entered dissolving the marriage.
+3. An order for temporary support may be retroactively modified only from three months
+after notice of hearing for temporary support pursuant to section 598.10 or from three months
+after notice of hearing for modification of a temporary order for support pursuant to this
+section. The three-month limitation applies to modification actions pending on or after July
+1, 1997.
+[C73, §2226; C97, §3177; C24, 27, 31, 35, 39, §10478; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §598.11]
+85 Acts, ch 178, §5; 2005 Acts, ch 69, §33
+598.12 Guardian ad litem for minor child.
+1. The court may appoint a guardian ad litem to represent the best interests of the minor
+child or children of the parties. The guardian ad litem shall be a practicing attorney and shall
+be solely responsible for representing the best interests of the minor child or children. The
+guardian ad litem shall be independent of the court and other parties to the proceeding and
+shall be unprejudiced and uncompromised in the guardian ad litem’s independent actions.
+a. Unless otherwise enlarged or circumscribed by a court having jurisdiction over the child
+or by operation of law, the duties of a guardian ad litem with respect to a child shall include
+all of the following:
+(1) Conducting an initial in-person interview with the child, if the child’s age is
+appropriate for the interview, and interviewing each parent, guardian, or other person
+having custody of the child.
+(2) Maintaining regular contact with the child.
+(3) Visiting the home, residence, or both home and residence of the child and any
+prospective home or residence of the child.
+(4) Interviewing any person providing medical, mental health, social, educational, or
+other services to the child, prior to any court-ordered hearing.
+(5) Obtaining knowledge of facts, circumstances, and parties involved in the matter in
+which the person is appointed guardian ad litem.
+(6) Attending any depositions, hearings, or trials in the matter in which the person is
+appointed guardian ad litem, and filing motions or responses or making objections when
+necessary . The guardian ad litem may cause witnesses to appear , offer evidence, and
+question witnesses on behalf of the best interests of the child. The guardian ad litem may
+offer proposed or requested relief and arguments in the same manner allowed the parties
+by the court. However , the guardian ad litem shall not testify , serve as a witness, or file a
+written report in the matter .
+b. The order appointing the guardian ad litem shall grant authorization to the guardian
+ad litem to interview any relevant person and inspect and copy any records relevant to the
+proceedings, if not prohibited by federal law. The order shall specify that the guardian
+ad litem may interview any person providing medical, mental health, social, educational,
+or other services to the child; may attend any meeting with the medical or mental health
+providers, service providers, organizations, or educational institutions regarding the child, if
+deemed necessary by the guardian ad litem; may inspect and copy any records relevant to
+the proceedings; and shall specifically be authorized to communicate with any individual or
+person appointed by the court to conduct a home-study investigation. The parent, guardian,
+Tue Nov 19 20:05:23 2024 Iowa Code 2025, Chapter 598 (39, 1)7 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.12A
+or other person having custody of the child shall immediately execute any release necessary
+to allow the guardian ad litem to effect the authorization granted under this paragraph.
+2. The same person shall not serve both as the child’s attorney and as guardian ad litem,
+nor shall the same person serve both as the child and family reporter and as guardian ad litem.
+3. The court shall enter an order in favor of the guardian ad litem for fees and
+disbursements as submitted by the guardian ad litem, and the amount shall be charged
+against the party responsible for court costs unless the court determines that the party
+responsible for court costs is indigent, in which event the amount shall be borne by the county .
+[C71, 73, 75, 77, 79, 81, §598.12; 82 Acts, ch 1250, §3]
+83 Acts, ch 96, §157, 159; 2000 Acts, ch 1067, §1; 2005 Acts, ch 69, §34; 2017 Acts, ch 43, §2
+Referred to in §598.10, 598C.310, 600B.40, 915.37
+598.12A Attorney for minor child.
+1. The court may appoint an attorney to represent the minor child or children of the
+parties. If appointed under this section, the child’s attorney shall be solely responsible for
+representing the minor child or children. The child’s attorney shall be independent of the
+court and other parties to the proceeding and shall be unprejudiced and uncompromised in
+the attorney’s independent actions.
+a. Unless otherwise enlarged or circumscribed by a court having jurisdiction over the
+child or by operation of law, the duties of an attorney with respect to a child shall include all
+of the following:
+(1) Conducting an initial in-person interview with the child, if the child’s age is
+appropriate for the interview, and interviewing each parent, guardian, or other person
+having custody of the child if authorized by the person’s legal counsel.
+(2) Maintaining regular contact with the child.
+(3) Interviewing any person providing medical, mental health, social, educational, or
+other services to the child, as necessary to advance the child’s interests.
+(4) Obtaining knowledge of facts, circumstances, and the parties involved in the matter
+as necessary to advance the child’s interests.
+(5) Attending any depositions, hearings, and trials in the matter and filing motions or
+responses or making objections when necessary . The child’s attorney may cause witnesses
+to appear , offer evidence on behalf of the child, and question witnesses. The child’s attorney
+may offer proposed or requested relief and arguments in the same manner allowed the parties
+by the court. However , the child’s attorney shall not testify , serve as a witness, or file a written
+report in the matter .
+b. The order appointing the child’s attorney shall grant authorization to the child’s
+attorney to interview any relevant person and inspect and copy any records relevant to
+the proceedings, if not prohibited by federal law. The order shall specify that the child’s
+attorney may interview any person providing medical, mental health, social, educational,
+or other services to the child; may attend any meeting with the medical or mental health
+providers, service providers, organizations, or educational institutions regarding the child,
+if deemed necessary by the child’s attorney; and may inspect and copy any records relevant
+to the proceedings. The parent, guardian, or other person having custody of the child
+shall immediately execute any release necessary to allow the child’s attorney to effect the
+authorization granted under this paragraph.
+2. The same person shall not serve as both the child’s guardian ad litem and the child’s
+attorney , nor shall the same person serve as both the child and family reporter and as the
+child’s attorney .
+3. The court shall enter an order in favor of the child’s attorney for fees and disbursements
+as submitted by the child’s attorney , and the amount shall be charged against the party
+responsible for court costs unless the court determines that the party responsible for court
+costs is indigent, in which event the amount shall be borne by the county .
+2017 Acts, ch 43, §3
+Referred to in §598.10, 600B.40
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.12B, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 8
+598.12B Child custody investigators and child and family reporters.
+1. The supreme court shall prescribe and maintain standards for child custody
+investigators and child and family reporters.
+2. The court may require a child custody investigator or a child and family reporter to
+obtain information regarding both parties’ home conditions, parenting capabilities, and other
+matters pertinent to the best interests of the child or children in a dispute concerning custody
+of the child or children. A report of the information obtained shall be submitted to the court
+and available to both parties. The report shall be a part of the record unless otherwise ordered
+by the court.
+3. The court shall enter an order in favor of the child custody investigator or child and
+family reporter for fees and disbursements, and the amount shall be charged against the party
+responsible for court costs unless the court determines that the party responsible for court
+costs is indigent, in which event the amount shall be borne by the county .
+2017 Acts, ch 43, §4
+Referred to in §600B.40
+598.13 Financial statements filed.
+1. a. Both parties shall disclose their financial status. A showing of special circumstances
+shall not be required before the disclosure is ordered. A statement of net worth set forth by
+affidavit on a form prescribed by the supreme court and furnished without charge by the clerk
+of the district court shall be filed by each party prior to the dissolution hearing. However ,
+the parties may waive this requirement upon application of both parties and approval by the
+court.
+b. Failure to comply with the requirements of this subsection constitutes failure to make
+discovery as provided in rule of civil procedure 1.517.
+2. The court may , in its discretion, order a trustee to provide, on behalf of a trust,
+information including, but not limited to, trust documents and financial statements relating
+to any beneficial interest a party to the pending action may have in the trust.
+[C71, 73, 75, 77, 79, 81, §598.13]
+87 Acts, ch 89, §1; 2001 Acts, ch 112, §1; 2013 Acts, ch 30, §261
+Referred to in §598.26
+The form of affidavit prescribed by the supreme court is published in the compilation “Iowa Court Rules”, R.C.P . 1.1901– Form 7
+598.14 Attachment.
+The petition may be presented to the court for the allowance of an order of attachment,
+which, by endorsement thereon, may direct such attachment and fix the amount for which
+it may issue, and the amount of the bond, if any , that shall be given. Any property taken
+by virtue thereof shall be held to satisfy the judgment or decree of the court, but may be
+discharged or released as in other cases.
+[C73, §2228; C97, §3179; C24, 27, 31, 35, 39, §10480; C46, 50, 54, 58, 62, 66, §598.13; C71,
+73, 75, 77, 79, 81, §598.14]
+85 Acts, ch 99, §9; 85 Acts, ch 195, §52; 96 Acts, ch 1141, §27; 2005 Acts, ch 69, §35
+598.14A and 598.14B Repealed by 2005 Acts, ch 69, §58.
+598.15 Mandatory course — parties to certain proceedings.
+1. The parties to any action which involves the issues of child custody or visitation shall
+participate in a court-approved course to educate and sensitize the parties to the needs of
+any child or party during and subsequent to the proceeding within forty-five days of the
+service of notice and petition for the action or within forty-five days of the service of notice
+and application for modification of an order . Participation in the course may be waived or
+delayed by the court for good cause including but not limited to a default by any of the parties
+or a showing that the parties have previously participated in a court-approved course or its
+equivalent. Participation in the course is not required if the proceeding involves termination
+of parental rights of any of the parties. A final decree shall not be granted or a final order shall
+not be entered until the parties have complied with this section, unless participation in the
+course is waived or delayed for good cause or is otherwise not required under this subsection.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)9 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.17
+2. Each party shall be responsible for arranging for participation in the course and for
+payment of the costs of participation in the course.
+3. Each party shall submit certification of completion of the course to the court prior to
+the granting of a final decree or the entry of an order , unless participation in the course is
+waived or delayed for good cause or is otherwise not required under subsection 1.
+4. If participation in the court-approved course is waived or delayed for good cause or is
+otherwise not required under this section, the court may order that the parties receive the
+information described in subsection 5 through an alternative format.
+5. Each judicial district shall certify approved courses for parties required to participate
+in a course under this section. Approved courses may include those provided by a public
+or private entity . At a minimum and as appropriate, an approved course shall include
+information relating to the parents regarding divorce and its impact on the children and
+family relationship, parenting skills for divorcing parents, children’s needs and coping
+techniques, and the financial responsibilities of parents following divorce.
+6. In addition to the provisions of this section relating to the required participation in a
+court-approved course by the parties to an action as described in subsection 1, the court may
+require age-appropriate counseling for children who are involved in a dissolution of marriage
+action. The counseling may be provided by a public or private entity approved by the court.
+The costs of the counseling shall be taxed as court costs.
+7. The supreme court may prescribe rules to implement this section.
+[C73, §2227; C97, §3178; C24, 27, 31, 35, 39, §10479; C46, 50, 54, 58, 62, 66, §598.12; C71,
+73, 75, 77, 79, 81, §598.15]
+2005 Acts, ch 69, §36; 2010 Acts, ch 1159, §7
+Referred to in §600B.40
+598.16 Conciliation — domestic relations divisions.
+1. A majority of the judges in any judicial district, with the cooperation of any county
+board of supervisors in the district, may establish a domestic relations division of the district
+court of the county where the board is located. The division shall offer counseling and related
+services to persons before the court.
+2. The court may on its own motion or upon the motion of a party require the parties to
+participate in conciliation efforts for a period of sixty days or less following the issuance of an
+order setting forth the conciliation procedure and the conciliator . In making a determination
+under this section, the court shall consider all relevant factors including but not limited to
+whether a history of abuse or violence exists.
+3. Every order for conciliation shall require the conciliator to file a written report by a date
+certain which shall state the conciliation procedures undertaken and such other matters as
+may have been required by the court. The report shall be a part of the record unless otherwise
+ordered by the court. Such conciliation procedure may include but is not limited to referrals
+to the domestic relations division of the court, if established, public or private marriage
+counselors, family service agencies, community health centers, physicians and clergy .
+4. The costs of conciliation procedures shall be paid in full or in part by the parties and
+taxed as court costs; however , if the court determines that the parties will be unable to pay the
+costs without prejudicing their financial ability to provide themselves and any minor children
+with economic necessities, the costs may be paid in full or in part by the county .
+5. Persons providing counseling and other services pursuant to this section are not court
+employees, but are subject to court supervision.
+[C71, 73, 75, 77, 79, 81, §598.16]
+83 Acts, ch 123, §194, 209; 83 Acts, ch 186, §10110, 10201; 93 Acts, ch 54, §11; 2007 Acts,
+ch 180, §1; 2014 Acts, ch 1107, §18; 2017 Acts, ch 43, §5; 2019 Acts, ch 63, §1
+Referred to in §331.424, 598.5, 602.11101
+598.17 Dissolution of marriage — evidence.
+1. A decree dissolving the marriage may be entered when the court is satisfied from the
+evidence presented that there has been a breakdown of the marriage relationship to the
+extent that the legitimate objects of matrimony have been destroyed and there remains no
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.17, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 10
+reasonable likelihood that the marriage can be preserved. The decree shall state that the
+dissolution is granted to the parties, and shall not state that it is granted to only one party .
+2. If at the time of trial petitioner fails to present satisfactory evidence that there has
+been a breakdown of the marriage relationship to the extent that the legitimate objects of
+matrimony have been destroyed and there remains no reasonable likelihood that the marriage
+can be preserved, the respondent may then proceed to present such evidence as though the
+respondent had filed the original petition.
+3. A dissolution of marriage granted when one of the spouses has mental illness shall not
+relieve the other spouse of any obligation imposed by law as a result of the marriage for the
+support of the spouse with mental illness. The court may make an order for the support or
+may waive the support obligation when satisfied from the evidence that it would create an
+undue hardship on the obliged spouse or that spouse’s other dependents.
+[C71, 73, 75, 77, 79, 81, §598.17]
+89 Acts, ch 296, §77; 96 Acts, ch 1129, §101; 2016 Acts, ch 1011, §121
+Referred to in §97A.1, 410.10, 411.1
+598.18 Recrimination not a bar to dissolution of marriage.
+If, upon the trial of an action for dissolution of marriage, both of the parties are found
+to have committed an act or acts which would support or justify a decree of dissolution of
+marriage, such dissolution may be decreed, and the acts of one party shall not negate the
+acts of the other , nor serve to bar the dissolution decree in any way .
+[C71, 73, 75, 77, 79, 81, §598.18]
+598.19 Waiting period before decree.
+No decree dissolving a marriage shall be granted in any proceeding before ninety days shall
+have elapsed from the day the original notice is served, or from the last day of publication
+of notice, or from the date that waiver or acceptance of original notice is filed or until after
+any court-ordered conciliation is completed, whichever period shall be longer . However , the
+court may in its discretion, on written motion supported by affidavit setting forth grounds of
+emergency or necessity and facts which satisfy the court that immediate action is warranted
+or required to protect the substantive rights or interests of any party or person who might be
+affected by the decree, hold a hearing and grant a decree dissolving the marriage prior to the
+expiration of the applicable period, provided that requirements of notice have been complied
+with. In such case the grounds of emergency or necessity and the facts with respect thereto
+shall be recited in the decree unless otherwise ordered by the court. The court may enter an
+order finding the respondent in default and waiving any court-ordered conciliation when the
+respondent has failed to file an appearance within the time set forth in the original notice.
+[C58, 62, 66, §598.25; C71, 73, 75, §598.16, 598.19; C77, 79, 81, §598.19]
+2019 Acts, ch 63, §2
+Referred to in §598.8
+598.19A Mandatory course — parties to certain proceedings. 69, §58. See §598.15.
+Repealed by 2005 Acts, ch
+598.20 Forfeiture of marital rights.
+When a dissolution of marriage is decreed the parties shall forfeit all rights acquired by
+marriage which are not specifically preserved in the decree. This provision shall not obviate
+any of the provisions of section 598.21, 598.21A, 598.21B, 598.21C, 598.21D, 598.21E, or
+598.21F.
+[C51, §1486; C73, §2230; C97, §3181; C24, 27, 31, 35, 39, §10483; C46, 50, 54, 58, 62, 66,
+§598.16; C71, 73, 75, 77, 79, 81, §598.20]
+2005 Acts, ch 69, §37
+598.20A Beneficiary revocation — life insurance.
+1. Except as preempted by federal law, if a decree of dissolution, annulment, or separate
+maintenance is issued after the policy owner of an insurance contract insuring the policy
+owner’s own life has designated the policy owner’s spouse or one or more relatives of the
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)11 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.20B
+policy owner’s spouse as a beneficiary under a life insurance policy in effect on the date of
+the decree, a provision in the life insurance policy making such a designation is voided by the
+issuance of the decree unless any of the following apply:
+a. The decree designates the policy owner’s former spouse or one or more relatives of the
+policy owner’s spouse as beneficiary .
+b. After issuance of the decree, the policy owner executes a designation of beneficiary
+form provided by the insurance company naming the policy owner’s former spouse or one or
+more relatives of the policy owner’s former spouse as beneficiary .
+c. The policy owner and the policy owner’s former spouse remarry .
+2. If a beneficiary designation is not effective pursuant to subsection 1, the benefits or
+proceeds of the life insurance policy are payable to an alternate beneficiary , or if there is no
+alternate beneficiary , to the estate of the policy owner .
+3. An insurer who pays benefits or proceeds of a life insurance policy to a beneficiary
+under a designation that is void pursuant to subsection 1 is not liable for payment to an
+alternative beneficiary as provided under subsection 2 unless both of the following apply:
+a. At least ten days prior to payment of the benefits or proceeds of the life insurance policy
+to the designated beneficiary , the insurer receives written notice at the home office of the
+insurer that the designation of the beneficiary is not effective pursuant to subsection 1.
+b. The insurer has failed to interplead the benefits or proceeds of the life insurance policy
+in a court of competent jurisdiction in accordance with the rules of civil procedure.
+4. This section does not limit the right of a beneficiary to seek recovery from any person
+or entity that erroneously receives or collects the benefits or proceeds from a life insurance
+policy .
+5. This section does not affect the right of a policy owner’s former spouse to assert an
+ownership interest in a life insurance policy insuring the life of the policy owner that is
+not disclosed to the policy owner’s spouse prior to the decree of dissolution, annulment, or
+separate maintenance and that is not addressed by the decree.
+6. For purposes of this section, “relative of the policy owner’s spouse” means a person
+who is related to the policy owner’s former spouse by blood, adoption, or affinity , and who,
+subsequent to a decree of dissolution, annulment, or separate maintenance, ceases to be
+related to the policy owner by blood, adoption, or affinity .
+2007 Acts, ch 134, §4, 28; 2013 Acts, ch 124, §30
+598.20B Beneficiary revocation — other contracts.
+1. Except as preempted by federal law, if a decree of dissolution, annulment, or separate
+maintenance is issued after a participant, annuitant, or account holder has designated
+the participant’s, annuitant’s, or account holder’s spouse or one or more relatives of the
+participant’s, annuitant’s, or account holder’s spouse as beneficiary under any individual
+retirement account, stock option plan, transfer on death account, payable on death account,
+or annuity in force at the date of the decree, a provision in the retirement account, stock
+option plan, transfer on death account, payable on death account, or annuity designating
+the participant’s, annuitant’s, or account holder’s spouse or one or more relatives of the
+participant’s, annuitant’s, or account holder’s spouse as beneficiary is voided by the issuance
+of the decree unless any of the following apply:
+a. The decree designates the participant’s, annuitant’s, or account holder’s spouse or one
+or more relatives of the participant’s, annuitant’s, or account holder’s spouse as beneficiary .
+b. After issuance of the decree, the participant, annuitant, or account holder executes a
+designation of beneficiary form provided by the plan or company naming the participant’s,
+annuitant’s, or account holder’s former spouse or one or more relatives of the participant’s,
+annuitant’s, or account holder’s former spouse as the beneficiary .
+c. The participant, annuitant, or account holder and the participant’s, annuitant’s, or
+account holder’s former spouse remarry .
+d. Prior to the issuance of the decree, annuity payments have irrevocably commenced
+based on the joint life expectancies of the participant, annuitant, or account holder and the
+participant’s, annuitant’s, or account holder’s former spouse.
+2. If a beneficiary designation is not effective pursuant to subsection 1, the benefits
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.20B, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 12
+or proceeds from the individual retirement account, stock option plan, transfer on death
+account, payable on death account, or annuity are payable to an alternate beneficiary , or if
+there is no alternate beneficiary , to the estate of the participant, annuitant, or account holder .
+3. A business entity , employer , insurer , financial institution, or other person or entity
+obligated to pay the benefits or proceeds from an individual retirement account, stock option
+plan, transfer on death account, payable on death account, or annuity to a beneficiary under
+a designation that is void pursuant to subsection 1 is not liable for payment of the benefits or
+proceeds to a beneficiary as provided under subsection 2 unless both of the following apply:
+a. At least ten days prior to payment of the benefits or proceeds to the designated
+beneficiary , the business entity , employer , insurer , financial institution, or other person or
+entity obligated to pay the benefits or proceeds receives written notice at the home office of
+the business entity , employer , insurer , financial institution, or other person or entity that the
+designation of the beneficiary is not effective pursuant to subsection 1.
+b. The business entity , employer , insurer , financial institution, or other person or entity has
+failed to interplead the benefits or proceeds in a court of competent jurisdiction in accordance
+with the rules of civil procedure.
+4. This section does not limit the right of a beneficiary to seek recovery from any person or
+entity that erroneously receives or collects the benefits or proceeds of an individual retirement
+account, stock option plan, transfer on death account, payable on death account, or annuity .
+5. This section does not affect the right of the participant’s, annuitant’s, or account
+holder’s former spouse to assert an ownership interest in an individual retirement account,
+stock option plan, transfer or payable on death account, or annuity that is not disclosed to
+the participant’s, annuitant’s, or account holder’s spouse prior to the issuance of the decree
+of dissolution, annulment, or separate maintenance and that is not addressed by the decree.
+6. For purposes of this section, “relative of the participant’s, annuitant’s, or account
+holder’s spouse” means a person who is related to the participant’s, annuitant’s, or account
+holder’s former spouse by blood, adoption, or affinity , and who, subsequent to a decree of
+dissolution, annulment, or separate maintenance ceases to be related to the participant,
+annuitant, or account holder by blood, adoption, or affinity .
+2007 Acts, ch 134, §5, 28
+598.21 Orders for disposition of property .
+1. General principles. Upon every judgment of annulment, dissolution, or separate
+maintenance, the court shall divide the property of the parties and transfer the title of the
+property accordingly , including ordering the parties to execute a quitclaim deed or ordering
+a change of title for tax purposes and delivery of the deed or change of title to the county
+recorder of the county in which each parcel of real estate is located.
+2. Duties of county recorder . The county recorder shall record each quitclaim deed or
+change of title and shall collect the fee specified in section 331.507, subsection 2, paragraph
+“a”, and the fees specified in section 331.604.
+3. Duties of clerk of court. If the court orders a transfer of title to real property , the clerk
+of court shall issue a certificate under chapter 558 relative to each parcel of real estate affected
+by the order and immediately deliver the certificate for recording to the county recorder of
+the county in which the real estate is located. Any fees assessed shall be included as part
+of the court costs. The county recorder shall deliver the certificates to the county auditor as
+provided in section 558.58, subsection 1.
+4. Property for children. The court may protect and promote the best interests of children
+of the parties by setting aside a portion of the property of the parties in a separate fund or
+conservatorship for the support, maintenance, education, and general welfare of the minor
+children.
+5. Division of property. The court shall divide all property , except inherited property or
+gifts received or expected by one party , equitably between the parties after considering all of
+the following:
+a. The length of the marriage.
+b. The property brought to the marriage by each party .
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)13 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.21A
+c. The contribution of each party to the marriage, giving appropriate economic value to
+each party’s contribution in homemaking and child care services.
+d. The age and physical and emotional health of the parties.
+e. The contribution by one party to the education, training, or increased earning power of
+the other .
+f. The earning capacity of each party , including educational background, training,
+employment skills, work experience, length of absence from the job market, custodial
+responsibilities for children, and the time and expense necessary to acquire sufficient
+education or training to enable the party to become self-supporting at a standard of living
+reasonably comparable to that enjoyed during the marriage.
+g. The desirability of awarding the family home or the right to live in the family home for
+a reasonable period to the party having custody of the children, or if the parties have joint
+legal custody , to the party having physical care of the children.
+h. The amount and duration of an order granting support payments to either party
+pursuant to section 598.21A and whether the property division should be in lieu of such
+payments.
+i. Other economic circumstances of each party , including pension benefits, vested or
+unvested. F uture interests may be considered, but expectancies or interests arising from
+inherited or gifted property created under a will or other instrument under which the
+trustee, trustor , trust protector , or owner has the power to remove the party in question as a
+beneficiary , shall not be considered.
+j. The tax consequences to each party .
+k. Any written agreement made by the parties concerning property distribution.
+l. The provisions of an antenuptial agreement.
+m. Other factors the court may determine to be relevant in an individual case.
+6. Inherited and gifted property. Property inherited by either party or gifts received by
+either party prior to or during the course of the marriage is the property of that party and
+is not subject to a property division under this section except upon a finding that refusal to
+divide the property is inequitable to the other party or to the children of the marriage.
+7. Not subject to modification. Property divisions made under this chapter are not
+subject to modification.
+8. Necessary content of order . Orders made pursuant to this section need mention only
+those factors relevant to the particular case for which the orders are made but shall contain
+the names, birth dates, addresses, and counties of residence of the petitioner and respondent.
+[C51, §1485; R60, §2537; C73, §2229; C97, §3180; C24, 27, 31, 35, 39, §10481; C46, 50, 54,
+58, 62, 66, §598.14; C71, 73, 75, 77, 79, §598.17, §598.21; C81, §598.21; 82 Acts, ch 1054, §1,
+ch 1250, §4 – 9]
+83 Acts, ch 101, §118; 85 Acts, ch 159, §10; 85 Acts, ch 178, §6, 7; 86 Acts, ch 1079, §5; 88
+Acts, ch 1141, §2; 89 Acts, ch 102, §6; 89 Acts, ch 166, §6; 90 Acts, ch 1224, §42 – 45; 92 Acts,
+ch 1195, §405, 406, 508, 509; 93 Acts, ch 78, §44 – 46; 93 Acts, ch 79, §48, 49; 94 Acts, ch 1171,
+§40 – 42; 95 Acts, ch 52, §8; 95 Acts, ch 115, §11, 12; 96 Acts, ch 1106, §17; 96 Acts, ch 1141,
+§7, 28, 29; 97 Acts, ch 41, §32; 97 Acts, ch 175, §188 – 193, 200; 99 Acts, ch 103, §44, 45; 2001
+Acts, ch 143, §8; 2002 Acts, ch 1018, §16, 17, 21; 2003 Acts, ch 151, §28; 2004 Acts, ch 1157,
+§1; 2005 Acts, ch 69, §38; 2007 Acts, ch 163, §1 – 3; 2009 Acts, ch 27, §36; 2009 Acts, ch 159,
+§14; 2009 Acts, ch 179, §44
+Referred to in §321A.17, 557.15, 598.20, 598.21A
+598.21A Orders for spousal support.
+1. Criteria for determining support. Upon every judgment of annulment, dissolution, or
+separate maintenance, the court may grant an order requiring support payments to either
+party for a limited or indefinite length of time after considering all of the following:
+a. The length of the marriage.
+b. The age and physical and emotional health of the parties.
+c. The distribution of property made pursuant to section 598.21.
+d. The educational level of each party at the time of marriage and at the time the action
+is commenced.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.21A, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 14
+e. The earning capacity of the party seeking maintenance, including educational
+background, training, employment skills, work experience, length of absence from the job
+market, responsibilities for children under either an award of custody or physical care, and
+the time and expense necessary to acquire sufficient education or training to enable the
+party to find appropriate employment.
+f. The feasibility of the party seeking maintenance becoming self-supporting at a standard
+of living reasonably comparable to that enjoyed during the marriage, and the length of time
+necessary to achieve this goal.
+g. The tax consequences to each party .
+h. Any mutual agreement made by the parties concerning financial or service
+contributions by one party with the expectation of future reciprocation or compensation by
+the other party .
+i. The provisions of an antenuptial agreement.
+j. Other factors the court may determine to be relevant in an individual case.
+2. Necessary content of order . Orders made pursuant to this section need mention only
+those factors relevant to the particular case for which the orders are made but shall contain
+the names, birth dates, addresses, and counties of residence of the petitioner and respondent.
+96 Acts, ch 1106, §18; 2005 Acts, ch 69, §39
+Referred to in §252A.3, 252A.6, 598.20, 598.21, 598.22
+598.21B Orders for child support and medical support.
+1. Child support guidelines.
+a. The supreme court shall maintain uniform child support guidelines and criteria and
+review the guidelines and criteria at least once every four years, pursuant to the federal Family
+Support Act of 1988, Pub. L. No. 100-485. The initial review shall be performed within four
+years of October 12, 1989, and subsequently within the four-year period of the most recent
+review.
+b. The guidelines prescribed by the supreme court shall incorporate provisions for
+medical support as defined in chapter 252E to be effective on or before January 1, 1991.
+c. It is the intent of the general assembly that, to the extent possible within the
+requirements of federal law, the court and child support services consider the individual
+facts of each judgment or case in the application of the guidelines and determine the support
+obligation accordingly . It is also the intent of the general assembly that in the supreme
+court’s review of the guidelines, the supreme court shall do both of the following:
+(1) Emphasize the ability of a court to apply the guidelines in a just and appropriate
+manner based upon the individual facts of a judgment or case.
+(2) In determining monthly child support payments, consider other children for whom
+either parent is legally responsible for support and other child support obligations actually
+paid by either party pursuant to a court or administrative order .
+d. The guidelines prescribed by the supreme court shall be used by the department of
+health and human services in determining child support payments under sections 252C.2 and
+252C.4. A variation from the guidelines shall not be considered by the department without
+a record or written finding, based on stated reasons, that the guidelines would be unjust or
+inappropriate as determined under criteria prescribed by the supreme court.
+2. Child support orders.
+a. Court’s authority. Unless prohibited pursuant to 28 U.S.C. §1738B, upon every
+judgment of annulment, dissolution, or separate maintenance, the court may order either
+parent or both parents to pay an amount reasonable and necessary for supporting a child.
+b. Calculating amount of support.
+(1) In establishing the amount of support, consideration shall be given to the responsibility
+of both parents to support and provide for the welfare of the minor child and of a child’s need,
+whenever practicable, for a close relationship with both parents.
+(2) For purposes of calculating a support obligation under this section, the income of the
+parent from whom support is sought shall be used as the noncustodial parent income for
+purposes of application of the guidelines, regardless of the legal custody of the child.
+(3) For the purposes of including a child’s dependent benefit in calculating a support
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)15 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.21C
+obligation under this section for a child whose parent has been awarded disability benefits
+under the federal Social Security Act, the provisions of section 598.22C shall apply .
+c. Rebuttable presumption in favor of guidelines. There shall be a rebuttable
+presumption that the amount of child support which would result from the application of
+the guidelines prescribed by the supreme court is the correct amount of child support to be
+awarded.
+d. Variation from guidelines. A variation from the guidelines shall not be considered by a
+court without a record or written finding, based on stated reasons, that the guidelines would
+be unjust or inappropriate as determined under the criteria prescribed by the supreme court.
+e. Special circumstances justifying variation from guidelines. Unless the special
+circumstances of the case justify a deviation, the court or child support services shall
+establish a monthly child support payment in accordance with the guidelines for a parent
+who is nineteen years of age or younger , who has not received a high school or high school
+equivalency diploma, and to whom each of the following apply:
+(1) The parent is attending a school or program described as follows or has been identified
+as one of the following:
+(a) The parent is in full-time attendance at an accredited school and is pursuing a course
+of study leading to a high school diploma.
+(b) The parent is attending an instructional program leading to a high school equivalency
+diploma.
+(c) The parent is attending a career and technical education program approved pursuant
+to chapter 256, subchapter VII, part 2.
+(d) The parent has been identified by the director of special education of the area
+education agency as a child requiring special education as defined in section 256B.2.
+(2) The parent provides proof of compliance with the requirements of subparagraph (1)
+to child support services, if child support services is providing services under chapter 252B,
+or if child support services is not providing services pursuant to chapter 252B, to the court
+as the court may direct. Failure to provide proof of compliance under this subparagraph or
+proof of compliance under section 598.21G is grounds for modification of the support order
+using the uniform child support guidelines and imputing an income to the parent equal to a
+forty-hour workweek at the state minimum wage, unless the parent’s education, experience,
+or actual earnings justify a higher income.
+3. Medical support. The court shall order child medical support as provided in section
+252E.1A. The premium cost of a health benefit plan may be considered by the court as a
+reason for varying from the child support guidelines.
+4. Necessary content of order . Orders made pursuant to this section need mention only
+those factors relevant to the particular case for which the orders are made but shall contain
+the names, birth dates, addresses, and counties of residence of the petitioner and respondent.
+2005 Acts, ch 69, §40; 2007 Acts, ch 218, §184, 187; 2008 Acts, ch 1019, §18, 20; 2010 Acts,
+ch 1142, §9; 2016 Acts, ch 1108, §70; 2023 Acts, ch 19, §1233, 1234, 2533
+Referred to in §234.39, 252A.3, 252A.6, 252A.6A, 252B.5, 252B.6, 252B.9, 252C.2, 252C.3, 252C.4, 252E.1, 252E.1A, 252E.2A, 252F .3,
+252F .4, 252F .5, 252H.2, 252H.6, 252H.8, 252H.9, 252H.14A, 252H.15, 252H.19, 252H.21, 598.20, 598.21C, 598.21E, 598.22, 598.22C, 600B.25,
+600B.41A, 714I.4
+598.21C Modification of child, spousal, or medical support orders.
+1. Criteria for modification. Subject to 28 U.S.C. §1738B, the court may subsequently
+modify child, spousal, or medical support orders when there is a substantial change in
+circumstances. In determining whether there is a substantial change in circumstances, the
+court shall consider the following:
+a. Changes in the employment, earning capacity , income, or resources of a party .
+b. Receipt by a party of an inheritance, pension, or other gift.
+c. Changes in the medical expenses of a party .
+d. Changes in the number or needs of dependents of a party .
+e. Changes in the physical, mental, or emotional health of a party .
+f. Changes in the residence of a party .
+g. Remarriage of a party .
+h. Possible support of a party by another person.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.21C, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 16
+i. Changes in the physical, emotional, or educational needs of a child whose support is
+governed by the order .
+j. Contempt by a party of existing orders of court.
+k. Entry of a dispositional or permanency order in juvenile court pursuant to chapter 232
+placing custody or physical care of a child with a party who is obligated to pay support for
+a child. Any filing fees or court costs for a modification filed or ordered pursuant to this
+paragraph are waived.
+l. Other factors the court determines to be relevant in an individual case.
+2. Additional criteria for modification of child support orders.
+a. Subject to 28 U.S.C. §1738B, but notwithstanding subsection 1, a substantial change of
+circumstances exists when the court order for child support varies by ten percent or more
+from the amount which would be due pursuant to the most current child support guidelines
+established pursuant to section 598.21B or a parent has a health benefit plan available as
+provided in section 252E.1A and the current order for support does not contain provisions
+for medical support.
+b. This basis for modification is applicable to petitions filed on or after July 1, 1992,
+notwithstanding whether the guidelines prescribed by section 598.21B were used in
+establishing the current amount of support. Upon application for a modification of an order
+for child support for which services are being received pursuant to chapter 252B, the court
+shall set the amount of child support based upon the most current child support guidelines
+established pursuant to section 598.21B, including provisions for medical support pursuant
+to chapter 252E. Child support services shall, in submitting an application for modification,
+adjustment, or alteration of an order for support, employ additional criteria and procedures
+as provided in chapter 252H and as established by rule.
+3. Applicable law. Unless otherwise provided pursuant to 28 U.S.C. §1738B, a
+modification of a support order entered under chapter 234, 252A, 252C, 600B, this chapter,
+or any other support chapter or proceeding between parties to the order is void unless the
+modification is approved by the court, after proper notice and opportunity to be heard is
+given to all parties to the order , and entered as an order of the court. If support payments
+have been assigned to the department of health and human services pursuant to section
+234.39, 239B.6, or 252E.11, or if services are being provided pursuant to chapter 252B,
+the department is a party to the support order . Modifications of orders pertaining to child
+custody shall be made pursuant to chapter 598B. If the petition for a modification of an order
+pertaining to child custody asks either for joint custody or that joint custody be modified to
+an award of sole custody , the modification, if any , shall be made pursuant to section 598.41.
+4. Temporary modification of child support orders. While an application for modification
+of a child support or child custody order is pending, the court may , on its own motion or upon
+application by either party , enter a temporary order modifying an order of child support. The
+court may enter such temporary order only after service of the original notice, and an order
+shall not be entered until at least five days’ notice of hearing and opportunity to be heard, is
+provided to all parties. In entering temporary orders under this subsection, the court shall
+consider all pertinent matters, which may be demonstrated by affidavits, as the court may
+direct. The hearing on application shall be limited to matters set forth in the application, the
+affidavits of the parties, and any required statements of income. The court shall not hear
+any other matter relating to the application for modification, respondent’s answer , or any
+pleadings connected with the application for modification or the answer . This subsection
+shall also apply to an order , decree, or judgment entered or pending on or before July 1, 2007,
+and shall apply to an order entered under this chapter, chapter 252A, 252C, 252F, 252H, 252K,
+or 600B, or any other applicable chapter of the Code.
+5. Retroactivity of modification. Judgments for child support or child support awards
+entered pursuant to this chapter, chapter 234, 252A, 252C, 252F, 600B, or any other chapter
+of the Code which are subject to a modification proceeding may be retroactively modified
+only from three months after the date the notice of the pending petition for modification is
+served on the opposing party . The three-month limitation applies to a modification action
+pending on or after July 1, 1997. The prohibition of retroactive modification does not bar
+child support services from obtaining orders for accrued support for previous time periods.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)17 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.21E
+Any retroactive modification which increases the amount of child support or any order for
+accrued support under this subsection shall include a periodic payment plan. A retroactive
+modification shall not be regarded as a delinquency unless there are subsequent failures to
+make payments in accordance with the periodic payment plan.
+6. Modification of periodic due date. The periodic due date established under a prior
+order for payment of child support shall not be changed in any modified order under this
+section, unless the court determines that good cause exists to change the periodic due date.
+If the court determines that good cause exists, the court shall include the rationale for the
+change in the modified order and shall address the issue of reconciliation of any payments
+due or made under a prior order which would result in payment of the child support obligation
+under both the prior and the modified orders.
+7. Modification by child support services. Notwithstanding any other provision of law to
+the contrary , when an application for modification or adjustment of support is submitted by
+child support services, the sole issues which may be considered by the court in that action
+are the application of the guidelines in establishing the amount of support pursuant to section
+598.21B, and provision for medical support under chapter 252E. When an application for a
+cost-of-living alteration of support is submitted by child support services pursuant to section
+252H.24, the sole issue which may be considered by the court in the action is the application
+of the cost-of-living alteration in establishing the amount of child support. Issues related to
+custody , visitation, or other provisions unrelated to support shall be considered only under a
+separate application for modification.
+8. Necessary content of order . Orders made pursuant to this section need mention only
+those factors relevant to the particular case for which the orders are made but shall contain
+the names, birth dates, addresses, and counties of residence of the petitioner and respondent.
+9. Duty of clerk of court. If the court modifies an order , and the original decree was
+entered in another county in Iowa, the clerk of court shall send a copy of the modification by
+regular mail, electronic transmission, or facsimile to the clerk of court for the county where
+the original decree was entered.
+2005 Acts, ch 69, §41; 2006 Acts, ch 1030, §71; 2006 Acts, ch 1119, §7, 10; 2007 Acts, ch 106,
+§1; 2007 Acts, ch 218, §185, 187; 2008 Acts, ch 1019, §18, 20; 2023 Acts, ch 19, §1235, 1236
+Referred to in §234.39, 252B.5, 252H.10, 252H.18A, 598.20, 598.22, 598.22C
+598.21D Relocation of parent as grounds to modify order of child custody .
+If a parent awarded joint legal custody and physical care or sole legal custody is relocating
+the residence of the minor child to a location which is one hundred fifty miles or more
+from the residence of the minor child at the time that custody was awarded, the court may
+consider the relocation a substantial change in circumstances. If the court determines
+that the relocation is a substantial change in circumstances, the court shall modify the
+custody order to, at a minimum, preserve, as nearly as possible, the existing relationship
+between the minor child and the nonrelocating parent. If modified, the order may include a
+provision for extended visitation during summer vacations and school breaks and scheduled
+telephone contact between the nonrelocating parent and the minor child. The modification
+may include a provision assigning the responsibility for transportation of the minor child for
+visitation purposes to either or both parents. If the court makes a finding of past interference
+by the parent awarded joint legal custody and physical care or sole legal custody with the
+minor child’s access to the other parent, the court may order the posting of a cash bond to
+assure future compliance with the visitation provisions of the decree. The supreme court
+shall prescribe guidelines for the forfeiting of the bond and restoration of the bond following
+forfeiting of the bond.
+2005 Acts, ch 69, §42
+Referred to in §598.20
+598.21E Contesting paternity to challenge child support order .
+1. If, during an action initiated under this chapter or any other chapter in which a child or
+medical support obligation may be established based upon a prior determination of paternity ,
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.21E, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 18
+a party wishes to contest the paternity of the child or children involved, all of the following
+apply:
+a. (1) If paternity has been legally established by one of the methods enumerated in
+section 252A.3, subsection 10, or by operation of law due to the established father’s marriage
+to the mother at the time of conception, birth, or at any time during the period between
+conception and birth of the child, the provisions of section 600B.41A apply .
+(2) If following the proceedings under section 600B.41A the court determines that the
+prior determination of paternity should not be overcome, and that the established father
+has a duty to provide support, the court shall enter an order establishing the monthly child
+support payment and the amount of the support debt accrued and accruing pursuant to
+section 598.21B, or the medical support obligation pursuant to chapter 252E, or both.
+b. Notwithstanding paragraph “a”, subparagraph (1), if a determination of paternity is
+based on an administrative or court order or other means pursuant to the laws of another state
+or foreign country as defined in chapter 252K, any action to overcome the prior determination
+of paternity shall be filed in that jurisdiction. Unless a stay of the action initiated in this
+state to establish child or medical support is requested and granted by the court, pending a
+resolution of the contested paternity issue by the other state or foreign country as defined in
+chapter 252K, the action shall proceed.
+c. Notwithstanding paragraph “a”, in a pending dissolution action under this chapter, a
+prior determination of paternity by operation of law through the marriage of the established
+father and mother of the child may be overcome under this chapter if the established father
+and mother of the child file a written statement with the court that both parties agree that the
+established father is not the biological father of the child.
+2. If the court overcomes a prior determination of paternity , the previously established
+father shall be relieved of support obligations as specified in section 600B.41A, subsection
+5. In any action to overcome paternity other than through a pending dissolution action,
+the provisions of section 600B.41A apply . Overcoming paternity under subsection 1,
+paragraph “c”, does not bar subsequent actions to establish paternity . A subsequent
+action to establish paternity against the previously established father is not barred if it is
+subsequently determined that the written statement attesting that the established father is
+not the biological father of the child may have been submitted erroneously , and that the
+person previously determined not to be the child’s father during the dissolution action may
+actually be the child’s biological father .
+3. If an action to overcome paternity is brought pursuant to subsection 1, paragraph “c”,
+the court shall appoint a guardian ad litem for the child for the pendency of the proceedings.
+2005 Acts, ch 69, §43; 2006 Acts, ch 1030, §72; 2015 Acts, ch 110, §112; 2023 Acts, ch 123,
+§8, 9
+Referred to in §598.20, 598.22
+598.21F Postsecondary education subsidy .
+1. Order of subsidy. The court may order a postsecondary education subsidy if good
+cause is shown.
+2. Criteria for good cause. In determining whether good cause exists for ordering a
+postsecondary education subsidy , the court shall consider the age of the child, the ability of
+the child relative to postsecondary education, the child’s financial resources, whether the
+child is self-sustaining, and the financial condition of each parent. If the court determines
+that good cause is shown for ordering a postsecondary education subsidy , the court shall
+determine the amount of subsidy as follows:
+a. The court shall determine the cost of postsecondary education based upon the cost of
+attending an in-state public institution for a course of instruction leading to an undergraduate
+degree and shall include the reasonable costs for only necessary postsecondary education
+expenses.
+b. The court shall then determine the amount, if any , which the child may reasonably be
+expected to contribute, considering the child’s financial resources, including but not limited
+to the availability of financial aid whether in the form of scholarships, grants, or student loans,
+and the ability of the child to earn income while attending school.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)19 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.22
+c. The child’s expected contribution shall be deducted from the cost of postsecondary
+education and the court shall apportion responsibility for the remaining cost of postsecondary
+education to each parent. The amount paid by each parent shall not exceed thirty-three and
+one-third percent of the total cost of postsecondary education.
+3. Subsidy payable. A postsecondary education subsidy shall be payable to the child, to
+the educational institution, or to both, but shall not be payable to the custodial parent.
+4. Repudiation by child. A postsecondary education subsidy shall not be awarded if the
+child has repudiated the parent by publicly disowning the parent, refusing to acknowledge
+the parent, or by acting in a similar manner .
+5. Obligations of child. The child shall forward, to each parent, reports of grades
+awarded at the completion of each academic session within ten days of receipt of the reports.
+Unless otherwise specified by the parties, a postsecondary education subsidy awarded by
+the court shall be terminated upon the child’s completion of the first calendar year of course
+instruction if the child fails to maintain a cumulative grade point average in the median
+range or above during that first calendar year .
+6. Application. A support order , decree, or judgment entered or pending before July
+1, 1997, that provides for support of a child for college, university , or community college
+expenses may be modified in accordance with this section.
+7. Necessary content of order . Orders made pursuant to this section need mention only
+those factors relevant to the particular case for which the orders are made but shall contain
+the names, birth dates, addresses, and counties of residence of the petitioner and respondent.
+2005 Acts, ch 69, §44; 2006 Acts, ch 1030, §73
+Referred to in §598.20, 598.22, 600.11
+598.21G Minor parent — parenting classes.
+In any order or judgment entered under this chapter or chapter 234, 252A, 252C, 252F,
+or 600B, or under any other chapter which provides for temporary or permanent support
+payments, if the parent ordered to pay support is less than eighteen years of age, one of the
+following shall apply:
+1. If child support services is providing services pursuant to chapter 252B, the court or
+the department of health and human services shall order the parent ordered to pay support to
+attend parenting classes which are approved by the department of health and human services.
+2. If child support services is not providing services pursuant to chapter 252B, the court
+may order the parent ordered to pay support to attend parenting classes which are approved
+by the court.
+2005 Acts, ch 69, §45; 2006 Acts, ch 1010, §152; 2023 Acts, ch 19, §1237
+Referred to in §598.21B
+598.22 Support payments — clerk of court — collection services center or comparable
+government entity in another state — defaults — security .
+1. Except as otherwise provided in section 598.22A, this section applies to all initial or
+modified orders for support entered under this chapter, chapter 234, 252A, 252C, 252F,
+600B, or any other chapter of the Code. All orders or judgments entered under chapter 234,
+252A, 252C, 252F, or 600B, or under this chapter or any other chapter which provide for
+temporary or permanent support payments shall direct the payment of those sums to the
+clerk of the district court or the collection services center in accordance with section 252B.14,
+or as appropriate, a comparable government entity in another state as provided in chapter
+252K for the use of the person for whom the payments have been awarded. All income
+withholding payments shall be directed to the collection services center , or as appropriate,
+a comparable government entity in another state as provided in chapter 252K. Payments
+to persons other than the clerk of the district court, the collection services center , or as
+appropriate, a comparable government entity in another state as provided in chapter 252K
+do not satisfy the support obligations created by the orders or judgments, except as provided
+for trusts governed by the federal Retirement Equity Act of 1984, Pub. L. No. 98-397, for tax
+refunds or rebates in section 602.8102, subsection 47, or for dependent benefits paid to the
+child support obligee as the result of disability benefits awarded to the child support obligor
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.22, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 20
+under the federal Social Security Act. For trusts governed by the federal Retirement Equity
+Act of 1984, Pub. L. No. 98-397, the order for income withholding or notice of the order
+for income withholding shall require the payment of such sums to the alternate payee in
+accordance with the federal Act. For dependent benefits paid to the child support obligee as
+a result of disability benefits awarded to the child support obligor under the federal Social
+Security Act, the provisions of section 598.22C shall apply .
+2. An income withholding order or notice of the order for income withholding shall be
+entered under the terms and conditions of chapter 252D. However , for trusts governed by
+the federal Retirement Equity Act of 1984, Pub. L. No. 98-397, the payor shall transmit the
+payments to the alternate payee in accordance with the federal Act.
+3. An order or judgment entered by the court for temporary or permanent support or
+for income withholding shall be filed with the clerk. The orders have the same force and
+effect as judgments when entered in the judgment docket and lien index and are records
+open to the public. Unless otherwise provided by federal law, if it is possible to identify the
+support order to which a payment is to be applied, and if sufficient information identifying the
+obligee is provided, the clerk or the collection services center , as appropriate, shall disburse
+the payments received pursuant to the orders or judgments within two working days of the
+receipt of the payments. All moneys received or disbursed under this section shall be entered
+in records kept by the clerk, or the collection services center , as appropriate, and the records
+kept by the clerk shall be available to the public. The clerk or the collection services center
+shall not enter any moneys paid in the record book if not paid directly to the clerk or the
+center , as appropriate, except as provided for trusts and federal social security disability
+payments in this section, and for tax refunds or rebates in section 602.8102, subsection 47, or
+as appropriate, a comparable government entity in another state as provided in chapter 252K.
+4. If the sums ordered to be paid in a support payment order are not paid to the clerk or
+the collection services center , or a comparable government entity in another state as provided
+in chapter 252K, as appropriate, at the time provided in the order or judgment, the clerk or
+the collection services center , as appropriate, shall certify a default to the court which may ,
+on its own motion, proceed as provided in section 598.23.
+5. Prompt payment of sums required to be paid under sections 598.10, 598.21A, 598.21B,
+598.21C, 598.21E, and 598.21F is the essence of such orders or judgments and the court may
+act pursuant to section 598.23 regardless of whether the amounts in default are paid prior to
+the contempt hearing.
+6. Upon entry of an order for support or upon the failure of a person to make payments
+pursuant to an order for support, the court may require the person to provide security , a bond,
+or other guarantee which the court determines is satisfactory to secure the payment of the
+support. Upon the person’s failure to pay the support under the order , the court may declare
+the security , bond, or other guarantee forfeited.
+7. For the purpose of enforcement, medical support is additional support which, upon
+being reduced to a dollar amount, may be collected through the same remedies available for
+the collection and enforcement of child support.
+8. The clerk of the district court in the county in which the order for support is filed and
+to whom support payments are made pursuant to the order may require the person obligated
+to pay support to submit payments by bank draft or money order if the obligor submits an
+insufficient funds support payment to the clerk of the district court.
+[C71, 73, 75, 77, 79, 81, §598.22; 82 Acts, ch 1134, §1]
+85 Acts, ch 100, §7; 85 Acts, ch 178, §8; 86 Acts, ch 1246, §319, 320; 88 Acts, ch 1218, §6 –
+8; 90 Acts, ch 1123, §13; 90 Acts, ch 1224, §46, 47; 93 Acts, ch 79, §50; 97 Acts, ch 175, §194;
+98 Acts, ch 1170, §11, 12; 2002 Acts, ch 1018, §18; 2005 Acts, ch 69, §46; 2012 Acts, ch 1033,
+§10; 2015 Acts, ch 110, §113
+Referred to in §96.3, 234.39, 252B.14, 252B.15, 252D.1, 252H.3, 252H.8, 252H.9, 252H.16, 252H.22, 252I.2, 252J.2, 421.17, 598.22A,
+598.34, 642.21
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)21 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.22B
+598.22A Satisfaction of support payments.
+Notwithstanding sections 252B.14 and 598.22, support payments ordered pursuant to any
+support chapter for orders entered on or after July 1, 1985, which are not made pursuant to
+the provisions of section 252B.14 or 598.22, shall be credited only as provided in this section.
+1. a. For payment made pursuant to an order , the clerk of the district court or collection
+services center shall record a satisfaction as a credit on the official support payment record if
+its validity is confirmed by the court upon submission of an affidavit by the person entitled to
+receive the payment or upon submission of documentation of the financial instrument used
+in the payment of the support by the person ordered to pay support, after notice is given to
+all parties.
+b. If a satisfaction recorded on the official support payment record by the clerk of the
+district court or collection services center prior to July 1, 1991, was not confirmed as valid by
+the court, and a party to the action submits a written affidavit objecting to the satisfaction,
+notice of the objection shall be mailed to all parties at their last known addresses. After
+all parties have had sufficient opportunity to respond to the objection, the court shall either
+require the satisfaction to be removed from the official support payment record or confirm
+its validity .
+2. For purposes of this section, the state is a party to which notice shall be given when
+public funds have been expended pursuant to chapter 234, 239B, or 249A, or similar statutes
+in another state. If proper notice is not given to the state when required, any order of
+satisfaction is void.
+3. The court shall not enter an order for satisfaction of payments not made through the
+clerk of the district court or collection services center if those payments have been assigned as
+a result of public funds expended pursuant to chapter 234, 239B, or 249A, or similar statutes
+in other states and the support payments accrued during the months in which public funds
+were expended. If the support order did not direct payments to a clerk of the district court
+or the collection services center , and the support payments in question accrued during the
+months in which public funds were not expended, however , the court may enter an order
+for satisfaction of payments not made through the clerk of the district court or the collection
+services center if documentation of the financial instrument used in the payment of support
+is presented to the court and the parties to the order submit a written affidavit confirming
+that the financial instrument was used as payment for support.
+4. Payment of accrued support debt due the department of health and human services
+shall be credited pursuant to section 252B.3, subsection 5.
+90 Acts, ch 1224, §48; 91 Acts, ch 177, §7; 93 Acts, ch 79, §51; 97 Acts, ch 41, §32; 98 Acts,
+ch 1170, §42; 2005 Acts, ch 112, §18; 2013 Acts, ch 30, §261; 2023 Acts, ch 19, §1238
+Referred to in §252B.3, 252B.14, 598.22
+598.22B Information required in order or judgment.
+This section applies to all initial or modified orders for paternity or support entered under
+this chapter, chapter 234, 252A, 252C, 252F, 252H, 252K, or 600B, or under any other chapter ,
+and any subsequent order to enforce such support orders.
+1. All such orders or judgments shall direct each party to file with the clerk of court or
+child support services, as appropriate, upon entry of the order , and to update as appropriate,
+information on location and identity of the party , including social security number , residential
+and mailing addresses, electronic mail address, telephone number , driver’s license number ,
+and name, address, and telephone number of the party’s employer . The order shall also
+include a provision that the information filed will be disclosed and used pursuant to this
+section. The party shall file the information with the clerk of court, or , if all support payments
+are to be directed to the collection services center as provided in section 252B.14, subsection
+2, and section 252B.16, with child support services.
+2. All such orders or judgments shall include a statement that in any subsequent child
+support action initiated by child support services or between the parties, upon sufficient
+showing that diligent effort has been made to ascertain the location of such a party , child
+support services or the court shall deem due process requirements for notice and service
+of process to be met with respect to the party , upon delivery of written notice to the most
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.22B, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 22
+recent residential or employer address filed with the clerk of court or child support services
+pursuant to subsection 1.
+3. a. Information filed pursuant to subsection 1 shall not be a public record.
+b. Information filed with the clerk of court pursuant to subsection 1 shall be available to
+child support services, upon request. Beginning October 1, 1998, information filed with the
+clerk of court pursuant to subsection 1 shall be provided by the clerk of court to child support
+services pursuant to section 252B.24.
+c. Information filed with the clerk of court shall be available, upon request, to a party
+unless the party filing the information also files an affidavit alleging the party has reason to
+believe that release of the information may result in physical or emotional harm to the affiant
+or child. However , even if an affidavit has been filed, any information provided by the clerk
+of court to child support services shall be disclosed by child support services as provided in
+section 252B.9.
+d. Information provided to child support services shall only be disclosed as provided in
+section 252B.9.
+97 Acts, ch 175, §195; 98 Acts, ch 1170, §16; 2015 Acts, ch 110, §114; 2023 Acts, ch 19, §1239
+Referred to in §252B.24, 252F .4
+598.22C Child support — social security disability dependent benefits.
+If dependent benefits are paid for a child as a result of disability benefits awarded to the
+child’s parent under the federal Social Security Act, all of the following shall apply:
+1. Unless the court otherwise provides, dependent benefits paid to the child support
+obligee as a result of disability benefits awarded to the child support obligor fully satisfy and
+substitute for the support obligations for the same period of time for which the benefits are
+awarded.
+2. For the purposes of calculating a support obligation under section 598.21B, the
+dependent benefits paid for any child shall be included as income to the disabled parent.
+3. a. Any order or judgment for support for a child for whom social security disability
+benefits are paid to the child support obligee as a result of disability benefits awarded to the
+child support obligor shall include all of the following:
+(1) The dollar amount of the child support obligation as calculated by application of the
+guidelines under section 598.21B, and a statement that the social security dependent benefits
+are included as income to the obligor in that calculation.
+(2) The dollar amount of the social security dependent benefits paid to the obligee which
+shall be dollar-for-dollar satisfaction of the obligor’s child support obligation.
+(3) The dollar amount, if any , the obligor shall pay after application of the social security
+dependent benefits as a credit to or dollar-for-dollar satisfaction of the child support
+obligation.
+b. The amount of the child support obligation stated in the order , and the amount the
+obligor shall pay after application of the social security disability dependent benefit credit or
+satisfaction stated in the order , shall continue until modified, as provided in section 598.21C.
+4. The amount of any child support obligation satisfied under this section based upon the
+receipt of dependent benefits paid to the child support obligee as a result of disability benefits
+awarded to the child support obligor shall not be considered delinquent.
+2002 Acts, ch 1018, §19; 2005 Acts, ch 69, §47 – 49
+Referred to in §252H.3, 252H.8, 252H.9, 252H.16, 252H.22, 598.21B, 598.22
+598.22D Separate fund or conservatorship for support.
+The court may protect and promote the best interests of a minor child by setting aside
+a portion of the child support which either party is ordered to pay in a separate fund or
+conservatorship for the support, education, and welfare of the child.
+2005 Acts, ch 69, §50
+598.23 Contempt proceedings — alternatives to jail sentence.
+1. If a person against whom a temporary order or final decree has been entered willfully
+disobeys the order or decree, the person may be cited and punished by the court for contempt
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)23 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.23A
+and be committed to the county jail for a period of time not to exceed thirty days for each
+offense.
+2. The court may , as an alternative to punishment for contempt, make an order which,
+according to the subject matter of the order or decree involved, does the following:
+a. Withholds income under the terms and conditions of chapter 252D.
+b. Modifies visitation to compensate for lost visitation time or establishes joint custody for
+the child or transfers custody .
+c. Directs the parties to provide contact with the child through a neutral party or neutral
+site or center .
+d. Imposes sanctions or specific requirements or orders the parties to participate in
+mediation to enforce the joint custody provisions of the decree.
+[C24, 27, 31, 35, 39, §10482; C46, 50, 54, 58, 62, 66, §598.15; C71, 73, 75, 77, 79, 81, §598.23]
+84 Acts, ch 1133, §1; 85 Acts, ch 67, §56; 85 Acts, ch 178, §9; 88 Acts, ch 1218, §9; 97 Acts,
+ch 175, §196, 197
+Referred to in §96.3, 234.39, 598.22, 598.23A, 642.21
+598.23A Contempt proceedings for provisions of support payments — activity governed
+by a license.
+1. If a person against whom an order or decree for support has been entered pursuant
+to this chapter or chapter 234, 252A, 252C, 252F, 600B, or any other support chapter , or a
+comparable chapter of another state or foreign country as defined in chapter 252K, fails to
+make payments or provide medical support pursuant to that order or decree, the person may
+be cited and punished by the court for contempt under section 598.23 or this section. Failure
+to comply with a seek employment order entered pursuant to section 252B.21 is evidence of
+willful failure to pay support.
+2. If a person is cited for contempt, the court may do any of the following:
+a. Require the posting of a cash bond, within seven calendar days, in an amount equivalent
+to the current arrearages and an additional amount which is equivalent to at least twelve
+months of future support obligations. If the arrearages are not paid within three months of
+the hearing, the bond shall be automatically forfeited to cover payment of the full portion of
+the arrearages and the portion of the bond representing future support obligations shall be
+automatically forfeited to cover future support payments as payments become due.
+b. (1) Require the performance of community service work of up to twenty hours per
+week for six weeks for each finding of contempt. The contemnor may , at any time during
+the six-week period, apply to the court to be released from the community service work
+requirement under any of the following conditions:
+(a) The contemnor provides proof to the court that the contemnor is gainfully employed
+and submits to an order for income withholding pursuant to chapter 252D or to a
+court-ordered wage assignment.
+(b) The contemnor provides proof of payment of an amount equal to at least six months’
+child support. The payment does not relieve the contemnor’s obligation for arrearages or
+future payments.
+(c) The contemnor provides proof to the court that, subsequent to entry of the order , the
+contemnor’s circumstances have so changed that the contemnor is no longer able to fulfill
+the terms of the community service order .
+(2) The contemnor shall keep a record of and provide the following information to the
+court at the court’s request, or to child support services created in section 252B.2, at the
+request of child support services, when child support services is providing enforcement
+services pursuant to chapter 252B:
+(a) The duties performed as community service during each week that the contemnor is
+subject to the community service requirements.
+(b) The number of hours of community service performed during each week that the
+contemnor is subject to the community service requirements.
+(c) The name, address, and telephone number of the person supervising or arranging for
+the performance of the community service.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.23A, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 24
+(3) The performance of community service does not relieve the contemnor of any unpaid
+accrued or accruing support obligation.
+Enjoin the contemnor from engaging in the exercise of any activity governed by a
+c. license.
+(1) If the court determines that an extreme hardship will result from the injunction, the
+court order may allow the contemnor to engage in the exercise of the activity governed by
+the license, subject to terms established by the court, which shall include, at a minimum, that
+the contemnor enter into an agreement to satisfy all obligations owing over a period of time
+satisfactory to the court.
+(2) If the court order allows for the exercise of the activity governed by a license pending
+satisfaction of an obligation over time, and the contemnor fails to comply with the agreement,
+the contemnor shall be provided an opportunity for hearing, within ten days, to demonstrate
+why an order enjoining the contemnor from engaging in the exercise of any activity governed
+by a license should not be issued.
+(3) The court order under this paragraph shall be vacated only after verification is
+provided to the court that the contemnor has satisfied all accrued obligations owing and
+that the contemnor has satisfied all terms established by the court and when the person
+entitled to receive support payments, or child support services when child support services
+is providing enforcement services pursuant to chapter 252B, has been provided ten days’
+notice and an opportunity to object.
+(4) As used in this paragraph, “license” means any license or renewal of a license,
+certification, or registration issued by an agency to a person to conduct a trade or business,
+including but not limited to a license to practice a profession or occupation or to operate a
+commercial motor vehicle.
+92 Acts, ch 1195, §510; 93 Acts, ch 79, §27 – 29; 94 Acts, ch 1101, §9, 10; 2015 Acts, ch 110,
+§115; 2023 Acts, ch 19, §1240, 1241
+Referred to in §85.59, 252B.21, 252J.2, 669.2, 815.11
+598.24 Costs if party is in default or contempt.
+When an action for a modification, order to show cause, or contempt of a dissolution,
+annulment, or separate maintenance decree is brought on the grounds that a party to the
+decree is in default or contempt of the decree, and the court determines that the party is in
+default or contempt of the decree, the costs of the proceeding, including reasonable attorney’s
+fees, may be taxed against that party .
+[C71, 73, 75, 77, 79, 81, §598.24]
+84 Acts, ch 1133, §2
+598.25 Parties and court granting marriage dissolution decree — notice.
+1. Whenever a proceeding is initiated in a court for adoption involving the children of
+parents or guardians whose marriage has been dissolved, or for modification of a judgment
+of alimony , child support, or custody granted in an action for dissolution of marriage, the
+following requirements must be met if such proceedings are initiated in a court other than
+the court which granted the dissolution decree.
+a. The party initiating such proceedings must present to the court the names and
+addresses of the parties to the dissolution decree if known, as well as the name and place of
+the court which granted the dissolution decree and the date of the decree.
+b. The court in which the proceedings are initiated shall cause notice of such proceedings
+to be served upon the parties to the original action unless either or both parties are deceased.
+2. Such court, or either of the parties to the dissolution decree, may request that a copy of
+the transcript of the proceedings of the court which granted the dissolution decree be made
+available for consideration in the new proceedings.
+[C71, 73, 75, 77, 79, 81, §598.25]
+2013 Acts, ch 30, §261
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)25 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.30
+598.26 Record — impounding — violation indictable.
+The record and evidence in each case of marriage dissolution shall be kept pursuant to the
+following provisions:
+1. Until a decree of dissolution has been entered, the record and evidence shall be closed
+to all but the court, its officers, and child support services of the department of health and
+human services pursuant to section 252B.9. However , the payment records of a temporary
+support order maintained by the clerk of the district court are public records and may be
+released upon request. Payment records shall not include address or location information.
+No other person shall permit a copy of any of the testimony , or pleading, or the substance of
+any testimony or pleading, to be made available to any person other than a party to the action
+or a party’s attorney . Nothing in this subsection shall be construed to prohibit publication of
+the original notice as provided by the rules of civil procedure.
+2. The court shall, in the absence of objection by another party , grant a motion by a party to
+require the sealing of an answer to an interrogatory or of a financial statement filed pursuant
+to section 598.13. The court may in its discretion grant a motion by a party to require the
+sealing of any other information which is part of the record of the case except for court orders,
+decrees and any judgments. If the court grants a motion to require the sealing of information
+in the case, the sealed information shall not thereafter be made available to any person other
+than a party to the action or a party’s attorney except upon order of the court for good cause
+shown.
+3. If the action is dismissed, judgment for costs shall be entered in the judgment docket
+and lien index. The clerk shall maintain a separate docket for dissolution of marriage actions.
+4. Violation of the provisions of this section shall be a serious misdemeanor .
+[C71, 73, 75, 77, 79, 81, §598.26]
+91 Acts, ch 177, §8; 98 Acts, ch 1170, §13; 2012 Acts, ch 1033, §11; 2023 Acts, ch 19, §1242
+598.27 Reserved.
+598.28 Separate maintenance and annulment.
+A petition shall be filed in separate maintenance and annulment actions as in actions for
+dissolution of marriage, and all applicable provisions of this chapter in relation thereto shall
+apply to separate maintenance and annulment actions.
+[C73, §2232; C97, §3183; C24, 27, 31, 35, 39, §10487; C46, 50, 54, 58, 62, 66, §598.20; C71,
+73, 75, 77, 79, 81, §598.28]
+598.29 Annulling illegal marriage — causes.
+Marriage may be annulled for the following causes:
+1. Where the marriage between the parties is prohibited by law.
+2. Where either party was impotent at the time of marriage.
+3. Where either party had a husband or wife living at the time of the marriage, provided
+they have not, with a knowledge of such fact, lived and cohabited together after the death or
+marriage dissolution of the former spouse of such party .
+4. Where either party was a protected person under a guardianship and was found by the
+court to lack the capacity to contract a valid marriage.
+[C73, §2231; C97, §3182; C24, 27, 31, 35, 39, §10486; C46, 50, 54, 58, 62, 66, §598.19; C71,
+73, 75, 77, 79, 81, §598.29]
+91 Acts, ch 93, §3; 2024 Acts, ch 1009, §53
+Subsection 4 amended
+598.30 Validity determined.
+When the validity of a marriage is doubted, either party may file a petition, and the court
+shall decree it annulled or affirmed according to the proof.
+[C73, §2233; C97, §3184; C24, 27, 31, 35, 39, §10488; C46, 50, 54, 58, 62, 66, §598.21; C71,
+73, 75, 77, 79, 81, §598.30]
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.31, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 26
+598.31 Children — legitimacy .
+Children born to the parties, or to the wife, in a marriage relationship which may be
+terminated or annulled pursuant to the provisions of this chapter shall be legitimate as to
+both parties, unless the court shall decree otherwise according to the proof.
+[C73, §2234, 2235; C97, §3185, 3186; C24, 27, 31, 35, 39, §10489, 10490; C46, 50, 54, 58, 62,
+66, §598.22, 598.23; C71, 73, 75, 77, 79, 81, §598.31]
+598.32 Annulment — compensation.
+In case either party entered into the contract of marriage in good faith, supposing the other
+to be capable of contracting, and the marriage is declared a nullity , such fact shall be entered
+in the decree, and the court may decree such innocent party compensation as in case of
+dissolution of marriage.
+[C73, §2236; C97, §3187; C24, 27, 31, 35, 39, §10491; C46, 50, 54, 58, 62, 66, §598.24; C71,
+73, 75, 77, 79, 81, §598.32]
+598.33 Order to vacate.
+Notwithstanding section 561.15, the court may order either party to vacate the homestead
+pending entry of a decree of dissolution upon a showing that the other party or the children
+are in imminent danger of physical harm if the order is not issued.
+[C81, §598.33]
+598.34 Recipients of public assistance — assignment of support payments.
+1. If public assistance is provided by the department of health and human services to or
+on behalf of a dependent child or a dependent child’s caretaker , there is an assignment by
+operation of law to the department of any and all rights in, title to, and interest in any support
+obligation, payment, and arrearages owed to or for the child or caretaker not to exceed the
+amount of public assistance paid for or on behalf of the child or caretaker as follows:
+a. For family investment program assistance, section 239B.6 shall apply .
+b. For foster care services, section 234.39 shall apply .
+c. For medical assistance, section 252E.11 shall apply .
+2. The department shall immediately notify the clerk of court by mail when such a child
+or caretaker has been determined to be eligible for public assistance. Upon notification
+by the department, the clerk of court shall make a notation of the automatic assignment
+in the judgment docket and lien index. The notation constitutes constructive notice of the
+assignment. For public assistance approved and provided on or after July 1, 1997, if the
+applicant for public assistance is a person other than a parent of the child, the department
+shall send a notice by regular mail to the last known addresses of the obligee and obligor .
+The clerk of court shall forward support payments received pursuant to section 598.22, to
+which the department is entitled, to the department, which may secure support payments
+in default through other proceedings.
+3. The clerk shall furnish the department with copies of all orders or decrees and
+temporary or domestic abuse orders addressing support when the parties are receiving
+public assistance or services are otherwise provided by child support services pursuant to
+chapter 252B. Unless otherwise specified in the order , an equal and proportionate share of
+any child support awarded shall be presumed to be payable on behalf of each child subject
+to the order or judgment for purposes of an assignment under this section.
+[C71, 73, 75, 77, 79, 81, §598.34; 82 Acts, ch 1237, §4]
+83 Acts, ch 96, §157, 159; 97 Acts, ch 175, §198; 2008 Acts, ch 1019, §5, 7; 2023 Acts, ch 19,
+§1243, 1244
+598.35 Grandparent — great-grandparent — visitation rights. ch 218, §208. See §600C.1.
+Repealed by 2007 Acts,
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)27 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.41
+598.36 Attorney fees in proceeding to modify order or decree.
+In a proceeding for the modification of an order or decree under this chapter the court may
+award attorney fees to the prevailing party in an amount deemed reasonable by the court.
+84 Acts, ch 1211, §1
+598.37 Name change.
+Either party to a marriage may request as a part of the decree of dissolution or decree
+of annulment a change in the person’s name to either the name appearing on the person’s
+birth certificate or to the name the person had immediately prior to the marriage. If a party
+requests a name change other than to the name appearing on the person’s birth certificate
+or to the name the person had immediately prior to the marriage, the request shall be made
+under chapter 674.
+88 Acts, ch 1142, §2
+598.38 through 598.40 Reserved.
+598.41 Custody of children.
+1. a. The court may provide for joint custody of the child by the parties. The court, insofar
+as is reasonable and in the best interest of the child, shall order the custody award, including
+liberal visitation rights where appropriate, which will assure the child the opportunity for the
+maximum continuing physical and emotional contact with both parents after the parents have
+separated or dissolved the marriage, and which will encourage parents to share the rights and
+responsibilities of raising the child unless direct physical harm or significant emotional harm
+to the child, other children, or a parent is likely to result from such contact with one parent.
+b. Notwithstanding paragraph “a”, if the court finds that a history of domestic abuse
+exists, a rebuttable presumption against the awarding of joint custody exists.
+c. The court shall consider the denial by one parent of the child’s opportunity for
+maximum continuing contact with the other parent, without just cause, a significant factor
+in determining the proper custody arrangement. Just cause may include a determination by
+the court pursuant to subsection 3, paragraph “j”, that a history of domestic abuse exists
+between the parents.
+d. If a history of domestic abuse exists as determined by a court pursuant to subsection
+3, paragraph “j”, and if a parent who is a victim of such domestic abuse relocates or is absent
+from the home based upon the fear of or actual acts or threats of domestic abuse perpetrated
+by the other parent, the court shall not consider the relocation or absence of that parent as a
+factor against that parent in the awarding of custody or visitation.
+e. Unless otherwise ordered by the court in the custody decree, both parents shall have
+legal access to information concerning the child, including but not limited to medical,
+educational and law enforcement records.
+2. a. On the application of either parent, the court shall consider granting joint custody
+in cases where the parents do not agree to joint custody .
+b. If the court does not grant joint custody under this subsection, the court shall cite
+clear and convincing evidence, pursuant to the factors in subsection 3, that joint custody is
+unreasonable and not in the best interest of the child to the extent that the legal custodial
+relationship between the child and a parent should be severed.
+c. A finding by the court that a history of domestic abuse exists, as specified in subsection
+3, paragraph “j”, which is not rebutted, shall outweigh consideration of any other factor
+specified in subsection 3 in the determination of the awarding of custody under this
+subsection.
+d. Before ruling upon the joint custody petition in these cases, unless the court determines
+that a history of domestic abuse exists as specified in subsection 3, paragraph “j”, or unless
+the court determines that direct physical harm or significant emotional harm to the child,
+other children, or a parent is likely to result, the court may require the parties to participate in
+custody mediation to determine whether joint custody is in the best interest of the child. The
+court may require the child’s participation in the mediation insofar as the court determines
+the child’s participation is advisable.
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.41, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 28
+e. The costs of custody mediation shall be paid in full or in part by the parties and taxed
+as court costs.
+3. In considering what custody arrangement under subsection 2 is in the best interest of
+the minor child, the court shall consider the following factors:
+a. Whether each parent would be a suitable custodian for the child.
+b. Whether the psychological and emotional needs and development of the child will
+suffer due to lack of active contact with and attention from both parents.
+c. Whether the parents can communicate with each other regarding the child’s needs.
+d. Whether both parents have actively cared for the child before and since the separation.
+e. Whether each parent can support the other parent’s relationship with the child.
+f. Whether the custody arrangement is in accord with the child’s wishes or whether the
+child has strong opposition, taking into consideration the child’s age and maturity .
+g. Whether one or both of the parents agree or are opposed to joint custody .
+h. The geographic proximity of the parents.
+i. Whether the safety of the child, other children, or the other parent will be jeopardized
+by the awarding of joint custody or by unsupervised or unrestricted visitation.
+j. Whether a history of domestic abuse, as defined in section 236.2, exists. In determining
+whether a history of domestic abuse exists, the court’s consideration shall include but is not
+limited to commencement of an action pursuant to section 236.3, the issuance of a protective
+order against the parent or the issuance of a court order or consent agreement pursuant to
+section 236.5, the issuance of an emergency order pursuant to section 236.6, the holding of
+a parent in contempt pursuant to section 664A.7, the response of a peace officer to the scene
+of alleged domestic abuse or the arrest of a parent following response to a report of alleged
+domestic abuse, or a conviction for domestic abuse assault pursuant to section 708.2A.
+k. Whether a parent has allowed a person custody or control of, or unsupervised access
+to a child after knowing the person is required to register or is on the sex offender registry
+as a sex offender under chapter 692A.
+4. Subsection 3 shall not apply when parents agree to joint custody .
+5. a. If joint legal custody is awarded to both parents, the court may award joint physical
+care to both joint custodial parents upon the request of either parent. Prior to ruling on the
+request for the award of joint physical care, the court may require the parents to submit,
+either individually or jointly , a proposed joint physical care parenting plan. A proposed joint
+physical care parenting plan shall address how the parents will make decisions affecting the
+child, how the parents will provide a home for the child, how the child’s time will be divided
+between the parents and how each parent will facilitate the child’s time with the other parent,
+arrangements in addition to court-ordered child support for the child’s expenses, how the
+parents will resolve major changes or disagreements affecting the child including changes
+that arise due to the child’s age and developmental needs, and any other issues the court
+may require. If the court denies the request for joint physical care, the determination shall
+be accompanied by specific findings of fact and conclusions of law that the awarding of joint
+physical care is not in the best interest of the child.
+b. If joint physical care is not awarded under paragraph “a”, and only one joint custodial
+parent is awarded physical care, the parent responsible for providing physical care shall
+support the other parent’s relationship with the child. Physical care awarded to one parent
+does not affect the other parent’s rights and responsibilities as a joint legal custodian of the
+child. Rights and responsibilities as joint legal custodian of the child include but are not
+limited to equal participation in decisions affecting the child’s legal status, medical care,
+education, extracurricular activities, and religious instruction.
+6. If the parties have more than one minor child, and the court awards each party the
+physical custody of one or more of the children, upon application by either party , and if it is
+reasonable and in the best interest of the children, the court shall include a provision in the
+custody order directing the parties to allow visitation between the children in each party’s
+custody .
+7. When a parent awarded legal custody or physical care of a child cannot act as custodian
+or caretaker because the parent has died or has been judicially adjudged incompetent, the
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)29 DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS, §598.41C
+court shall award legal custody including physical care of the child to the surviving parent
+unless the court finds that such an award is not in the child’s best interest.
+8. If an application for modification of a decree or a petition for modification of an order
+is filed, based upon differences between the parents regarding the custody arrangement
+established under the decree or order , unless the court determines that a history of domestic
+abuse exists as specified in subsection 3, paragraph “j”, or unless the court determines that
+direct physical harm or significant emotional harm to the child, other children, or a parent
+is likely to result, the court may require the parents to participate in mediation to attempt to
+resolve the differences between the parents.
+9. All orders relating to custody of a child are subject to chapter 598B.
+[82 Acts, ch 1250, §2]
+84 Acts, ch 1088, §2, 3, 4, 5; 85 Acts, ch 67, §57, 58; 86 Acts, ch 1179, §5, 6; 95 Acts, ch
+182, §22 – 24; 95 Acts, ch 183, §2; 97 Acts, ch 175, §199, 200; 99 Acts, ch 115, §1; 2004 Acts,
+ch 1169, §1; 2005 Acts, ch 69, §51 – 53; 2006 Acts, ch 1101, §4; 2012 Acts, ch 1138, §37; 2019
+Acts, ch 24, §83
+Referred to in §598.7, 598.21C, 598.41A, 598.41B, 600B.40, 600B.41A, 633.560A
+598.41A Visitation — history of crimes against a minor .
+1. Notwithstanding section 598.41, the court shall consider , in the award of visitation
+rights to a parent of a child, the criminal history of the parent if the parent has been convicted
+of a sex offense against a minor as defined in section 692A.101.
+2. Notwithstanding section 598.41, an individual who is a parent of a minor child and
+who has been convicted of a sex offense against a minor as defined in section 692A.101, is
+not entitled to visitation rights while incarcerated. While on probation, parole, or any other
+type of conditional release including a special sentence for such offense, visitation shall be
+denied until the parent successfully completes a treatment program approved by the court, if
+required by the court. The circumstances described in this subsection shall be considered a
+substantial change in circumstances.
+98 Acts, ch 1070, §2; 2009 Acts, ch 119, §42; 2013 Acts, ch 105, §1, 3, 4
+598.41B Visitation — restrictions — murder of parent.
+1. Notwithstanding section 598.41, the court shall not do either of the following:
+a. Enforce an existing order awarding visitation rights to a child’s parent, which was
+obtained prior to that parent’s conviction for first degree murder in the murder of the child’s
+other parent, unless such enforcement is in the best interest of the child.
+b. Award visitation rights to a child’s parent who has been convicted of murder in the first
+degree of the child’s other parent, unless the court finds that such visitation is in the best
+interest of the child.
+2. In determining whether visitation would be in the best interest of the child pursuant to
+subsection 1, the court shall consider all of the following:
+a. The age and level of maturity of the child.
+b. If the child is developmentally mature enough to provide assent and whether the child
+does assent.
+c. The recommendation of the child’s custodian or legal guardian.
+d. The recommendation of a child counselor or mental health professional following
+evaluation of the child.
+e. The recommendation of a guardian ad litem for the child if one has been appointed to
+represent the child in the proceeding.
+f. Any other information which the court deems to be relevant.
+3. Until such time as an order regarding visitation rights under subsection 1 is entered,
+the child of a parent who has been convicted of murder in the first degree of the child’s other
+parent shall not visit the parent who has been convicted.
+99 Acts, ch 38, §1
+598.41C Modification of child custody or physical care — active duty . Acts, ch 1084, §30. See chapter 598C.
+Repealed by 2016
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)§598.41D, DISSOLUTION OF MARRIAGE AND DOMESTIC RELATIONS 30
+598.41D Assignment of visitation or physical care parenting time — parent serving
+active duty — family member . Repealed by 2016 Acts, ch 1084, §30. See chapter 598C.
+598.42 Notice of certain orders by clerk of court.
+The clerk of the district court shall provide notice and copies of temporary or permanent
+protective orders and orders to vacate the homestead entered pursuant to this chapter to
+the applicable law enforcement agencies and the twenty-four hour dispatcher for the law
+enforcement agencies, in the manner provided for protective orders under section 235F .6 or
+236.5. The clerk shall provide notice and copies of modifications or vacations of these orders
+in the same manner .
+91 Acts, ch 218, §20; 92 Acts, ch 1163, §107; 2014 Acts, ch 1107, §19
+Tue Nov 19 20:05:24 2024 Iowa Code 2025, Chapter 598 (39, 1)

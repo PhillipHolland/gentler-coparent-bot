@@ -1,0 +1,1624 @@
+C H A P T E R 5
+DIVORCE
+RUTHANNE WITHERS, ESQ.
+Coogan Smith LLP, Attleboro
+Introduction ................................................................................................................... 126
+What Is the Difference Between Divorce and a Legal Separation? ......................... 126
+Jurisdiction .................................................................................................................... 127
+No-Fault Divorce ........................................................................................................... 128
+Fault Divorce ................................................................................................................. 128
+Where to File ................................................................................................................. 129
+Complaint ....................................................................................................................... 129
+Answer ........................................................................................................................... 130
+Defenses ........................................................................................................................ 130
+Counterclaim ................................................................................................................. 130
+Separation Agreements ................................................................................................ 131
+Recognition of Divorces from Other States or Countries ........................................ 131
+Divorces Adjudged in Foreign Countries .................................................................. 131
+Divorces Adjudged in Other (“Sister”) States ........................................................... 132
+The Hearing ................................................................................................................... 132
+How Long Before the Hearing .................................................................................. 132
+How to Mark a Case for a Hearing ........................................................................... 132
+Uncontested Hearing ......................................................................................... 132
+Pretrial Conference ............................................................................................ 132
+What Questions Will the Judge Ask? ....................................................................... 133
+Using Witnesses at Trial ........................................................................................... 134
+Using Other Evidence at Trial .................................................................................. 135
+Going to the Courthouse .......................................................................................... 135
+Dress and Protocol ............................................................................................ 135
+Who Is in the Courtroom? .................................................................................. 135
+Probation Officers .............................................................................................. 135
+The Hearing ....................................................................................................... 136
+Proving Your Case ................................................................................................... 136
+Child Custody ..................................................................................................... 136
+Child Support ..................................................................................................... 136
+Alimony .............................................................................................................. 136
+CHECKLIST 5.1—Divorce Checklist ........................................................................... 137
+EXHIBIT 5A—Joint Petition for Divorce ...................................................................... 140
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 125 CHAPTER 5: DIVORCE
+EXHIBIT 5B—Affidavit in Support of Complaint for Divorce: Irretrievable
+Breakdown of the Marriage, G.L. c. 208, § 1A ............................................................ 141
+EXHIBIT 5C—Answer to Complaint for Divorce ......................................................... 143
+EXHIBIT 5D—Counterclaim for Divorce Action ......................................................... 145
+EXHIBIT 5E—Separation Agreement .......................................................................... 147
+EXHIBIT 5F—Report of Absolute Divorce or Annulment .......................................... 153
+EXHIBIT 5G—Military Affidavit ..................................................................................... 155
+EXHIBIT 5H—Affidavit Disclosing Care or Custody Proceeding ............................. 156
+EXHIBIT 5I—Parent Education Programs ................................................................... 159
+EXHIBIT 5J—Plaintiff’s Pretrial Memorandum ........................................................... 163
+EXHIBIT 5K—Motion for State Payment of Fees and Costs ..................................... 167
+EXHIBIT 5L—Financial Statement (Short Form) ........................................................ 168
+EXHIBIT 5M—Financial Statement (Long Form) ........................................................ 172
+EXHIBIT 5N—Qualified Domestic Relations Order .................................................... 181
+EXHIBIT 5O—Blank Motion Form ................................................................................ 183
+EXHIBIT 5P—Court Order for Costs and Fees (G.L. c. 261, § 27A et seq.) ............. 185
+INTRODUCTION
+Divorce is the legal process by which a married couple separates and becomes two individuals instead of a single unit.
+Through a divorce, the couple’s property and debts can be divided between them. In addition, their obligations and
+rights in connection with their children and toward each other can be defined. When the divorce becomes final, they
+can marry other people. Sometimes, if an annulment is granted, the parties will be considered to have never been
+married to each other. However, when there are unemancipated children in the family, the parties often have not
+severed all ties but rather redefined them. Generally, the divorced parents of minor children will continue to have
+financial, emotional, and legal connections. Checklist 5.1 provides a list of items to review when preparing and
+filing for divorce.
+WHAT IS THE DIFFERENCE BETWEEN DIVORCE AND A LEGAL
+SEPARATION?
+The purpose of a divorce is to become unmarried. Through a divorce you can also resolve many other issues, such as
+custody or alimony. In certain cases, there is just a divorce—a legal acknowledgment that the parties are no longer
+married.
+In Massachusetts, there is no such thing as a legal separation. However, you can decide how you are going to live
+apart from your spouse in a separate support action, including the amount of support to be paid and with whom the
+children will live. In this scenario, you would still be married to one another and could not remarry. Separate support
+makes sense when, for religious or psychological reasons, one person may want to define the terms on which the
+couple lives apart without getting divorced.
+Unmarried parents can resolve issues of custody, parenting time, and child support, but you cannot resolve property
+division or alimony. Additionally, you can choose to not end the marriage and file a complaint for separate support
+or a complaint for support pursuant to G.L. c. 209, § 32F. This action is not often used between married persons, but
+may be filed when, for legal reasons, the court could not hear a divorce but could decide on custody. See
+“Jurisdiction,” below.
+For most people, if you plan to live apart and do not foresee reconciling, divorce is the most reasonable approach.
+126 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+JURISDICTION
+As elaborated upon below, the questions of jurisdiction are frequently confusing, even to some lawyers. There are
+two requirements that must be met before a court can order a party to do something: the court must have power over
+the parties in the case and it must also have power over the subject matter of the case. In certain cases, the court may
+make decisions over child custody or may terminate the marital status of two parties, but it cannot stray beyond
+those subjects. You may wish to think of the courts as having powers that are limited in certain ways. The power
+over a person is different from the power over a case. If your spouse does not live in Massachusetts and, after
+reading this section, you still do not understand jurisdiction issues, you should consult an attorney.
+In order for a state court to make decisions about you and your family, it must have the power to make those
+decisions. This power is called jurisdiction. To decide whether a court has jurisdiction, two questions must be
+answered. The first question is whether the defendant has enough of a relationship with the state so that the state will
+have the power to issue orders that are binding on the defendant. The second question is whether the case has
+enough ties to the state that it is fair for the specific issue or issues to be decided there. These two questions sound
+similar but have important legal differences.
+Whether the state has the power to issue orders that are binding on the defendant is a question of personal
+jurisdiction. For the court to obtain personal jurisdiction over the defendant, the state must have had enough contact
+with the defendant for it to be fair to have the state decide the case. As an example, imagine that your wife used to
+live in Nebraska; her mother still lives there, and when she leaves the marriage, she goes to Nebraska. You,
+however, have never been to Nebraska and you do not want to go there now. It would not be fair if your wife could
+file a divorce in Nebraska and force you to go there to argue about paying alimony and dividing up marital property.
+Because you have no contacts with Nebraska, the Nebraska court cannot obtain personal jurisdiction over you and
+the case will not be heard there. However, if you lived together in Massachusetts and you now live in Massachusetts,
+you could have the case heard in Massachusetts even though your spouse has moved away.
+The types of contact that would allow you to bring your spouse to court in Massachusetts are defined broadly. They
+are the following:
+• maintaining a home in Massachusetts while involved in a relationship that gives rise to a family law case,
+such as divorce or paternity;
+• the commission of any act in Massachusetts that gives rise to such a case;
+• having been previously involved with a case in Massachusetts that ordered child custody, support, alimony,
+or property division when the later case involves the same people; and
+• being served with the complaint in hand in Massachusetts.
+The commission of any act that gives rise to such a case includes the act of conceiving a child. G.L. c. 223A, § 3;
+Rosenfield v. Trombley, 38 Mass. App. Dec. 123 (1967).
+Subject matter jurisdiction is the legal term for the second kind of limitation on the state’s power to hear a case. The
+question is whether the subject of the case is one over which the state’s courts have the power to make decisions. In
+family law, this question generally arises in custody cases. When children have been living in the state for a while,
+that state’s courts can decide who should have custody, even if they do not have personal jurisdiction over both of
+the parents. Most states have passed a law on this issue; the laws are fairly uniform across the country. Basically,
+what the law says is that child custody cases are about the children and should be decided where they are, rather than
+where the parents are. However, this may mean that the court that gives custody does not have the power to enter
+orders against the absent parent, such as an order for child support.
+Sometimes a state will find that its courts have subject matter jurisdiction over the marriage even if the state does not
+have personal jurisdiction over both spouses. In Massachusetts, even if one spouse has never been to Massachusetts
+and the courts cannot order that spouse to divide marital property or pay alimony, the other spouse can still obtain a
+divorce. This will only make the spouses legally unmarried to one another; it will not decide other unresolved issues.
+If you ask the court to decide those other issues, your spouse can always challenge this action, particularly if he or
+she was not given actual notice that the case was going on or if he or she did not come to the court to argue the case.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 127 CHAPTER 5: DIVORCE
+NO-FAULT DIVORCE
+There are two kinds of no-fault divorce. The first is when both spouses come to an agreement and file a joint petition
+for divorce together. The second is when one spouse files a complaint for divorce by himself or herself, stating that
+the marriage has irretrievably broken down. Because the former is allowed under G.L. c. 208, § 1A and the latter
+under G.L. c. 208, § 1B, they are often referred to by their section numbers. For example, your attorney might ask if
+this is a “1A” divorce or a “1B” divorce.
+The process is different for the two types of no-fault divorce. In a “1A” case, the parties file an agreement and joint
+petition at the same time. Both spouses sign the joint petition and an affidavit of irretrievable breakdown of the marriage.
+(An affidavit is a written, sworn statement.) It is understood that the spouses have worked out all the issues in advance
+without the court’s assistance, including disclosure of all their financial matters to each other. The case can be heard
+and a judgment entered right away. The divorce is not final until 120 days have passed from the date of judgment.
+This is a quicker process overall than other ways to get a divorce. However, how soon the case is heard depends on
+the backlog of cases in your county. See Exhibits 5A and 5B for examples of the joint petition and affidavit.
+In a “1B” case—the most common type of divorce filed—one spouse files a complaint for divorce and states in it
+that the marriage has irretrievably broken down. If the spouses cannot agree about the outcome of the case, or even
+whether the marriage has broken down, the court will make those decisions for them through the divorce. The court
+rarely decides that the marriage is not broken down when one spouse believes that it is. After filing for divorce, you
+must wait six months to file a request for hearing. This six-month requirement may not make much difference,
+because you will need time to prepare for the hearing anyway. After the hearing takes place and a judgment is
+entered, the divorce is not final until ninety days have passed from the date of judgment.
+At any time during a “1B” or a fault divorce, the spouses can come to an agreement and file a request that the case
+be converted into a “1A” divorce. If this happens, the spouses must file the same paperwork that would have been
+required to file a joint petition in the first place.
+FAULT DIVORCE
+For the most part, fault divorces are a relic of the past. Essentially, instead of saying the spouses are not able to live
+together as husband and wife and they therefore need a divorce, one spouse is saying it is the behavior of the other
+spouse that caused the marriage to end. In order to get a divorce on fault grounds, you must be able to prove that
+your spouse has done what you allege. The fault must be one for which the statute allows you to get a divorce. The
+grounds for a fault divorce are the following:
+• Adultery. To prove this ground, you need to name the person with whom your spouse was unfaithful and
+serve that person with a copy of the complaint.
+• Impotence.
+• Desertion. Your spouse must have deserted or left you for one continuous year prior to filing the complaint.
+Your spouse cannot have come back to you even for a brief period during the period of desertion and must
+not have made efforts to reconcile. Laflamme v. Laflamme, 210 Mass. 156 (1911); Miranda v. Miranda,
+350 Mass. 478 (1966). In addition, your spouse must not have had a good reason for leaving and staying
+away, such as leaving in search of employment. Kendrick v. Kendrick, 188 Mass. 550 (1905).
+• Gross and confirmed habits of intoxication. This ground need not be daily substance abuse but does need to
+be regular and severe bouts of intoxication. Jasper v. Jasper, 333 Mass. 223 (1955) (mere use of drugs not
+ground for divorce but abuse must be shown).
+• Cruel and abusive treatment. This ground does not have to be physical violence. The cruel and abusive
+treatment needs to cause injury or harm to the victim’s health or to create a fear that the spouse may harm
+the victim’s health. Mere words may wound the feelings to the degree that the health is impaired or
+endangered. Brown v. Brown, 323 Mass. 332 (1948); Silverman v. Silverman, 5 Mass. App. Ct. 793 (1977).
+• Refusal or neglect to support. To prove this ground, you need to show that your spouse was able to provide
+support. In addition, the law states that the failure to pay should be wanton or gross and cruel. The cases
+indicate that you need to show that you could not provide for yourself. Holt v. Holt, 117 Mass. 202 (1875).
+128 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+• Incarceration. Your spouse needs to be sentenced for five years or longer or for life in prison or other
+correctional facility. G.L. c. 208, § 2.
+Clearly, it is easier to prove how long your spouse’s prison sentence is by bringing documents to court than to prove
+confirmed and severe drunkenness. In general, proving infidelity is hardest. You need to name and serve the person
+with whom your spouse was unfaithful. If the case finally goes to trial, the time it takes to prove fault will cost you
+money and take an emotional toll on everyone involved in the case. Moreover, if you decide to pursue a fault divorce,
+the court may not look upon you favorably. Your children may also be affected by any focus on blaming the other
+spouse, however accurate your estimation of your spouse’s failings may be. Always remember that, unless you
+receive the court’s permission, complaints for divorce and all other filings in the Probate and Family Court are
+public record. Anyone, including your children when they are older, have access to your case file.
+There is little advantage legally to obtaining a fault divorce. In deciding alimony and property division issues, the
+court will weigh your spouse’s conduct whether or not you file a fault divorce. G.L. c. 208, § 34. Even in that
+situation, the cases say that conduct should not be weighed as heavily as other factors. Filing successfully for a fault
+divorce will not improve your chances of getting custody. In considering custody and visitation, the court will weigh
+concerns about your spouse’s ability to provide a safe and loving environment for your children. All important
+evidence about his or her character and parenting ability will be brought forward regardless of what grounds you
+named in your complaint.
+There are two theoretical advantages to a fault divorce. First, if a spouse has been a victim of domestic violence, the
+judges generally understand that it can be important for that person to get a divorce for cruel and abusive treatment.
+Second, you can request a hearing for divorce as soon as you like. Compare this to a no-fault divorce, where the
+parties have not come to an agreement. These parties must wait six months to file a request for hearing. Realistically, if
+you and your spouse have serious disagreements, it will probably take longer than six months to be ready for a
+hearing. If you come to an agreement before six months pass, you can file a motion to convert the case to a “1A”
+divorce and be heard much sooner.
+WHERE TO FILE
+Divorce cases are filed with the clerk’s office in the Probate and Family Court. If either spouse lives in the county
+where the two of you last lived together, you must file in that county. If neither of you live there now, you may file
+in the county where you or your spouse lives now. G.L. c. 208, § 6. In some counties, the court also allows for
+electronic filing with the intention of moving to a more streamlined process. All forms are available through the
+Probate and Family Court website at https://www.mass.gov/service-details/divorce-court-forms.
+Each county has at least one Probate and Family Court session. Some have a central courthouse and hold satellite
+sessions in other courthouses. For example, in Middlesex County, the central courthouse is located in Cambridge
+and the satellite sessions are located in Concord, Lowell, and Marlborough. In most counties, you should file your
+complaint in the central courthouse. Call ahead to ask the clerk’s office where and how to file. Then you may ask to
+be heard in the satellite sessions.
+COMPLAINT
+The complaint is a one-page form that requires straightforward information. See Exhibit 5C for a sample complaint
+form. It is important to complete this form accurately, particularly the section regarding other cases involving care
+and custody of your children. You need to be clear about the dates and places of your marriage and separation
+because these will determine whether the court has jurisdiction.
+The last section of the form is a list of objectives that you can request from your divorce, such as custody, parenting
+time, and support. The legal term for the things you want is “relief,” and the request for the things you want is the
+“prayer for relief.” Ask for everything you may want, whether you want it in part or in whole. For example, if you
+expect that your children will live with your spouse but you will be involved in making major decisions about them,
+check the box asking for custody. You want legal custody, not physical custody, but you check off custody anyway.
+The difference between legal and physical custody is discussed below.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 129 CHAPTER 5: DIVORCE
+The box for freedom from restraint should only be checked if you want a restraining order against your spouse.
+Years ago, a restraining order was an order that told one spouse not to bother the other. Now, the Probate and
+Family Courts can only issue orders not to contact or abuse when it is necessary for the health, safety, or welfare of
+one of the parties or their children. In these cases, the orders are entered into the central registry and violations are
+criminal matters. G.L. c. 208, § 34C.
+If you or spouse own any real estate, you must write the book and page numbers where the deed giving you, your
+spouse, or both of you ownership of the house can be found. In the last and blank section of the form, you may wish
+to write a request for division of marital debts and assets.
+Although you should be complete and accurate, if you make a mistake, you can correct it by filing a motion to
+amend the complaint. In general, this will be allowed without any difficulty.
+ANSWER
+If your spouse files and serves you with a complaint, the proper thing to do is file an answer. In many types of
+lawsuits, the court will find against you automatically if you do not file an answer within a certain number of days.
+This is called a default. In Massachusetts, you will not be in default for not filing an answer in a divorce. However,
+it is considered good practice to file one.
+See Exhibit 5D for a model answer. It follows a format that you will use for most of the papers you file with the
+court. The heading indicates that the answer is filed in Massachusetts, in the Probate and Family Court, and in a
+particular county. It further describes your case by showing the names of the parties and the docket number. You
+and your spouse may have had other cases in the same county, but your divorce is known by a certain number. There
+is a space at the top of the document to write a description of what document you are filing.
+You should admit or deny each allegation set forth in the complaint. If you do not know how to answer an
+allegation, say so. If you know the correct facts, state them in your answer. For example, if your address is wrong,
+you might write “Deny. I live at 123 Main Street, Anytown, MA.”
+DEFENSES
+It may be that you do not wish to be divorced, even though your spouse does. In general, this will not matter. If one
+person says the marriage is broken, it is considered broken under the law. However, you can defend against your
+spouse’s complaint for divorce in other ways. You can say that any of the statements in the complaint are not
+accurate. You can also say that if they are true, your spouse should still not be able to divorce you for fault or that
+the relief he or she wants should not be ordered. For example, you can argue that the court does not have jurisdiction
+over the case or that it is being heard in the wrong county.
+Following are two defenses that are specific to fault divorces:
+• Condonation. You cannot file for divorce based on fault if you forgave your spouse at the time and your
+marriage went forward. You can get divorced for things that happened some time ago if you have lived
+apart or otherwise not healed your marriage. However, you cannot go back in time to the fault that you
+condoned.
+• Insanity. If a spouse commits a breach of the marriage when insane, he or she is not held responsible for it.
+COUNTERCLAIM
+If your spouse files a complaint for divorce and you disagree with anything in it, you may wish to file a
+counterclaim. This is your own complaint, in which you set out your facts and your prayer for relief. By filing a
+counterclaim, you are asking for a divorce. See Exhibit 5D for a sample answer and counterclaim.
+130 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+SEPARATION AGREEMENTS
+Sooner or later, it is likely that you and your spouse will come to an agreement. Fewer than 10 percent of all cases
+go to trial. The whole court process encourages settlement.
+This is not without reason. Trials are costly and time consuming and increase hostility between spouses. In addition,
+when you settle a case, you have more control over the outcome. With a trial, you are gambling that the judge will
+see the case as you would like, rather than as your spouse would like.
+In order to settle cases, there is significant pressure on the parties at certain points in the process. While you are swept
+up in the heat of the moment, it is hard to see things clearly. If you are too rigid, you may lose the best chance to
+resolve your case and move on with your life. On the other hand, if you just want the whole thing to end, you may give
+in on subjects that you later regret. As a general rule, do not insist on things merely to hurt the other side. Think about
+what you really need, what you want, and what you could live without. Think about what is best for your children.
+Having a cool head and knowing what is important to you are enormous advantages in negotiating an agreement.
+While you are in the negotiating process, take the time to read every word of any agreement offered to you. Do not
+sign anything until you completely understand it. Most agreements written by lawyers include some standard
+language, or boilerplate, that is not easily understood. Be sure you get an explanation of any technical language. It is
+never all or nothing. Many agreements have sections scratched out or new provisions written by hand in the margins.
+If you and your spouse can settle the issues between you, you should write everything out, formally and in detail.
+Then you sign that document (also called executing it) in front of a notary public and have it approved by the court
+at a hearing. At the hearing, the judge will ask you if you have read the agreement, if you think it is fair and
+reasonable, and if you understand it. If you have any last-minute doubts, particularly if you do not have a lawyer, tell
+the judge you are not sure. Separation agreements can be complicated. To make them easier to understand, a sample
+agreement, with explanations in bold type, is included as Exhibit 5E.
+RECOGNITION OF DIVORCES FROM OTHER STATES OR COUNTRIES
+The general rule of law is that Massachusetts will recognize as valid a divorce adjudged in a foreign jurisdiction (both a
+foreign country and another state) if the foreign court has jurisdiction over the cause of the case and over both parties.
+However, Massachusetts will not recognize a foreign divorce as valid in two situations. The first situation is when a
+husband or wife goes into another jurisdiction to obtain a divorce for a cause that occurred while the parties resided
+in Massachusetts. G.L. c. 208, § 39. The second situation is when a husband or wife goes into another jurisdiction to
+obtain a divorce for a cause that would not authorize a divorce under Massachusetts law. G.L. c. 208, § 39.
+Divorces Adjudged in Foreign Countries
+To determine whether a foreign country divorce decree is recognized in Massachusetts, the Massachusetts court
+must look to see if the foreign decree offends Massachusetts public policy. For example, when a divorce is granted
+in a foreign country where there is no requirement for residency and the proceedings are conducted in a foreign
+language that the participants do not understand, Massachusetts would not recognize the decree. Furthermore, if the
+grounds for divorce in the foreign country do not exist in Massachusetts, Massachusetts would not recognize the
+decree because it is contrary to Massachusetts public policy.
+The exception to the above rule is when both of the parties appear in the foreign country for the divorce proceeding.
+In this situation, one of the parties cannot later argue that the judgment is invalid because of what is called the
+doctrine of estoppel. Put simply, even though the proceedings in the foreign country may be contrary to Massachusetts
+public policy, the parties are estopped, or forbidden, from later arguing that the judgment was invalid because they
+both believed in good faith that the foreign country divorce decree was valid. Bushnell v. Bushnell, 393 Mass. 462
+(1984); Poor v. Poor, 381 Mass. 392 (1980), as distinguished by Thompson v. Harris, 504 F. Supp. 653 (1980).
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 131 CHAPTER 5: DIVORCE
+Divorces Adjudged in Other (“Sister”) States
+Massachusetts must accept a divorce decree of another state and give it full faith and credit if the sister state made a
+finding that the petitioner was domiciled in that state. See Heron v. Heron, 428 Mass. 537 (1998) (citing Sherrer v.
+Sherrer, 334 U.S. 343, 354, 68 S. Ct. 1087, 92 L. Ed. 1429 (1948)); Cavanagh v. Cavanagh, 396 Mass. 836, 839
+(1986) (and cases cited).
+THE HEARING
+How Long Before the Hearing
+The length of time before a hearing can be scheduled depends on both the complexity of each case and the court in
+which you filed the case. If you have an agreement on all issues, you have an uncontested case and will not have to
+wait as long for a hearing. Some courts will allow you to bring the agreement to the court and you can have the
+hearing the same day you file the paperwork. Depending on the court, an uncontested hearing can take anywhere
+from a few weeks to several months to schedule. Check with the court personnel, as they will have the most updated
+information regarding the length of time for a hearing.
+It is always best to resolve those issues that you can agree upon. The more issues you and the other party agree
+upon, the less time you will wait for a hearing to be scheduled because the judge will only have to consider your
+contested issues. The more complicated and contested a case, the longer you will have to wait for a hearing.
+How to Mark a Case for a Hearing
+Uncontested Hearing
+If you and the other party are filing a joint petition for divorce under G.L. c. 208, § 1A, you should file all of your
+papers together at the Probate and Family Court clerk’s office. Once the clerk reviews your documents and makes
+sure you have all of your paperwork in order, the clerk will send you a date for your uncontested hearing.
+If you have filed a divorce case under G.L. c. 208, § 1B (a “no-fault” divorce), you will likely receive a notice for a
+case management conference within the first two or three months after filing your case. The purpose of a case
+management conference is to schedule a discovery deadline and streamline the timeline of your case. Each court has
+a different method by which they issue case management notices, so ask a clerk if you have any questions about the
+next step in your case.
+If you have filed a no-fault divorce and have not received any notices, the Probate and Family Court has a form to
+request a hearing date. See Exhibit 2H. All of your discovery (request for production of documents, interrogatories,
+and depositions) should be complete before asking for a hearing. Send a copy of your request to the other side. The
+following documents must be on file:
+• a divorce statistical form, which is available in the clerk’s office (included as Exhibit 5F);
+• a certified copy of the marriage certificate, which is available from the town hall that issued the license;
+• a military affidavit form if one of the parties is unavailable (included as Exhibit 5G);
+• an affidavit disclosing care and custody proceedings (included as Exhibit 5H); and
+• a parenting class certificate, which each party will receive after attending a parent education program; the
+class, called “Understanding the Effect of Divorce on Children,” is a required class (see Exhibit 5I).
+Pretrial Conference
+Whether you have received a case management conference notice in the mail or have requested a hearing yourself,
+the court will send you a notice in the mail to attend a pretrial conference. A sample notice is included as Exhibit 2I.
+You are required to prepare a written report for the pretrial known as a pretrial memorandum. A sample
+memorandum is included as Exhibit 5J. The notice from the court describes everything that should be in it. Failure
+to give the court a written report often results in monetary sanctions. Each side must file a current financial
+statement at the pretrial conference. Some courts require that the pretrial memorandum and financial statement be
+filed with the court before the hearing date. Check with your court for its rules.
+132 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+The purpose of the pretrial is to determine the contested issues and the possibility of settlement. Prior to the pretrial
+conference, all parties and their attorneys must meet to discuss possible settlement. In cases where there is domestic
+violence involved or one party lives far away, this may be accomplished by conference call in some counties, or by
+requesting that the probation officer meet with each of the parties separately in an attempt to mediate any disputes.
+At the pretrial conference, the judge will ask whether you have met. He or she will also ask for your written pretrial
+memorandums and for an estimate of how long it will take to try the case (e.g., one hour, one day, several days). The
+longer it will take to try the case, the longer you will have to wait for a hearing date. However, you need to give your
+best estimate of how long the trial will take. If your estimate appears unusual, the judge will ask you how many
+witnesses you plan to call and what the contested issues are, and then will determine the length of the trial based on
+the court’s experience with similar cases.
+In some courts, the judge might want you to present any evidentiary motions at the pretrial conference. Some courts
+will have you present evidentiary motions at some other date before the hearing. Either way, the court will want to
+rule on these motions before the trial can be started. Pretrial motions generally concern evidence such as medical or
+psychological records. See chapter 2, Overview of the Probate and Family Court. Depending on what side you are
+on, your motion might seek to submit records or prohibit the other side from using certain records.
+Usually it will be several months after the pretrial conference before you have a trial date. In rare instances, the
+judge will order you to trial right then and there. Be prepared with testimony, witnesses, and any documents you
+intend to use as evidence at the pretrial conference. In addition to preparing you for a trial if an early date is
+available, this preparation helps each side to see whether any type of settlement will be possible.
+If the parties have reached a settlement, this may be presented at the pretrial conference, and a hearing will be held
+that day. Be sure to have a written agreement signed and dated by both parties as well as any attorneys. This saves
+everyone time and stops you from having to return to court merely to have the agreement approved.
+What Questions Will the Judge Ask?
+Even in an uncontested divorce case, the parties must answer questions to establish grounds for a divorce. If there
+are no attorneys, the judge might ask the questions. If one of the parties has an attorney, that attorney will ask the
+questions. The line of questioning follows the statements in your complaint. For example, you might be asked about
+your name, address, date of marriage, children and their dates of birth, and so forth. There will be specific questions
+regarding the grounds for divorce. If you have filed a divorce on fault grounds such as cruel and abusive treatment,
+you must testify about the facts that support your claim. In a case where the grounds are irretrievable breakdown,
+you merely need to testify that the marriage has irretrievably broken and there is no hope for reconciliation.
+If there is an agreement, the judge will ask both parties if they have read it, if they had the opportunity to consult
+with an attorney, and if they feel the agreement is fair and reasonable. The judge makes his or her own decision
+about whether an agreement is fair and reasonable and might decide not to approve a provision that he or she finds
+unreasonable. The judge will tell you what parts he or she is refusing to approve and often will give both parties an
+opportunity to discuss the issue in the hall.
+The following are some of the questions the judge will ask in divorce cases:
+• Please state your name.
+• Where do you reside?
+• Are you married to _____?
+• When and where were you married?
+• When and where did you live together?
+• Are there any children?
+• What are their names and ages?
+In a hearing on a joint petition (Section 1A), or in an uncontested case under Section 1B, the judge will most likely
+ask the following questions:
+• Do you believe your marriage is irretrievably broken?
+• Is there no chance of reconciliation?
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 133 CHAPTER 5: DIVORCE
+• Have you entered into a separation agreement?
+• (Showing you a copy of the agreement) Is this the agreement? And is this your signature?
+• Did you sign this as your free act and deed?
+• Did you have the opportunity to consult with a lawyer before signing it?
+• Do you believe the agreement to be fair and reasonable?
+Some judges will ask you to summarize the major points of the agreement or will ask about each major point
+separately. You should summarize that you agree to a divorce on irretrievable breakdown, what happens with the
+marital property, what happens with the custody and parenting time with the children, what child support and health
+insurance is to be provided, whether there will be alimony, and any other provisions.
+For fault grounds, there will be questions specific to the allegations. For example, if the allegations are cruel and
+abusive treatment, the questioning might go like this:
+• When did you and your spouse last live together?
+• What happened on that date?
+• What did you do?
+• What did your spouse do?
+• Did you ever obtain a restraining order? When? Why? Describe what happened on that date.
+• Was your spouse ever abusive toward you on other occasions? When? What happened?
+In the event that your case does not settle at the pretrial hearing, the court will schedule a trial date. You will receive
+a trial notice and order, which will contain all of the specific dates and deadlines in connection with your final
+hearing. Prior to trial, you and the opposing party must exchange exhibits and your lists of potential witnesses,
+which is discussed in detail below.
+Practice Note
+In a contested case, be prepared to present testimony related to the contested issues. Be sure to have
+witnesses and extra copies of exhibits available. Although an attorney would be helpful in presenting the
+evidence, you have the right to represent yourself. It is a good idea to review a book on trial practice to
+learn how to ask questions and present exhibits. There are public law libraries in several counties. See
+chapter 20, Resources, of this book. The law librarian will usually help you find the appropriate books.
+Using Witnesses at Trial
+All witnesses must have firsthand knowledge about what they are testifying to. That is, they can only testify about a
+conversation they had or something that they saw. A witness cannot testify to what someone else told them, as that
+is considered hearsay. There are exceptions to the hearsay rule, such as if the person is a party to the proceeding or
+statements made to a guardian ad litem. Generally, however, a person can only testify about things they personally
+saw or said.
+Usually you can only call witnesses that you listed in the pretrial memorandum, except to rebut a witness called by
+the other party. You should name all people whom you might call as a witness, just to make sure. Listing someone
+as a witness does not mean you have to call them if you change your mind later.
+You may need to subpoena witnesses to make sure they come to testify on the day of trial. See Exhibit 2N. This
+costs money, unless you qualify to waive the fees and costs and have brought a motion requesting that the
+Commonwealth pay it. (The clerk’s office has a blank form and the income guidelines. See Exhibit 5K.) If a
+witness is subpoenaed and does not show up for trial, the judge may hold that person in contempt, issue a “capias”
+(i.e., a civil arrest warrant), or grant a continuance to compel that person’s attendance. If you do not subpoena a
+witness and that person does not show up, the court will make you go on without that person. To subpoena a
+witness, you need to fill out a subpoena form, have it notarized, and have a sheriff, constable, or other person over
+the age of eighteen serve a copy on the witness. You must also include fees for one day’s hearing and mileage. See
+chapter 2, Overview of the Probate and Family Court.
+134 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Before the hearing, outline questions for each of your witnesses and cross-examination questions for each of the
+other side’s witnesses. While it is preferable to have an attorney for trial, you can obtain books at a law library that
+outline questions for various kinds of cases, including expert witnesses. If you are going to represent yourself, it is a
+good idea to spend some time reading these books. Judges must hold pro se litigants to the same rules as attorneys.
+See chapter 2, Overview of the Probate and Family Court, for additional information.
+Using Other Evidence at Trial
+Every document or thing you want to introduce into evidence must be marked as an exhibit and requires a different
+foundation requirement—that is, questions and information to establish an exhibit’s admission. Some documents,
+such as marriage certificates and birth certificates, can be admitted because they are public records. However, you
+must have a certified copy of public records for the court. Be sure to bring a photocopy of every document for
+yourself and the opposing party. Generally, you are limited to introducing the exhibits listed in your pretrial
+memorandum. Again, list everything you might consider using. If you change your mind later, you are not required
+to submit a document into evidence.
+As with witnesses, it is a good idea to obtain library books that outline the steps for introducing various types of
+evidence. For example, photographs and videos require different foundations than hospital records. Depending on
+what things you want to use as evidence, you need to follow the steps for introducing them.
+Going to the Courthouse
+Dress and Protocol
+Court is very formal. You should dress in businesslike attire, or as if you are going to church. Shorts, tank tops, and
+jeans are not recommended. You should arrive on time, so follow any notices you receive in the mail. When in the
+courtroom, do not interrupt other people when they are speaking. Wait your turn, and if you need to speak, ask
+“Your Honor, may I please say something?”
+Who Is in the Courtroom?
+When you first arrive, the judge will probably not be on the bench. There will be a person at the front of the room
+known as an assistant judicial case manager. Check in with this person; he or she will make sure the paperwork and
+file are in the courtroom and will direct you to be seated or to go to the Probation Office (also known as the Family
+Service Office). Some Probate and Family Courts have a “call of the list,” where they call out each case and the
+parties answer if they are present. Other courts post the names of all of the cases scheduled for that day in a list
+outside the courtroom. Once you check in with the clerk, you may be referred to the Probation Office, or even
+another courtroom. Each courtroom has at least one court officer; some have two. They sit at the sides of the
+courtroom and often have the job of keeping order in the court by announcing the judge’s arrival and departure and
+ensuring that people are quiet. The officers can remove disorderly people from the room.
+Probation Officers
+Many courts will send you to the Probation Office to present your case. If there are attorneys, the probation officer
+will meet with them first and then with you and your spouse. If there are no attorneys, the probation officer (who is
+also known as a family services officer) will meet with both of you. If there is a history of domestic violence, you
+can ask the probation officer to meet with each of you separately. The probation officer will ask you background
+information and attempt to mediate a settlement. If you come to an agreement, it can be written up and presented to
+the judge. If you do not come to an agreement you will return to the courtroom to see the judge; each party will have
+the opportunity to present their position and what they want. During your meeting with the probation officer, he or
+she will take notes about your case. If your case does not settle and you have to return to the courtroom to argue
+your case, the judge will receive and read the probation officer’s notes from your session. You have the right to hear
+and/or read the notes taken by the probation officer. Keep in mind that nothing you say in front of the probation
+officer is confidential.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 135 CHAPTER 5: DIVORCE
+The Hearing
+The clerk will call your case by name (for example, the “Smith case” or “Smith v. Smith”), and the judge will ask
+everyone to introduce themselves. State your name clearly. The judge may start by summarizing what he or she
+believes the purpose of the hearing is. You can add to or clarify the purpose of your being there. In a divorce trial,
+the judge will ask who the witnesses are for each party. Witnesses must be sworn in. This is often done in the
+beginning. The clerk asks everyone who is to give testimony in the matter before the court to stand and swear that
+they will tell the truth. If you will testify, you must stand, raise your right hand, and agree to tell the truth.
+The plaintiff begins by calling his or her witnesses to the stand. The plaintiff questions each witness. The defendant
+is then allowed to cross-examine each witness. When the plaintiff has called the last witness, the defendant can
+begin calling his or her witnesses. The defendant will question his or her witnesses, and the plaintiff will then be
+allowed to cross-examine each person. At the end, you will be given five to ten minutes to make a closing argument
+outlining your theory and position in the case. During the trial, each party may object to testimony and introduce or
+object to the introduction of exhibits.
+Remember to answer questions with a “yes” or “no” as the proceedings are audiorecorded and cannot record nods of
+the head. Also, refer to the judge as “Your Honor,” “Judge” or “The Court.”
+At the end of the trial, the judge may not want to announce his or her decision from the bench. The judge will “take
+it under advisement” and you will receive the decision in the mail. Some judges will require that each party submit
+proposed findings of fact, a proposed judgment, and conclusions of law to support his or her position.
+Proving Your Case
+Child Custody
+General Laws c. 208, § 31 governs custody of children. The court must determine what is in the best interest of the
+child and presumes that joint legal custody is best. The court will look at the misconduct of each parent to evaluate
+what best serves the child’s happiness and welfare. A judge will want to know if a parent is unfit or has alcohol or
+substance abuse problems, a criminal record, or other characteristics relating to ability to parent. Mental illness of a
+parent is not a per se disqualification for custody. Angelone v. Angelone, 9 Mass. App. Ct. 728 (1980). Sexual
+preference of a parent is not grounds to deny him or her custody. Doe v. Doe, 16 Mass. App. Ct. 499 (1983).
+However, abuse of the child and even abuse of the other parent will be considered in making a custody
+determination. Custody of Vaughn, 422 Mass. 590 (1996).
+Child Support
+Massachusetts has child support guidelines and the courts have a form for calculating these guidelines. G.L. c. 208,
+§ 28. The court looks at the amount and sources for each parent’s income, and the needs of the children. A court can
+deviate from the guidelines for good reason. For example, an increase in child support may be warranted if the child
+has significant needs or one parent has access to substantial property. Or a reduction may be warranted if the payor
+has to travel a long distance to visit with the child or contributes in other ways, such as paying the child’s private
+school tuition. If one parent is deliberately keeping his or her income low, the court may attribute income to him or
+her—that is, the court may find that the parent has the ability to earn more money but is refusing to do so. In those
+cases, in order to calculate the child support order, the court will use the amount the parent can earn rather than the
+amount that he or she is actually earning.
+Alimony
+Alimony can be awarded to either spouse. Primarily it is based on the ability of one party to pay and the needs of the
+other party. Specific criteria are spelled out in G.L. c. 208, § 34, as well as other sections of this book.
+Massachusetts passed the Alimony Reform Act, G.L. c. 208, §§ 48–55, in 2011. Under the new law, alimony is
+generally calculated as 30 to 35 percent of the difference in gross income between the parties, but may also be based
+upon the recipient’s need for support. The length of the marriage determines the duration of alimony payments.
+MCLE and the author are grateful to Hon. Megan H. Christopher and Lisa A. Ruggieri, Esq., for their contributions
+to a previous version of this chapter.
+136 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+ CHECKLIST 5.1
+Divorce Checklist
+PREPARING FOR DIVORCE
+ Assets—Prepare a complete list of all items of value that you and your partner have. Note the ownership of
+each item, how it was obtained, and statements about the value of the item. You could use purchase receipts or
+insurance records for this purpose.
+ Automobiles—Is the car titled to you? Do you share the car? How much is owed on the car? Can you afford to
+make the remaining payments? Does the insurance cover you?
+ Children—Are there any issues affecting the children that may cause your divorce or separation to be
+untimely? Have you thought about the custodial arrangements and parenting-time plans that would be
+acceptable to you? Do you have adequate room for the children in your new residence? Do you have
+information concerning medical or dental insurance for the children?
+ Counseling—Marriage counseling is an option to consider if you are uncertain about ending your marriage. See
+chapter 20, Resources, at the end of this book for information about services near you.
+ Finances—Separation can cause severe economic hardship, particularly if your partner is the primary wage
+earner. Consider alternative sources of income such as TAFDC, increasing your hours of employment, moving
+to less expensive housing, or other ways to cut your costs or to maximize your income. You may also be able to
+file papers requesting temporary support from your partner when you file your divorce complaint.
+ Health insurance—If your partner is the primary owner of your health insurance policy, you may want to find
+out your right to coverage once you are divorced. Massachusetts laws require “state approved” plans to continue
+coverage for former spouses under certain circumstances. However, this requirement does not apply to
+companies that are self-insured or companies that fall under the jurisdiction of federal laws.
+ Household income—Be familiar with the true costs of running your household. Review all bank statements,
+credit card bills, and other financial documents, and make copies of them.
+ Income tax documents—Review your recent tax returns, especially those you filed jointly. Obtain copies of
+your returns for at least the last three years.
+ Insurance policies—If you have any insurance policies, identify the purpose of the policies and the carrier.
+ Liabilities—Prepare a complete list of all debts that you and your partner have. Identify each debt, the original
+amount of the debt, when it was incurred, the reason for the debt, who has made the payments, the amount of
+the payments, and the balance owed.
+ Marital residence—Do not move without consulting an attorney if you are in the process of buying your home
+or you and your partner share a subsidized apartment. You may have rights that need to be protected.
+ Savings—Do you have any joint savings or checking accounts? If so, you may want to consider closing the
+account or withdrawing your share of the money in those accounts. You may want to consult an attorney
+regarding your rights to the money in those accounts.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 137 CHAPTER 5: DIVORCE
+FILING FOR DIVORCE
+ Decide if you are obtaining a divorce on the basis of an irretrievable breakdown (no-fault divorce) or one on
+grounds, or both.
+• If you are filing a no-fault divorce, consider which petition is best. A joint petition may be appropriate if
+your partner agrees to a divorce and you are able to negotiate a settlement of all of the issues relating to the
+children, spousal support, and property.
+• If you choose to proceed on grounds, decide which grounds you have evidence to prove. Review “No-Fault
+Divorce” and “Fault Divorce,” above.
+• Remember, you may list both fault and no-fault grounds at the same time.
+ Complete the appropriate complaint. Consider your claims. Do you want custody of your children? Do you
+want to go by your birth or previous name again? Do you want support? Do you want a restraining order?
+ Obtain a certified copy of your marriage certificate, which is available from the Department of Public Health
+Office of Vital Statistics, and complete a statistical information form, which is available from the Probate and
+Family Court.
+ Prepare a motion to waive fees and the accompanying affidavit, or get a money order to pay the filing fees. File
+a financial statement. See chapter 2, Overview of the Probate and Family Court.
+ Decide whether you need to file any temporary or ex parte orders.
+ Decide whether you are filing for divorce in the appropriate court. You should file in the court with jurisdiction
+over the county where you and your partner last lived together, the county where your partner lives now, or the
+county where either of you live now if you last lived together in another country.
+ Refresh your knowledge about serving the complaint. Review “Complaint,” above.
+BEYOND FILING
+After the defendant answers your complaint, decide the following:
+ Are there any counterclaims that you must answer?
+ Are there any issues in contest—e.g., Is the defendant also asking for custody? Typical contested issues are
+– custody (see chapter 9),
+– child support (see chapter 8),
+– paternity (see chapter 7), and
+– alimony (see chapter 6).
+ Do you have the information you need to defend your claims or to prove your case? Consider using
+discovery to get the information you need. Determine how helpful and knowledgeable your witnesses are.
+ Decide whether settlement is possible. See chapter 19, Dispute Resolution Options.
+If the defendant does not answer your complaint, you may proceed as if your case is uncontested. However, you still
+must be able to prove your case.
+THE HEARING
+When preparing for the hearing:
+ Prepare a statement of the facts of your marriage. For example, when were you married, and to whom?
+What happened that led to this action?
+138 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+ State the relief you want. This relief could include
+– child support, in which case you should complete the child support worksheet (Exhibit 8B) as well as a
+financial statement (Exhibits 5L and 5M);
+– alimony, in which case you should state your reasons for seeking it;
+– a court order allowing you to return to a former name (if you want to go by another name);
+– a permanent restraining order (if necessary); and
+– custody and parenting time arrangements.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 139 CHAPTER 5: DIVORCE
+EXHIBIT 5A—Joint Petition for Divorce
+140 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5B—Affidavit in Support of Complaint for Divorce:
+Irretrievable Breakdown of the Marriage, G.L. c. 208, § 1A
+COMMONWEALTH OF MASSACHUSETTS
+Middlesex, ss. Probate and Family Court Dept.
+No. 17D-3333-D1
+Jane Smith, )
+Plaintiff )
+v. )
+John Smith, )
+Defendant )
+)
+)
+)
+)
+)
+AFFIDAVIT IN SUPPORT OF JOINT PETITION
+FOR DIVORCE: IRRETRIEVABLE BREAKDOWN
+OF THE MARRIAGE, G.L. c. 208, § 1A
+We, Jane Smith and John Smith, under oath, do depose and say as follows:
+We are the respective parties to this action for divorce.
+We were married in Boston, MA on August 3, 2004.
+We last lived together at 35 Great Road, Stow, MA on January 1, 2017.
+There has developed a progressive estrangement between us prior to the separation that became intolerable on
+or about January 1, 2017, and that led to our separation.
+This estrangement was characterized by serious lack of communication, and nonexistence of any personal
+interactions between us. There no longer exists between us the basis for any type of relationship.
+There is no possibility of reconciliation. We are mutually incompatible by various differences in our respective
+temperaments.
+All issues as they relate to alimony, division of property and debt have been resolved to our mutual
+satisfaction, and said resolution is manifested by an agreement dated _____.
+Signed under the pains and penalties of perjury this 1st day of June 2017.
+1. 2. 3. 4. 5. 6. 7. Jane Smith John Smith
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 141 CHAPTER 5: DIVORCE
+COMMONWEALTH OF MASSACHUSETTS
+Middlesex, ss. Date: June 1, 2017
+On this _____ day of _____, _____, personally appeared before me _____, who proved to me through satisfactory
+evidence of identification, to wit, [Describe with specificity the means of identification.], to be the signer of the
+foregoing document, and acknowledged to me that the same was signed voluntarily for its stated purpose.
+Notary Public
+My commission expires July 1, 2019
+COMMONWEALTH OF MASSACHUSETTS
+Middlesex, ss. Date: June 1, 2017
+On this _____ day of _____, _____, personally appeared before me _____, who proved to me through satisfactory
+evidence of identification, to wit, [Describe with specificity the means of identification.], to be the signer of the
+foregoing document, and acknowledged to me that the same was signed voluntarily for its stated purpose.
+Notary Public
+My commission expires July 1, 2019
+142 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5C—Answer to Complaint for Divorce
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 143 CHAPTER 5: DIVORCE
+144 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5D—Counterclaim for Divorce Action
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 145 CHAPTER 5: DIVORCE
+146 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5E—Separation Agreement
+COMMONWEALTH OF MASSACHUSETTS
+THE TRIAL COURT
+PROBATE AND FAMILY COURT DEPARTMENT
+MIDDLESEX DIVISION C.A. NO. 17D-9876-DV1
+SHEILA JONES, )
+Plaintiff )
+v. ) SEPARATION AGREEMENT
+STANLEY JONES, )
+Defendant )
+)
+)
+)
+)
+)
+This part is the heading, which identifies the case by Docket or Civil Action Number (C.A. No.), the parties’
+names, the court, and the county. The court is the Probate and Family Court, and the county is Middlesex.
+This agreement is made between Sheila Jones of 1234 High Street, Melrose, Middlesex County, Massachusetts
+and Stanley Jones of 5678 Cedar Street, Woburn, Middlesex County, Massachusetts. The parties were married in
+Boston, Massachusetts on January 1, 1997. There are two children born of the marriage, namely Nancy Marie Jones,
+born on January 1, 1999 and Mary Louisa Jones born on January 1, 2001. The couple separated on or about January
+1, 2007. They last lived together at 1234 High Street, Melrose, Middlesex County, Massachusetts. Mrs. Jones filed a
+Complaint for Divorce on June 1, 2017, alleging as grounds an irretrievable breakdown of the marriage.
+This is the statement of the facts. It describes what the divorce is all about. It is not necessary, but it helps to
+be sure that everyone understands some of the basic facts to be the same. Later on, no one can say that Nancy
+was not a child of the marriage, or that the marriage actually took place in 1995.
+The parties have both had the opportunity to consult with the separate and independent attorneys of their choice,
+although Mr. Jones has chosen to proceed unrepresented. The parties enter into this agreement freely and
+voluntarily, without any restraint or coercion. Each party makes this agreement in reliance on the representations of
+the other party with regard to his or her financial position. This agreement resolves all issues raised by the
+Complaint for Divorce, including custody and visitation of the minor children, division of liabilities and assets,
+support for the children and alimony.
+This section is here to describe what the process was in negotiating the separation agreement and what issues
+are being resolved.
+It is possible for one spouse to sue the other for personal injury. This may be important for victims of
+domestic violence. Some separation agreements say that all issues between the parties back until the
+beginning of time are settled in the divorce. This means that one spouse abused by the other gives up the right
+to sue for personal injury. That is not something a judge could order at trial and should not be given up
+without something of value in return. If you were a victim of domestic abuse, then you may wish to speak
+with a lawyer experienced in such cases to get some idea of the value of the case you would be waiving.
+Remember, strict time limits apply to personal injury cases. You may wish to speak to a lawyer sooner rather
+than later. To protect the rights of a victim, this agreement is more limited in its scope.
+___ Sheila Jones ___ Stanley Jones
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 147 CHAPTER 5: DIVORCE
+Each party hereby waives and releases any and all rights that he or she may now or hereafter acquire as spouse
+under the present or future laws of any jurisdiction to make a claim for a share of the estate of the other or to act as
+executor or administrator for the estate of the other. However, nothing in this paragraph is intended to or shall
+constitute a waiver of any rights or claims he or she may have against the other’s estate to enforce this agreement or
+to enforce a judgment of another court of competent jurisdiction. Nor shall this paragraph constitute a waiver by
+either party of any testamentary provisions which the other may voluntarily make for him or her.
+In general, one spouse automatically receives at least some of the estate of the other spouse when he or she
+dies. Once you get divorced, you give up your rights to receive a share of your spouse’s estate. This paragraph
+acknowledges this fact. However, this paragraph says that if the deceased spouse owed the other some money,
+such as back child support, the surviving spouse could still sue for it. Again, this paragraph is not absolutely
+necessary, but it does explain what you both understand that the situation would be regarding the parties’
+estates. If a spouse dies prior to the passage of ninety days from the date the divorce was entered into the
+court’s docketing system, then the divorce is dismissed. In many cases, this could mean that the other party
+retains his or her rights as a spouse.
+From this date forward, the parties shall continue to live separate and apart from one another for the rest of their
+lives. Each shall be free from the interference, authority and control of the other as if they were unmarried.
+This paragraph is found in some agreements and means only that once you are divorced, you live separately.
+Oddly enough, many lawyers will write out the same obvious things routinely because it is what they have
+always done. Many judges do not allow this language any longer, because it implies that a restraining order
+will issue.
+Each party indemnifies the other from and against any losses incurred by the other as a result of a breach of this
+agreement, and from and against all attorney’s fees costs and expenses incurred in enforcing the provisions of the
+within agreement, providing however, that it is within the power of the breaching party to perform.
+This paragraph means that if one party fails to live up to the terms of the agreement, then she or he will have
+to pay any costs required to enforce it. This paragraph states that if you have to hire an attorney to enforce
+the agreement, the other side will have to pay the attorney fees and your other costs. If the other party cannot
+perform, he or she will not have to pay the costs.
+For example, if your former spouse is fired and has no income to pay child support, then, at least for a while,
+it might not be in his or her “power to perform.” It is possible that no costs would be assessed. The payment
+of costs is generally under the judge’s discretion, and not all judges will order costs. Therefore, it is important
+not to rely on this provision too much.
+The failure of either party to insist in any instance upon the strict performance of any provision of this
+agreement shall not be construed as a waiver of such provision and same shall nonetheless continue in full force and
+effect.
+Even if you and your spouse generally do not follow the agreement, you are still bound by its terms and not
+by your new ways of dealing with each other. Each of you can decide later to enforce the agreement strictly.
+This agreement shall be construed and governed according to the laws of the Commonwealth of Massachusetts.
+You and your former spouse may move to other states, but the terms of your agreement will still be viewed
+through the laws of Massachusetts. Please refer to Chapter 16, Modifications, as well.
+This agreement will become operative at the time a Probate and Family Court finds it fair and reasonable and shall
+MERGE with the judgment of divorce.
+___ Sheila Jones ___ Stanley Jones
+148 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+There is a significant choice here between using the term “merger” or “survival.” When an agreement
+“merges” with the judgment of divorce, then you or your spouse can ask that any of the terms be modified
+upon a “significant change in circumstances.” You can enforce it only by going to the Probate and Family
+Court and filing a contempt action. Your spouse can claim that he or she is not able to live up to the terms of
+the agreement and the judge may not order him or her to comply with the agreement. On the other hand, it is
+sometimes a good idea for you to have that defense available to you.
+When an agreement “survives” the judgment of divorce, it is a separate contract that binds you just the way
+any other contract does, such as a contract to pay your credit card bill or to buy a house. It can be enforced
+by going to the Probate and Family Court or the Superior Court. The defense of inability to perform is not
+available with this type of agreement. A surviving agreement cannot be modified easily. See Chapter 16 for
+more information on modifying the agreement.
+Issues relating to your children, such as support and custody, cannot survive.
+Theoretically, if you sign a surviving agreement that becomes operative right away, you could be bound by it
+immediately. However, later you are going to take it to a judge to have it made part of the court’s decision.
+The judge reads it and decides if it is fair and reasonable. If it is not, then the judge will not approve it. You
+do not want to be bound to an agreement that the judge does not find fair. For that reason, the sample
+agreement does not take effect until the judge makes the finding of fairness.
+Custody of Mary
+Sheila Jones shall have sole physical custody of the minor child of the marriage, named above. The parties shall
+share legal custody.
+Chapter 9 describes more fully the meaning of custody arrangements. What you may wish to consider is
+whether you want to include some provision that will describe more fully what you both mean by joint legal
+custody.
+The example above may not be suitable language for a case where the noncustodial parent is not involved in
+the child’s life or may be difficult to locate.
+If you are a survivor of domestic violence, you may not wish to share legal custody. In some cases, it may be
+inevitable unless you go to trial and even then, you may have to appeal the judge’s decision. It is especially
+important that you tailor the language to reflect your safety concerns and the well-being of your children. For
+example:
+Mr. Jones shall have no right of access to any records containing information concerning Mary, including medical,
+school, counseling, personnel or any information or data held by another person or agency concerning her.
+It may be that you and your spouse have a history of not being able to agree on subjects related to the
+children. One spouse may be often unavailable to assist with decisions. Sometimes the following provision can
+assist you.
+The parties shall have shared legal custody and shall make every effort to resolve significant issues relating to the
+children by agreement. If they are unable to agree, then Mrs. Jones shall make the final decision. Mr. Jones shall be
+informed of such decision in a timely fashion and he may bring the matter before the Probate and Family Court.
+___ Sheila Jones ___ Stanley Jones
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 149 CHAPTER 5: DIVORCE
+Support and Maintenance
+Child support is discussed in Chapter 8. Described below is at what time the child support obligation will end.
+The end of this obligation is defined as the time when the child becomes emancipated. The statute sets forth
+this definition, which could be changed according to the parties’ wishes. For example, you might wish to
+balance payment of college costs against payment of child support for the child who is living in a dorm or
+apartment at school.
+Mr. Jones will be obligated to pay child support by wage assignment in the amount of $100 per week, according
+to the Guidelines of the Massachusetts Probate and Family Court. He will pay such child support until the
+emancipation of the minor children, which for each child will be on the occurrence of the first of the following
+events:
+1. 2. 3. 4. 5. The marriage of a child;
+The death of a child;
+The enlistment of a child in the military, on the date actual service in the military commences;
+The attainment of the age of 18, providing the provisions of paragraphs 5 and 6, below, do not apply;
+The attainment of the age 21, providing that the child resides primarily with the custodial parent and is
+principally dependent upon the custodial parent and the provisions of paragraph 6, below, do not apply;
+6. The attainment of the age of 23, providing that the child is engaged in education or training programs,
+except for summer employment.
+A child shall be considered to reside primarily with the custodial parent notwithstanding any temporary residence at
+an educational, medical, camping or other facility. If a child is disabled at the time when she or he would otherwise
+be emancipated, the issue may be raised before the Probate and Family Court to establish further order of
+appropriate child support.
+The parties agree to co-operate in application for financial assistance in higher education costs. Each party will
+contribute to the children’s educational expenses according to his or her ability to do so. If no agreement can be
+made between the parties, this issue can be brought forward for resolution by the Probate and Family Court.
+It is important to make sure there is some statement about the parties’ obligation for payment of college costs.
+Especially if your children are older and you think they will go to college, be sure to include this.
+When both children are emancipated, Mrs. Jones may bring forward the issue of alimony to be resolved by the
+Probate and Family Court, applying the factors set forth in G.L. c. 208, § 34.
+In most cases involving parties with moderate incomes, it is very unlikely that one parent will be ordered to
+pay both child support and alimony. With this statement, you keep the possibility of paying alimony open
+after the child support is ended. Otherwise, you will have to show a substantial change in circumstances. The
+other side may be understandably very reluctant to include this provision. It is an area for negotiation.
+Health and Life Insurance
+Mr. Jones shall provide health insurance for the children and Ms. Jones through his employment when possible.
+The parties shall share equally the necessary uninsured medical, counseling, dental and orthodontic expenses for the
+parties’ unemancipated children. Mr. Jones shall maintain life insurance through his employment, if available, for
+the benefit of the children of the marriage until they are emancipated. Such insurance shall be payable to Ms. Jones
+as custodian of the funds.
+___ Sheila Jones ___ Stanley Jones
+150 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Sometimes one party wants the insurance money to go to a trust and to have another person serve as trustee.
+This is a cumbersome arrangement that requires that an actual trust document be drafted. It may limit the
+custodial parent’s ability to spend the money on meeting the children’s daily needs. In instances where there
+is a significant sum of money at stake, it may make sense to consider a trust.
+Liabilities and Assets
+The parties have divided the personal property in a temporary order entered on August 14, 2007. All tangible
+personal property in the possession of Mr. Jones is his sole and separate property and all tangible personal property
+in the possession of Ms. Jones is her sole and separate property. The parties have relied upon the information they
+have supplied each other in the division of assets.
+Sometimes there will be a list of assets to be divided in the future. Identify such property as specifically as
+possible and be clear about the date and the manner of transfer. For example:
+On January 1, 2008, at noon, Mr. Jones will remove from the marital home the following items:
+Grandfather clock left to him by his mother,
+Stainless steel pots received as a wedding gift, and
+Bedroom set, including double bed, bureau, armoire and two night stands which were in the master bedroom at the
+time of separation.
+OR
+The amount of Mr. Jones’ pension through the Gizmo Corporation which accrued during the marriage, from the date
+of the wedding up to this day, will be divided equally between the parties. Counsel for Mr. Jones will draft a
+Qualified Domestic Relations Order to effectuate this division, which will not be unreasonably delayed.
+Division of pensions and certain other financial assets require special expertise. Be sure that these transfers
+actually take place. It would be very awkward for Mrs. Jones to discover fifteen years from now that Mr.
+Jones is collecting his pension and nothing was done to protect her rights.
+Mr. Jones will be responsible for the MasterCard bill and Mrs. Jones will be responsible for the Visa bill.
+This is another area for negotiation. It is important to be realistic about payment of debt. If you cannot afford
+to make the payments, do not make an agreement to do so. A provision such as this one could preclude you
+from eliminating your obligations through bankruptcy. If Mrs. Jones files for bankruptcy, including joint
+debts she agreed to pay, then the company holding the debt will try to get it paid by Mr. Jones. Presumably,
+Mr. Jones bargained away something in order to obtain Mrs. Jones’ agreement to assume responsibility for
+the debt.
+The parties agree that they will not hereafter make any purchases or contracts or incur any expenses in the name
+or upon the credit of the other. Each will indemnify and save each other harmless from any and all liability, loss or
+expense, including reasonable attorney’s fees arising from such purchase or contract made by him or her after the
+date this judgment is entered. The parties warrant and represent that they will not hereafter use the other’s name for
+the purposes of having credit extended to him or her. Both parties will bear the costs of their own attorneys for this
+action.
+This means that you cannot use your spouse’s credit, such as using a credit card in your spouse’s name. If you
+do, then he or she can sue you and make you pay for attorney fees.
+___ Sheila Jones ___ Stanley Jones
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 151 CHAPTER 5: DIVORCE
+IN WITNESS WHEREOF, the parties have hereunto set their hands and seals.
+Sheila Jones Stanley Jones
+COMMONWEALTH OF MASSACHUSETTS
+_____, SS. Date:
+On this _____ day of _____, 20__, before me, the undersigned notary public, personally appeared Sheila Jones,
+proved to me through satisfactory evidence of identification which was/were
+_____, to be the person who signed the preceding document in my presence, and who, being duly sworn, made
+oath that the foregoing Agreement was her free act and deed.
+Notary Public
+My Commission Expires:
+COMMONWEALTH OF MASSACHUSETTS
+_____, SS. Date:
+On this _____ day of _____, 20__, before me, the undersigned notary public, personally appeared Stanley
+Jones, proved to me through satisfactory evidence of identification which was/were
+_____, to be the person who signed the preceding document in my presence, and who, being duly sworn, made
+oath that the foregoing Agreement was his free act and deed.
+Notary Public
+My Commission Expires:
+Notaries should check to make sure you are who you say you are. It would be very unhelpful if your spouse
+could have someone else sign your name to a separation agreement. It is also a good idea to initial or sign
+every page and every change that was scratched out or written in. That way, there is no confusion about which
+version was the final one and exactly what you agreed to.
+152 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5F—Report of Absolute Divorce or Annulment
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 153 CHAPTER 5: DIVORCE
+154 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5G—Military Affidavit
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 155 CHAPTER 5: DIVORCE
+EXHIBIT 5H—Affidavit Disclosing Care or Custody Proceeding
+156 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 157 CHAPTER 5: DIVORCE
+158 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5I—Parent Education Programs
+Court-approved programs across the state, listed by county
+BARNSTABLE
+“Set a Good Example” (SAGE)
+206 Breeds Hill Road, Hyannis, MA
+508-775-0275
+Contact: Donna Davis
+For the Sake of the Children
+Center for Families in Transition
+Sandwich Library
+142 Main Street, Sandwich, MA
+857-373-9011
+Contact: Robin Zucker
+http://www.cftclass.org or
+parentclass@yahoo.com
+BERKSHIRE
+Families in Transition
+Brien Center for Mental Health and
+Substance Abuse Services
+333 East Street, Pittsfield, MA
+413-629-1185
+Contact: Heather Blanchard
+BRISTOL
+Family Service Association
+Parents Forever
+25 Forest Street, Attleboro, MA
+508-677-3822
+Contact: Sue Roque
+https://www.frfsa.org
+Family Service Association
+Parents Forever
+101 Rock Street, Fall River, MA
+508-677-3822
+Contact: Sue Roque
+https://www.frfsa.org
+Family Service Association
+Parents Forever
+UMASS Dartmouth, Main Building
+285 Old Westport Road
+North Dartmouth, MA
+508-677-3822
+Contact: Sue Roque
+http://www.frfsa.org
+Family Service Association
+Parents Forever
+Silver City Mall, Community Room
+2 Galleria Mall Drive, Taunton, MA
+508-677-3822
+Contact: Sue Roque
+http://www.frfsa.org
+Family Service Association
+Parents Forever
+Southeastern Regional Vocational
+Technical High School
+250 Foundry Street,
+South Easton, MA
+508-677-3822
+Contact: Sue Roque
+http://www.frfsa.org
+ESSEX
+Divorce Workshops, LLC
+Divorce and Its Impact on
+Children’s Development
+10 Church St, Lynn, MA
+978-907-3084
+Contact: Dina Guay
+http://www.divorceworkshops.org
+Divorce Workshops, LLC
+Divorce and Its Impact on
+Children’s Development
+385 Essex St
+Salem, MA
+978-907-3084
+Contact: Dina Guay
+http://www.divorceworkshops.org
+Parent Education and Custody
+Effectiveness (PEACE)
+North Shore Counseling Center
+900 Cummings Center, Suite 324-S
+Beverly, MA
+978-922-2280
+Contact: Reception Desk
+Lynn Huber, LICSW
+Program Director for Parent
+Education
+http://www.nscc-inc.com
+Family Healthy Choices
+Parenting Education
+Peabody Inst. Library (Danvers
+Town Library), Gordon Room
+15 Sylvan Street, Danvers, MA
+978-887-6342
+Contact: Jill Levine
+http://www.familyhealthychoices.org
+Putting Children First
+Family Service of Merrimack
+Valley
+Merrimack College (McQuade
+Library)
+North Andover, MA
+978-327-6650
+Contact: Rosey Gonzalez
+http://www.fsmv.org
+Family Healthy Choices
+Parenting Education
+Newburyport High School,
+Classroom 310
+214 High Street, Newburyport, MA
+978-887-6342
+Contact: Jill Levine
+http://www.familyhealthychoices.org
+Positive Co-Parenting in Difficult
+Times
+Psychotherapy Associates of North
+Reading
+Northern Essex Community
+College
+100 Elliot Street, Haverhill, MA
+978-664-2566, ext. 5
+Contact: Dr. Donna Whipple
+http://www.panr.net
+Reducing the Effects of Divorce
+(Spanish & English)
+CO-PE trainings
+Cambridge College
+280 Merrimack Street
+Entrance North B, 5th Floor,
+Suite 502, Lawrence, MA 01843
+978-266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 159 CHAPTER 5: DIVORCE
+FRANKLIN
+Families in Transition (FIT)
+Franklin County Bar Association
+Franklin Medical Center
+164 High Street, Greenfield, MA
+413-773-9839
+Contact: Christine Baronas
+http://www.franklincountybar.org
+HAMPDEN
+Parent Education Program
+Behavioral Health Network
+Agawam Counseling Center
+30 Southwick Street
+Feeding Hills, Agawam, MA
+413-786-6410
+Contact: Coordinator
+Parent Education Program
+Behavioral Health Network
+Child Guidance Clinic
+110 Maple Street, Springfield, MA
+413-732-7419
+Contact: Coordinator
+Parents and Children in Divorce
+West Springfield Center
+246 Park Street,
+West Springfield, MA
+413-737-4718
+Contact: John Maloney
+http://www.chd.org
+Parents and Children in Divorce
+Baystate Health
+3300 Main Street, Springfield, MA
+413-737-4718
+Contact: John Maloney
+http://www.chd.org
+HAMPSHIRE
+Parents and Children in
+Transition (PACT)
+Hampshire County Bar Association
+15 Gothic Street, Northampton, MA
+413-586-4597
+Contact: Rebecca Ryan
+http://www.hampshirebar.org
+CHD’s Parents and Children in
+Divorce Program (PACD)
+offered bi-monthly at Mary Lane
+Hospital
+85 South Street, Ware, MA
+413-737-4718
+Contact: John Maloney
+http://www.chd.org
+MIDDLESEX
+Divorce Workshops, LLC
+Divorce and Its Impact on
+Children’s Development
+7 Concord Rd, Billerica, MA
+978-907-3084
+Contact: Dina Guay
+http://www.divorceworkshops.org
+Divorce Workshops, LLC
+Divorce and Its Impact on
+Children’s Development
+15 Mammoth Rd, Lowell, MA
+978-907-3084
+Contact: Dina Guay
+http://www.divorceworkshops.org
+Divorce Workshops, LLC
+Divorce and Its Impact on
+Children’s Development
+355 Franklin St, Melrose, MA
+978-907-3084
+Contact: Dina Guay
+http://www.divorceworkshops.org
+For the Sake of the Children
+Center for Families in Transition
+Cambridge College
+1000 Mass Avenue, Cambridge, MA
+857-373-9011
+Contact: Robin Zucker
+http://www.cftclass.org or
+parentclass@yahoo.com
+Moving Forward
+Life Transitions, Inc.
+All Saints Episcopal Church
+10 Billerica Road, Chelmsford, MA
+978-649-6255
+Contact: Robert Di Meo
+http://www.lifetransitionsinc.net
+Consider the Children
+Divorce Education, Inc.
+Mass Bay Community College
+19 Flagg Drive, Framingham, MA
+508-435-4745
+Contact: Diane Ferkler or Samuel
+Chiancola
+Parents Apart
+Lexington Institute, Inc.
+3 Militia Drive, Lexington, MA
+781-860-0600
+Contact: Dr. Paul Bombara
+Parents Forever
+Avidia Bank
+17 Pope Street, Hudson, MA 01749
+508-798-6699
+Contact: Karen Feeney
+Moving Forward
+Life Transitions, Inc.
+First Baptist Church
+461 King Street, Littleton, MA
+978-649-6255
+Contact: Robert Di Meo
+http://www.lifetransitionsinc.net
+Consider the Children
+Divorce Education, Inc.
+Marlborough High School
+431 Bolton Street, Marlborough, MA
+508-435-4745
+Contact: Diane Ferkler or Samuel
+Chiancola
+Positive Co-Parenting in Difficult
+Times
+Psychotherapy Assoc. Of North
+Reading
+Medford High School
+489 Winthrop Street, Medford, MA
+978-664-2566 ext. 5
+Contact: Dr. Donna Whipple
+http://www.panr.net
+Positive Co-Parenting in Difficult
+Times
+Psychotherapy Assoc. of North
+Reading
+E. Little School
+7 Barberry Lane, North Reading, MA
+978-664-2566 ext. 5
+Contact: Dr. Donna Whipple
+http://www.panr.net
+160 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Parents Apart
+Divorce Center, Inc.
+Brandeis University
+Olin-Sang Bldg., Classroom 124,
+415 South Street, Waltham, MA
+888-434-8787
+Contact: Coordinator
+http://www.thedivorcecenter.org
+Families Divided
+DivorceStep
+Watertown High School
+50 Columbia Street, Watertown, MA
+978-443-3262
+Contact: Michele Diamond
+http://www.divorcestep.com
+Families Divided
+DivorceStep
+First Parish Church
+349 Boston Post Road, Weston, MA
+978-443-3262
+Contact: Michele Diamond
+http://www.divorcestep.com
+NORFOLK
+Parents Apart
+Braintree/Canton
+The Divorce Center, Inc.
+Massasoit Community College—
+Canton Campus, Classroom 301
+900 Randolph Street, Canton MA
+Contact: Coordinator,
+(508) 446-4134, or
+Toll-free: (888) 434-8787
+Monday evenings, 6:45 to 9:15 p.m.
+Online registration available at
+http://www.thedivorcecenter.org
+For the Sake of the Children
+Center for Families in Transition
+Brookline PDHQ
+350 Washington Street
+Brookline, MA
+857-373-9011
+Contact: Robin Zucker
+http://www.cftclass.org or
+parentclass@yahoo.com
+Focusing on our Children
+Divorce Education Services
+Dedham Community House
+671 High Street, Dedham, MA
+781-237-5064
+Contact: Ann Steele
+http://www.divorceeducationservic
+es.com
+Parents Apart
+Mass Bay Counseling
+Quincy High School
+52 Coddington Street, Quincy, MA
+617-786-3027
+Contact: Mass Bay Counseling
+The Door is Open Counseling
+Center
+1245 Hancock Street # 25
+Quincy, MA
+781-925-3500
+Contact: Ashleigh Miller
+http://www.doorisopen.net
+PLYMOUTH
+Parents Apart
+Mass Bay Counseling
+Massasoit Community College
+1 Massasoit Avenue, Brockton, MA
+617-786-3027
+Contact: Mass Bay Counseling
+Parents Apart
+Marvista Psychological Associates
+South Shore Vocational High School
+Hanover, MA
+781-383-0860
+Contact: Selma Ingber or Charles
+Mundhenk
+The Door is Open Counseling
+Center
+485 Nantasket Avenue, Unit C
+Hull, MA
+781-925-3500
+Contact: Ashleigh Miller
+Family Service Association—
+Parents Forever
+Stop & Shop Community Room
+Cranberry Plaza Shopping Center
+2991 Cranberry Highway
+East Wareham, MA
+508-677-3822
+Contact: Sue Roque
+http://www.frfsa.org
+SUFFOLK
+Family Healthy Choices
+Parenting Education
+Massachusetts General Hospital
+Yawkey Building, Suite 4A
+Boston, MA
+978-887-6342
+Contact: Jill Levine
+http://www.familyhealthychoices.org
+Family Healthy Choices
+Parenting Education
+Tufts Medical Center
+Stearns Auditorium
+800 Washington Street, 1st floor
+Boston, MA
+978-887-6342
+Contact: Jill Levine
+http://www.familyhealthychoices.org
+Better Parent
+MWI
+10 Liberty Square, 4th Floor
+Boston, MA
+617-895-4028
+Contact: Josh Hoch
+http://www.better-parent.org
+Reducing the Effects of Divorce
+(Spanish & English)
+CO-PE trainings
+East Boston Social Center John
+Roch
+68 Central Square, East Boston, MA
+978-266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+WORCESTER
+Parents Forever
+Pilgrim Congregational Church
+26 West Street, Leominster, MA
+508-798-6699
+Contact: Karen Feeney
+http://www.eastpointservices.com
+Parents Forever
+Pakachoag Church
+203 Pakachoag Church, Auburn, MA
+508-798-6699
+Contact: Karen Feeney
+http://www.eastpointservices.com
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 161 CHAPTER 5: DIVORCE
+Parents Forever
+St. Mary’s School
+16 Summer Street, Shrewsbury, MA
+508-798-6699
+Contact: Karen Feeney
+http://www.eastpointservices.com
+Parents Apart
+Family Services of Central
+Massachusetts
+31 Harvard Street, Worcester, MA
+508-756-4646
+Contact: Intake Department
+http://www.fscm.org
+Consider the Children
+Divorce Education, Inc.
+Relationship Institute @
+6 Melville St., Worcester, MA
+508-435-4745 or 508-853-7373
+Contact: Diane Ferkler or Samuel
+Chiancola
+Reducing the Effects of Divorce
+(Spanish Only)
+CO-PE trainings
+Centro Tina Velazquez
+11 Sycamore Street, Worcester, MA
+978-266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+Reducing the Effects of Divorce
+CO-PE trainings
+Centro Tina Velazquez
+11 Sycamore Street, Worcester, MA
+978-243-3464
+Contact: Marta Medina
+http://www.copetrainings.com
+Reducing the Effects of Divorce
+CO-PE trainings
+Seven Hills Family Support Center
+1460 John Fitch Highway
+Fitchburg, MA
+978-266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+Reducing the Effects of Divorce
+CO-PE trainings
+Gardner 7th Day Adventist Church
+100 Colony Road, Westminster, MA
+978-266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+Consider the Children
+Divorce Education, Inc.
+Milford High School
+31 West Fountain Street
+Milford, MA
+508-435-4745 or 508-473-4674
+Contact: Diane Ferkler or Samuel
+Chiancola
+Parents Forever
+Blackstone Chamber of Commerce
+670 Linwood Ave. Bldg. A, Suite 5
+Whitinsville, MA 01588
+508-798-6699
+Contact: Karen Feeney
+Parents Apart
+Harrington Memorial Hospital
+Outpatient Behavioral Health
+29 Pine Street, Southbridge, MA
+508-765-9167
+Contact: Coordinator
+https://www.mass.gov
+Reducing the Effects of Divorce
+CO-PE Trainings
+Gardner 7 Day Adventist Church
+100 Colony Road, Gardner, MA
+(978) 266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+Reducing the Effects of Divorce
+CO-PE trainings
+First Parish Church of Berlin
+24 Central Street, Berlin, MA 01503
+978-266-0234
+Contact: Arthur Baxter
+http://www.copetrainings.com
+162 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5J—Plaintiff’s Pretrial Memorandum
+COMMONWEALTH OF MASSACHUSETTS
+THE TRIAL COURT
+PROBATE AND FAMILY COURT DEPARTMENT
+Suffolk Division Probate and Family Court Dept.
+Docket No. 00D0000
+[HUSBAND], )
+Plaintiff )
+v. )
+[WIFE], )
+Defendant )
+)
+)
+)
+)
+PLAINTIFF’S PRETRIAL MEMO
+I. Uncontested Facts
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. The parties were married on November 6, 2005 at Boston, Massachusetts.
+Plaintiff, Husband, resides at 75 Main Avenue, Dorchester, Massachusetts.
+Defendant, [WIFE], resides in the marital home at 2 South Street, Dorchester, Massachusetts.
+The parties have two adult children born of the marriage. The Plaintiff still financially assists one son when he can.
+The parties have one minor child, John, born August 21, 2006.
+The parties purchased the marital home at 2 South Street, Dorchester on July 14, 2005.
+The marital home is a three-family building. One apartment has six rooms, the second has three rooms, and the
+third (which the Defendant resides in ) consists of eight rooms.
+On or about January 1, 2014, the parties suffered an irretrievable breakdown of the marriage.
+On or about June 16, 2015, Plaintiff filed a Complaint for Divorce on the grounds of Irretrievable Breakdown.
+Defendant answered said Complaint also seeking a divorce on the grounds of Irretrievable Breakdown.
+On November 24, 2005, the parties entered an Agreement for Temporary Orders providing joint legal custody
+of John, primary physical with the wife, parenting time with the Father on Tuesday and Thursday evenings and
+every other weekend overnight visitation.
+Parenting time has not occurred according to this schedule.
+The November 24, 2015 agreement also provided that the husband pay $300 per week as child support and
+maintain life insurance for the benefit of the minor child and wife.
+Child support has been paid via wage assignment and the life insurance is maintained.
+The Husband has also maintained the family health insurance policy.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 163 CHAPTER 5: DIVORCE
+II. Contested Issues of Fact and Law
+1. Defendant’s income, from all sources.
+2. Defendant’s assets.
+3. Value of the realty.
+4. Value of the Defendant’s automobile, and the amount, if any, of the auto loan.
+5. Defendant’s ability to earn income.
+6. What a fair division of the marital property would be.
+7. What custody and parenting plan arrangement would serve the best interests of John.
+8. Whether either party should receive alimony from the other.
+III. Discovery Status
+Discovery has not been completed. Despite numerous promises to produce documents, Defendant still has not
+provided Plaintiff’s counsel with copies of savings and checking account documents or tax returns.
+IV. Financial Statements
+Plaintiff’s current financial statement is being filed with the court together with this Memorandum.
+V. Potential Witnesses
+1. [HUSBAND], Plaintiff
+2. [WIFE], Defendant
+3. Amy Smith, John’s fourth grade school teacher
+4. Holly Jones, tax preparer
+Plaintiff reserves the right to call additional witnesses, if necessary, during the course of trial with reasonable notice
+to opposing counsel.
+VI. Exhibits
+1. Defendant’s financial statements
+2. Tax returns of the parties
+3. Checking and Savings account statements of the Defendant
+Plaintiff reserves the right to introduce documents necessary to refresh a witness’ recollection or to impeach a
+witness if appropriate.
+VII. Depositions
+There are no depositions to introduce at trial in this matter.
+VIII. Stipulation of Current Values of All Realty and Personalty in Issue
+Plaintiff estimates the value of realty and personality as follows:
+164 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Property in Joint Names
+Real estate located at 2 South Street: $250,000 less $28,000 mortgage
+Property in [HUSBAND’S] Name
+Investments $2,400
+Stocks $2,000
+Bonds $4,600
+Life Insurance $ 907
+[HUSBAND’S] Pension from work: Value unknown
+Property in control or possession of [WIFE]
+Household goods and furniture in marital home $4,000 to $5,000
+[WIFE’S] motor vehicle $4,400
+[WIFE’S] Savings $47,000
+IX. Estimate of Trial Time
+Plaintiff’s counsel estimates that trial will take one day.
+X. G.L. c. 208, § 34 considerations
+A. Length of Marriage
+The parties have been married 30 years.
+B. Age and Health of Each Party
+[WIFE] is 47-years old. [WIFE] is in fair to poor health, stating she has high blood pressure, and diabetes.
+[HUSBAND] is 53-years old. [HUSBAND] is in good health but has minor health concerns such as cholesterol.
+C. Contribution or Dissipation of Each Party in Acquisition, Depreciation or Appreciation
+[HUSBAND] was the major financial contributor to the acquisition of marital assets. He performed all repairs,
+remodeling and upkeep of the marital property. [WIFE] put the money she received from an inheritance and her
+work into her own savings account. [HUSBAND’S] income was used for the payment of the mortgage and ordinary
+expenses.
+D. Ability of Each to Acquire Property in the Future
+Neither party is likely to acquire property in the future. [WIFE] inherited at least $5,000 from her mother and is
+unlikely to inherit anything else. [HUSBAND] is unlikely to have an inheritance.
+E. Education and Job Experience of Each Party
+[HUSBAND] currently works as a meter technician for Boston Water & Sewer. Prior to that he worked as a painter,
+mechanic and furniture refinisher.
+[WIFE] has been a homemaker. [WIFE] also has a secretarial position. At the time of the marriage, the wife had
+experience as a nursing assistant. [WIFE] graduated from High School and has attended classes at the local
+Community College.
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 165 CHAPTER 5: DIVORCE
+F. Needs of Each Party
+Both parties had a lower–middle-income lifestyle while married. [HUSBAND] earns approximately $50,000 per
+year and has limited income. [WIFE] collects almost $50,000 per year in salary and rental income. In addition,
+[WIFE] is receiving interest income from the money she inherited. When living together, the parties were able to
+budget and live a modest lifestyle.
+Respectfully submitted,
+[HUSBAND]
+[ADDRESS]
+[PHONE]
+Date:
+166 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5K—Motion for State Payment of Fees and Costs
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 167 CHAPTER 5: DIVORCE
+EXHIBIT 5L—Financial Statement (Short Form)
+168 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 169 CHAPTER 5: DIVORCE
+170 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 171 CHAPTER 5: DIVORCE
+EXHIBIT 5M—Financial Statement (Long Form)
+172 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 173 CHAPTER 5: DIVORCE
+174 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 175 CHAPTER 5: DIVORCE
+176 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 177 CHAPTER 5: DIVORCE
+178 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 179 CHAPTER 5: DIVORCE
+180 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5N—Qualified Domestic Relations Order
+COMMONWEALTH OF MASSACHUSETTS
+THE TRIAL COURT
+PROBATE AND FAMILY COURT DEPARTMENT
+Suffolk Division Probate and Family Court Dept.
+Docket No. 00D0000
+I. [HUSBAND], )
+Plaintiff )
+v. )
+[WIFE], )
+Defendant )
+)
+)
+)
+) _____
+QUALIFIED DOMESTIC RELATIONS ORDER
+As a part of the final Judgment in this matter, pursuant to G.L. c. 208, § 34, governing the division of marital
+property between spouses and from spouses in divorce actions, and in conformance with I.R.C. § 414(p), it is hereby
+ordered as follows:
+For purposes of this Order, the following terms shall have the following meanings:
+A. “Retirement Plan” shall refer to the ABC Co. Pension Plan.
+B. “Plan Administrator” shall refer to the Benefits Committee as defined in said Retirement Plan.
+C. “Participant” shall refer to [HUSBAND], [ADDRESS], [SOCIAL SECURITY NUMBER], [DATE OF
+BIRTH].
+BIRTH].
+“Alternate Payee’s Account” shall refer to the separate account to be established and administered for the
+Alternate Payee pursuant to Paragraph 3 of this Order.
+The Plan Administrator is advised that the Alternate Payee and the Participant have agreed on allocating the
+account of the Participant under the Retirement Plan as of the date of divorce.
+The Plan Administrator shall forthwith establish a separate account under the Retirement Plan for the Alternate
+Payee (the “Alternate Payee’s Account”), to be administered as the account of a participant in the Retirement
+Plan, in accordance with the provisions thereof. The initial balance in the Alternate Payee’s Account shall be
+50 percent of the amount in the account of the Participant on the date of the divorce. From and after the
+establishment of the Alternate Payee’s Account, the Alternate Payee’s Account shall be administered under the
+Retirement Plan as an account separate and distinct from the Participant’s account thereunder. All payments to
+be made to the Alternate Payee under the terms of this Order and under the provisions of the Retirement Plan
+shall be made only from the Alternate Payee’s Account and only as otherwise permitted under the provisions
+of the Retirement Plan.
+After the date of this Order, with respect to the Alternate Payee’s Account in the Retirement Plan created and
+recognized in Paragraph 3 above, the Alternate Payee shall have the sole and exclusive right
+D. “Alternate Payee” shall refer to [WIFE], [ADDRESS], [SOCIAL SECURITY NUMBER], [DATE OF
+E. II. III. IV. Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 181 CHAPTER 5: DIVORCE
+V. VI. VII. • to direct the investment of her account among such investment options as may be available under the
+Retirement Plan;
+• to commence receiving her benefit under the Retirement Plan on or after the earliest date on which the
+Participant is, becomes, or would have become eligible to commence receiving his benefit under the
+Retirement Plan;
+• to elect to receive her benefit in a lump sum or in any optional form of annuity which is available under the
+Retirement Plan, or any other optional form as the Plan Administrator may permit, provided that the
+amount of benefit payable under such optional form shall be actuarially equivalent to the balance in the
+Alternate Payee’s Account as of the date of commencement of such benefits; and
+• to designate the beneficiary of her choice for her death benefit if she should elect an optional form of
+annuity which provides a death benefit (other than a subsequent spouse of the Alternate Payee), without
+regard to any beneficiary designation made by the Participant with respect to his benefit under the
+Retirement Plan.
+Pursuant to I.R.C. § 414(p)(3) and except as provided by I.R.C. § 414(p)(3), nothing in this Order shall be
+construed to require the Retirement Plan or Plan Administrator
+• to provide the Alternate Payee any type or form of benefit or any option not otherwise provided under the
+Retirement Plan;
+• to provide to the Alternate Payee increased benefits (determined on the basis of actuarial value); or
+• to pay any benefits to the Alternate Payee which are required to be paid to another alternate payee under
+another order previously determined to be a Qualified Domestic Relations Order.
+This order is intended to be a Qualified Domestic Relations Order made pursuant to the Retirement Equity Act
+of 1984, Pub. L. No. 98-397 (codified at 26 U.S.C. § 417), and the provisions herein shall be administered and
+interpreted in conformity with that Act.
+The Court retains jurisdiction over this matter to amend this Order to establish or maintain its status as a
+Qualified Domestic Relations Order under the Retirement Equity Act of 1984, 26 U.S.C. § 417.
+So Ordered,
+Justice of the Probate and Family Court
+Date:
+182 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5O—Blank Motion Form
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 183 CHAPTER 5: DIVORCE
+184 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018CHAPTER 5: DIVORCE 
+EXHIBIT 5P—Court Order for Costs and Fees (G.L. c. 261,
+§ 27A et seq.)
+Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018 185 CHAPTER 5: DIVORCE
+186 Family Law Advocacy for Low and Moderate Income Litigants, 3rd Edition 2018

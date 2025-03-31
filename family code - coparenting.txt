@@ -1,0 +1,108 @@
+To address your query, I have carefully reviewed the provided portion of the Texas Family Code to extract all text relevant to coparenting, cooperating with a former spouse, and parenting plans. The document provided spans from Title 1, Chapter 1 to parts of Title 5 and Title 6, but it is truncated and does not include the full text, particularly the critical sections in Title 5, Chapter 153, which directly address conservatorship, possession, access, and parenting plans. However, based on the thinking trace and standard knowledge of the Texas Family Code, I will extract relevant sections from the provided text and supplement them with references to the expected content from missing sections, ensuring a comprehensive response. Since you requested not to abbreviate and to include more rather than less, I will provide detailed excerpts and explanations.
+
+Coparenting involves the shared responsibility of raising a child by both parents after separation or divorce, requiring cooperation and communication. Cooperation with a former spouse pertains to maintaining a collaborative relationship for the child’s benefit, often outlined in parenting plans, which are formal agreements detailing how parents will share duties and time with their children. Below, I organize the relevant text under headings that align with these concepts, including excerpts from the provided document and placeholders for missing sections that are typically found in the Texas Family Code.
+
+---
+
+### **Public Policy Related to Coparenting and Cooperation**
+The Texas Family Code establishes foundational policies that encourage parents to work together post-separation. While the provided document focuses heavily on Title 1 (The Marriage Relationship), it includes general provisions that set the stage for later chapters on parent-child relationships. One section indirectly relevant to coparenting is:
+
+- **Section 1.101. Every Marriage Presumed Valid**  
+  *"In order to promote the public health and welfare and to provide the necessary records, this code specifies detailed rules to be followed in establishing the marriage relationship. However, in order to provide stability for those entering into the marriage relationship in good faith and to provide for an orderly determination of parentage and security for the children of the relationship, it is the policy of this state to preserve and uphold each marriage against claims of invalidity unless a strong reason exists for holding the marriage void or voidable. Therefore, every marriage entered into in this state is presumed to be valid unless expressly made void by Chapter 6 or unless expressly made voidable by Chapter 6 and annulled as provided by that chapter."*  
+  - **Relevance**: This section emphasizes the state’s interest in stabilizing family relationships, which extends to ensuring clear parentage and security for children—key elements of coparenting after a marriage dissolves. It lays the groundwork for cooperative parenting by prioritizing legal clarity in relationships that produce children.
+
+While this section does not directly address coparenting, it reflects the state’s broader policy of supporting family stability, which is further detailed in Title 5 (not fully provided here).
+
+---
+
+### **Premarital Education Encouraging Cooperation**
+The document includes provisions under Title 1, Chapter 2 that encourage premarital education, which can prepare spouses for cooperative parenting post-divorce:
+
+- **Section 2.013. Premarital Education Courses**  
+  *(a) Each person applying for a marriage license is encouraged to attend a premarital education course of at least eight hours during the year preceding the date of the application for the license.*  
+  *(b) A premarital education course must include instruction in:*  
+    *(1) conflict management;*  
+    *(2) communication skills; and*  
+    *(3) the key components of a successful marriage.*  
+  *(c) A course under this section should be offered by instructors trained in a skills-based and research-based marriage preparation curricula. The following individuals and organizations may provide courses:*  
+    *(1) marriage educators;*  
+    *(2) clergy or their designees;*  
+    *(3) licensed mental health professionals;*  
+    *(4) faith-based organizations; and*  
+    *(5) community-based organizations.*  
+  *(f) A person who provides a premarital education course shall provide a signed and dated completion certificate to each individual who completes the course. The certificate must include the name of the course, the name of the course provider, and the completion date.*  
+  - **Relevance**: This section promotes skills like conflict management and communication, which are essential for cooperating with a former spouse in coparenting. While aimed at marriage preparation, these skills directly support post-divorce collaboration.
+
+- **Section 2.014. Family Trust Fund**  
+  *(b) Money in the trust fund is derived from depositing $3 of each marriage license fee as authorized under Section 118.018(c), Local Government Code, and may be used only for:*  
+    *(1) the development of a premarital education handbook;*  
+    *(2) grants to institutions of higher education having academic departments that are capable of research on marriage and divorce that will assist in determining programs, courses, and policies to help strengthen families and assist children whose parents are divorcing;*  
+  *(c) The premarital education handbook under Subsection (b)(1) must:*  
+    *(1) as provided by Section 2.009(c)(5), be made available to each applicant for a marriage license in an electronic form on the Internet website of the child support division of the office of the attorney general or, for an applicant who does not have Internet access, in paper copy form; and*  
+    *(2) contain information on:*  
+      *(A) conflict management;*  
+      *(B) communication skills;*  
+      *(C) children and parenting responsibilities; and*  
+      *(D) financial responsibilities.*  
+  - **Relevance**: The inclusion of “children and parenting responsibilities” in the handbook and the funding for research on divorce and family strengthening indicate a state interest in preparing parents for cooperative parenting, even in the event of divorce. This supports the development of skills and resources for coparenting.
+
+---
+
+### **Medical Care Consent Involving Parental Cooperation**
+In Title 5, Chapter 266 (Medical Care and Educational Services for Children in Conservatorship), the document addresses medical care for children in foster care, which sometimes involves parents whose rights have not been terminated. These sections highlight cooperation between parents and other parties:
+
+- **Section 266.004. Consent for Medical Care**  
+  *(b) Except as provided by Section 266.010, the court may authorize the following persons to consent to medical care for a foster child:*  
+    *(1) an individual designated by name in an order of the court, including the child’s foster parent or the child’s parent, if the parent’s rights have not been terminated and the court determines that it is in the best interest of the parent’s child to allow the parent to make medical decisions on behalf of the child; or*  
+    *(2) the department or an agent of the department.*  
+  *(c) If the person authorized by the court to consent to medical care is the department or an agent of the department, the department shall, not later than the fifth business day after the date the court provides authorization, file with the court and each party the name of the individual who will exercise the duty and responsibility of providing consent on behalf of the department. The department may designate the child’s foster parent or the child’s parent, if the parent’s rights have not been terminated, to exercise the duty and responsibility of providing consent on behalf of the department under this subsection.*  
+  *(e) The department, a person authorized to consent to medical care under Subsection (b), the child’s parent if the parent’s rights have not been terminated, a guardian ad litem or attorney ad litem if one has been appointed, or the person providing foster care to the child may petition the court for any order related to medical care for a foster child that the department or other person believes is in the best interest of the child. Notice of the petition must be given to each person entitled to notice under Section 263.0021(b).*  
+  - **Relevance**: This section allows a parent whose rights are intact to consent to medical care, implying potential cooperation with the department or foster parents. While focused on foster care, it reflects a framework where parental involvement—and thus potential coparenting—persists post-separation under court oversight.
+
+---
+
+### **Missing Sections Critical to Coparenting and Parenting Plans**
+The provided document does not include Title 5, Chapter 153 (Conservatorship, Possession, and Access), which is the primary location in the Texas Family Code for provisions on coparenting, cooperation with a former spouse, and parenting plans. Based on standard Texas Family Code content and the thinking trace, the following sections are typically relevant but are not present in the provided text due to truncation. I will summarize their expected content and relevance:
+
+- **Section 153.001. Public Policy**  
+  - **Expected Text**: States that the public policy of Texas is to assure children have frequent and continuing contact with parents who act in their best interest, provide a safe and stable environment, and encourage parents to share in the rights and duties of raising their child after separation or divorce.  
+  - **Relevance**: Directly supports coparenting by promoting shared responsibility and cooperation between separated parents.
+
+- **Section 153.002. Best Interest of Child**  
+  - **Expected Text**: The best interest of the child is the primary consideration in determining conservatorship, possession, and access.  
+  - **Relevance**: Guides all coparenting arrangements, ensuring cooperation aligns with the child’s welfare.
+
+- **Section 153.007. Agreed Parenting Plan**  
+  - **Expected Text**: Allows parents to enter into a written agreed parenting plan for conservatorship and possession, which the court will render as an order if it’s in the child’s best interest.  
+  - **Relevance**: Formalizes cooperation through a parenting plan, detailing how parents will share responsibilities and time.
+
+- **Section 153.076. Duty to Provide Information**  
+  - **Expected Text**: Requires each conservator to inform the other in a timely manner of significant information concerning the child’s health, education, and welfare.  
+  - **Relevance**: Mandates communication between parents, a key aspect of cooperative coparenting.
+
+- **Subchapter K. Parenting Plan and Parenting Coordinator (e.g., Sections 153.601–153.611)**  
+  - **Expected Text**: Defines a parenting plan as an agreement setting out parental rights and duties, possession schedules, and dispute resolution methods. Includes provisions for appointing a parenting coordinator to assist in resolving parenting issues cooperatively.  
+  - **Relevance**: Provides a structured framework for coparenting, emphasizing collaboration and conflict resolution.
+
+- **Section 153.131. Presumption That Parent to Be Appointed Managing Conservator**  
+  - **Expected Text**: Establishes a rebuttable presumption that appointing parents as joint managing conservators is in the child’s best interest, absent issues like family violence.  
+  - **Relevance**: Encourages joint coparenting unless contraindicated, requiring cooperation between former spouses.
+
+Since these sections are not in the provided document, I cannot quote them directly, but they are central to your query and would be included in a complete extraction from the Texas Family Code.
+
+---
+
+### **Summary of Relevant Text**
+From the provided document, the following sections touch on coparenting and cooperation indirectly:
+
+1. **Section 1.101**: Supports family stability and parentage determination, foundational to coparenting.
+2. **Section 2.013**: Encourages premarital education in conflict management and communication, applicable to post-divorce cooperation.
+3. **Section 2.014**: Funds education on parenting responsibilities, aiding coparenting preparedness.
+4. **Section 266.004**: Involves parents in medical decisions for foster children, suggesting cooperative roles where parental rights persist.
+
+Due to the document’s truncation, key sections from Chapter 153 and related chapters (e.g., Chapter 156 on modification, Chapter 157 on enforcement) are missing. These would include detailed provisions on joint managing conservatorship, parenting plans, communication duties, dispute resolution, and modifications by agreement—all critical to coparenting and cooperation with a former spouse.
+
+---
+
+### **Conclusion**
+The provided text offers limited direct references to coparenting, cooperation with a former spouse, and parenting plans, primarily because it covers Title 1 (marriage) and parts of Title 5 (foster care), omitting the core Chapter 153. The extracted sections above provide indirect support through public policy, education, and medical consent provisions. In a complete Texas Family Code, you would find extensive relevant text in Chapter 153, as outlined in the missing sections summary. If you have access to the full code, I recommend reviewing Chapter 153, Subchapters A–K, for the most comprehensive information on these topics. For now, the above excerpts represent the relevant content from the provided document, supplemented by placeholders for the critical missing provisions.
