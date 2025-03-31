@@ -1,0 +1,1 @@
+anthropic flask sentence-transformers faiss-cpu numpy
