@@ -1,1 +1,6 @@
-anthropic flask sentence-transformers faiss-cpu numpy
+anthropic
+flask
+sentence-transformers
+faiss-cpu
+numpy
+gunicorn
