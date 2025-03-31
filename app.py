@@ -3,11 +3,11 @@ import anthropic
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
-from flask import Flask, request, render_template_string, session
+from flask import Flask, request, render_template_string, session, jsonify
 
 # Set up Flask app
 app = Flask(__name__)
-app.secret_key = os.getenv("FLASK_SECRET_KEY", "your-secret-key")  # Use a secure key in production
+app.secret_key = os.getenv("FLASK_SECRET_KEY", "your-secret-key")
 
 # Load your API key
 client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
@@ -63,7 +63,42 @@ def chat():
             return render_template_string(HTML_TEMPLATE, response="Please provide your family info first!", family_info=session.get("family_info"))
     return render_template_string(HTML_TEMPLATE, response="Hi! I’m Gentler Coparent (GCP). Please enter your family info to start.", family_info=session.get("family_info"))
 
-# Simple HTML template
+# New API endpoint for chat requests
+@app.route("/api/chat", methods=["POST"])
+def api_chat():
+    if not request.is_json:
+        return jsonify({"error": "Request must be JSON"}), 400
+
+    data = request.get_json()
+    system_prompt_input = data.get("systemPrompt")
+    messages = data.get("messages")
+    family_info = data.get("familyInfo")
+
+    if not system_prompt_input or not messages or not family_info:
+        return jsonify({"error": "Missing required fields: systemPrompt, messages, and familyInfo are required"}), 400
+
+    # Find relevant context using FAISS
+    query = messages[-1]["content"] if messages else ""
+    query_embedding = model.encode([query])
+    D, I = index.search(query_embedding, k=3)
+    context = "\n".join(chunks[I[0]])
+
+    # Combine system prompt with family info and context
+    full_system_prompt = f"{system_prompt}\n\nFamily Info: {family_info}\n\nRelevant Context: {context}"
+
+    try:
+        response = client.messages.create(
+            model="claude-3-7-sonnet-20250219",
+            max_tokens=500,
+            temperature=0.4,
+            system=full_system_prompt,
+            messages=messages
+        )
+        return jsonify({"text": response.content[0].text})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+# Simple HTML template (unchanged)
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
