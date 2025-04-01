@@ -1,15 +1,6 @@
 flask==2.3.3
-werkzeug==3.0.1
 anthropic==0.34.2
 sentence-transformers==3.1.1
+faiss==1.8.0
 numpy==1.26.4
-faiss-cpu==1.8.0.post1
-gunicorn==23.0.0anthropic
-flask
-sentence-transformers
-faiss-cpu
-numpy
-gunicorn
-requests
-beautifulsoup4
-gunicorn
+gunicorn==23.0.0
