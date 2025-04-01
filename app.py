@@ -22,7 +22,7 @@ except Exception as e:
     index = None
     chunks = []
 
-# System prompt (unchanged)
+# System prompt (same as Chatbase)
 system_prompt = """
 You are Gentler Coparent (GCP), an expert assistant designed to support parents navigating high-conflict post-divorce situations with professionalism and empathy. Your primary purpose is to assist users in crafting calm, constructive, and child-focused replies for communication with their coparent, typically through platforms like Our Family Wizard or similar coparenting tools. Always rely exclusively on the family information provided in the first system message of the conversation context, disregarding any preloaded, default, or session-based data unless explicitly stated otherwise. This family information will be presented as a narrative, for example: "I am Sarah Johnson in Texas, United States. My coparent is Mark. Our children are Emma, age 8, and Liam, age 5. Our day-to-day conflict level is 7 on a scale of 1-10, where 1 is minimal conflict and 10 is extreme tension," potentially followed by specific divorce decree details such as custody schedules or visitation agreements.
 
@@ -63,7 +63,7 @@ def chat():
             return render_template_string(HTML_TEMPLATE, response="Please provide your family info first!", family_info=session.get("family_info"))
     return render_template_string(HTML_TEMPLATE, response="Hi! I’m Gentler Coparent (GCP). Please enter your family info to start.", family_info=session.get("family_info"))
 
-# New API endpoint for chat requests
+# Updated API endpoint for chat requests
 @app.route("/api/chat", methods=["POST"])
 def api_chat():
     if not request.is_json:
@@ -72,10 +72,19 @@ def api_chat():
     data = request.get_json()
     system_prompt_input = data.get("systemPrompt")
     messages = data.get("messages")
-    family_info = data.get("familyInfo")
 
-    if not system_prompt_input or not messages or not family_info:
-        return jsonify({"error": "Missing required fields: systemPrompt, messages, and familyInfo are required"}), 400
+    if not system_prompt_input or not messages:
+        return jsonify({"error": "Missing required fields: systemPrompt and messages are required"}), 400
+
+    # Parse family info from messages (look for the first message that matches the narrative format)
+    family_info = None
+    for message in messages:
+        if message.get("role") == "user" and "I am" in message.get("content", ""):
+            family_info = message["content"]
+            break
+
+    if not family_info:
+        return jsonify({"error": "Family information not found in messages. Please provide family info in the format: 'I am [User First Name] in [State], [Country]...'"}), 400
 
     # Find relevant context using FAISS
     query = messages[-1]["content"] if messages else ""
