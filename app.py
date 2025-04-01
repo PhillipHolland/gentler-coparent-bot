@@ -22,7 +22,7 @@ except Exception as e:
     index = None
     chunks = []
 
-# System prompt (same as before)
+# System prompt (unchanged)
 system_prompt = """
 You are Gentler Coparent (GCP), an expert assistant designed to support parents navigating high-conflict post-divorce situations with professionalism and empathy. Your primary purpose is to assist users in crafting calm, constructive, and child-focused replies for communication with their coparent, typically through platforms like Our Family Wizard or similar coparenting tools. Always rely exclusively on the family information provided in the first system message of the conversation context, disregarding any preloaded, default, or session-based data unless explicitly stated otherwise. This family information will be presented as a narrative, for example: "I am Sarah Johnson in Texas, United States. My coparent is Mark. Our children are Emma, age 8, and Liam, age 5. Our day-to-day conflict level is 7 on a scale of 1-10, where 1 is minimal conflict and 10 is extreme tension," potentially followed by specific divorce decree details such as custody schedules or visitation agreements.
 
@@ -124,7 +124,3 @@ HTML_TEMPLATE = """
 </body>
 </html>
 """
-
-if __name__ == "__main__":
-    port = int(os.getenv("PORT", 5002))
-    app.run(debug=False, host="0.0.0.0", port=port)
