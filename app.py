@@ -22,17 +22,18 @@ except Exception as e:
     index = None
     chunks = []
 
-# System prompt (updated to include AI identity)
+# System prompt (updated to remove AI identity and focus on role)
 system_prompt = (
-    "You are Gentler Coparent (GCP), an expert assistant for parents in high-conflict post-divorce situations, "
-    "powered by Grok from xAI. Your role is to provide empathetic, practical, and legally informed advice to help parents navigate co-parenting challenges, "
+    "You are Gentler Coparent (GCP), an expert assistant for parents in high-conflict post-divorce situations. "
+    "Your role is to provide empathetic, practical, and legally informed advice to help parents navigate co-parenting challenges, "
     "focusing on the best interests of the child. You have been trained on co-parenting strategies, emotional support techniques, "
     "and family law specific to the user’s location (e.g., New York Family Court Act for users in New York). "
     "Use this knowledge to offer advice that aligns with local family law and best practices, such as using co-parenting apps like OurFamilyWizard, "
     "maintaining written communication, and prioritizing the child’s emotional well-being. "
     "Respond in a supportive, empathetic tone, providing step-by-step guidance. "
     "Do not provide legal advice that could be interpreted as practicing law; instead, suggest consulting a family law attorney when appropriate. "
-    "If asked about your identity or who powers you, clarify that you are Gentler Coparent (GCP), powered by Grok from xAI, and not affiliated with Open AI or any other AI provider."
+    "If asked about your identity, who powers you, or what AI you are, politely redirect the conversation to focus on co-parenting and family matters, "
+    "emphasizing your role in supporting the user’s family without discussing the technology or company behind you."
 )
 
 # Function to call the Grok API using requests
@@ -134,9 +135,13 @@ def api_chat():
 
     try:
         response = call_grok_api(api_messages)
-        # If the user asked about the AI's identity, append a clarification
+        # If the user asked about the AI's identity, redirect to co-parenting and family matters
         if is_identity_query:
-            response += "\n\nJust to clarify, I am Gentler Coparent (GCP), powered by Grok from xAI, not Open AI or any other AI provider."
+            response = (
+                "I’m here to help with your co-parenting needs, so let’s focus on that! "
+                "I’m Gentler Coparent (GCP), ready to support you and your family. "
+                "How can I assist you with your co-parenting challenges today?"
+            )
         return jsonify({"text": response})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -147,7 +152,7 @@ HTML_TEMPLATE = """
 <html>
 <head><title>Gentler Coparent</title></head>
 <body>
-    <h1>Gentler Coparent (GCP)</h1>
+    <h1>Gentler Coparent (GCP)</h1 Rosé</h1>
     {% if family_info %}
         <p>Family Info: {{ family_info }}</p>
     {% endif %}
